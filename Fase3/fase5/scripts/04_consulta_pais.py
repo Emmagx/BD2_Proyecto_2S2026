@@ -19,7 +19,7 @@ from pathlib import Path
 FASE3_DIR = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(FASE3_DIR))
 
-from lib.common import conectar_mongo, normalizar  # noqa: E402
+from lib.common import conectar_mongo, normalizar, normalizar_deporte  # noqa: E402
 
 MEDALLAS = {"oro": "ORO", "gold": "ORO", "plata": "PLATA", "silver": "PLATA", "bronce": "BRONCE", "bronze": "BRONCE", "ninguna": None, "no medal": None}
 
@@ -56,7 +56,9 @@ def buscar(db, texto: str):
     candidatos = list(db.paises.find({"nombreNormalizado": q}))
     if candidatos:
         return candidatos
-    candidatos = list(db.paises.find({"alias": q}))
+    candidatos = list(
+        db.paises.find({"$or": [{"aliasNormalizado": q}, {"alias": texto}]})
+    )
     if candidatos:
         return candidatos
     return list(db.paises.find({"nombreNormalizado": {"$regex": "^" + re.escape(q)}}).limit(10))
@@ -93,13 +95,53 @@ def main() -> int:
     if args.anio is not None:
         query["edicion.anio"] = args.anio
     if args.deporte:
-        query["deporte.nombre"] = {"$regex": re.escape(args.deporte), "$options": "i"}
+        query["deporte.nombre"] = {
+            "$regex": re.escape(normalizar_deporte(args.deporte)),
+            "$options": "i",
+        }
     if args.medalla:
         codigo = MEDALLAS.get(args.medalla.lower())
         if codigo is None:
             query["medalla"] = None
         else:
             query["medalla.codigo"] = codigo
+
+    match_medallas = {
+        "atletas.noc": doc["noc"],
+        "medalla.codigo": {"$ne": None},
+        "equipoMixto": False,
+    }
+    if args.anio is not None:
+        match_medallas["edicion.anio"] = args.anio
+    if args.deporte:
+        match_medallas["deporte.nombre"] = query["deporte.nombre"]
+    if args.medalla:
+        codigo_medalla = MEDALLAS.get(args.medalla.lower())
+        if codigo_medalla is None:
+            match_medallas["medalla.codigo"] = None
+        else:
+            match_medallas["medalla.codigo"] = codigo_medalla
+    medallas_anio = list(
+        db.resultados.aggregate(
+            [
+                {"$match": match_medallas},
+                {"$unwind": "$paises"},
+                {"$match": {"paises": doc["noc"]}},
+                {"$group": {"_id": {"anio": "$edicion.anio", "codigo": "$medalla.codigo"}, "n": {"$sum": 1}}},
+                {"$sort": {"_id.anio": 1}},
+            ],
+            allowDiskUse=True,
+        )
+    )
+    por_anio = {}
+    for m in medallas_anio:
+        fila = por_anio.setdefault(m["_id"]["anio"], {"oro": 0, "plata": 0, "bronce": 0})
+        clave = {"ORO": "oro", "PLATA": "plata", "BRONCE": "bronce"}.get(m["_id"]["codigo"])
+        if clave:
+            fila[clave] = m["n"]
+    medallas_por_anio = [
+        {"anio": a, **v, "total": sum(v.values())} for a, v in sorted(por_anio.items())
+    ]
 
     cursor = db.resultados.find(query).sort("edicion.anio", -1)
     if args.limite and args.limite > 0:
@@ -114,6 +156,7 @@ def main() -> int:
                 "resumen": doc.get("resumen", {}),
                 "filtros": {"deporte": args.deporte, "medalla": args.medalla, "anio": args.anio},
                 "total_filtrado": total_filtrado,
+                "medallas_por_anio": medallas_por_anio,
                 "resultados": resultados,
             },
             ensure_ascii=False, indent=2, default=str,
@@ -147,6 +190,16 @@ def main() -> int:
     if resumen.get("medallasAtleta"):
         ma = resumen["medallasAtleta"]
         print(f"             por atleta: Oro {ma.get('oro', 0)}, Plata {ma.get('plata', 0)}, Bronce {ma.get('bronce', 0)}")
+    if resumen.get("medallasMixtas", {}).get("total"):
+        mm = resumen["medallasMixtas"]
+        print(f"             equipos mixtos: Oro {mm.get('oro', 0)}, Plata {mm.get('plata', 0)}, Bronce {mm.get('bronce', 0)}")
+    if medallas_por_anio:
+        print("Medallas por año (una por país/equipo y resultado):")
+        filas_med = [
+            [m["anio"], m["oro"], m["plata"], m["bronce"], m["total"]]
+            for m in medallas_por_anio
+        ]
+        print(tabla(["Año", "Oro", "Plata", "Bronce", "Total"], filas_med))
     if args.deporte or args.medalla or args.anio is not None:
         print(f"Filtros    : deporte={args.deporte or '—'}, medalla={args.medalla or '—'}, anio={args.anio or '—'}")
         print(f"Resultados : {total_filtrado:,} coincidencias")

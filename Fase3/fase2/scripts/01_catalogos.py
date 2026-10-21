@@ -35,7 +35,15 @@ from lib.common import (  # noqa: E402
     psql_json,
 )
 
-ESPERADO = {"juego": 62, "deporte": 93, "disciplina": 1520, "evento": 1904, "medalla": 4}
+ESPERADO = {
+    "juego": 62,
+    "deporte": 93,
+    "disciplina": 1520,
+    "evento": 1904,
+    "medalla": 4,
+    "region_sin_pais": 14,
+    "ciudad_sin_pais": 20,
+}
 
 
 def main() -> int:
@@ -65,6 +73,16 @@ def main() -> int:
     medallas = psql_json(
         'SELECT json_build_object(\'id\',"ID",\'nombre\',"NOMBRE") '
         'FROM "MEDALLA" ORDER BY "ID";'
+    )
+    regiones_sin_pais = psql_json(
+        'SELECT json_build_object(\'id\',"ID",\'nombre\',"NOMBRE") '
+        'FROM "REGION" WHERE "ID_PAIS" IS NULL ORDER BY "ID";'
+    )
+    ciudades_sin_pais = psql_json(
+        'SELECT json_build_object(\'id\',c."ID",\'nombre\',c."NOMBRE",'
+        '\'lat\',c."LAT",\'long\',c."LONG",\'regionId\',c."ID_REGION") '
+        'FROM "CIUDAD" c LEFT JOIN "REGION" r ON r."ID" = c."ID_REGION" '
+        'WHERE c."ID_REGION" IS NULL OR r."ID_PAIS" IS NULL ORDER BY c."ID";'
     )
 
     documentos = []
@@ -145,8 +163,35 @@ def main() -> int:
             }
         )
 
-    if len(documentos) != 3583:
-        raise SystemExit(f"Se esperaban 3,583 catálogos y se construyeron {len(documentos)}")
+    for region in regiones_sin_pais:
+        documentos.append(
+            {
+                "_id": f"region_sin_pais:{region['id']}",
+                "tipo": "region_sin_pais",
+                "id": region["id"],
+                "nombre": region["nombre"],
+                "nombreNormalizado": normalizar(region["nombre"]),
+                "nota": "Región sin país en el dataset de origen",
+            }
+        )
+
+    for ciudad in ciudades_sin_pais:
+        documentos.append(
+            {
+                "_id": f"ciudad_sin_pais:{ciudad['id']}",
+                "tipo": "ciudad_sin_pais",
+                "id": ciudad["id"],
+                "nombre": ciudad["nombre"],
+                "nombreNormalizado": normalizar(ciudad["nombre"]),
+                "lat": ciudad.get("lat"),
+                "long": ciudad.get("long"),
+                "regionId": ciudad.get("regionId"),
+                "nota": "Ciudad sin región/país asignable en el dataset",
+            }
+        )
+
+    if len(documentos) != 3617:
+        raise SystemExit(f"Se esperaban 3,617 catálogos y se construyeron {len(documentos)}")
     conteos = Counter(d["tipo"] for d in documentos)
     for tipo, esperado in ESPERADO.items():
         if conteos[tipo] != esperado:

@@ -1,0 +1,128 @@
+{
+  "generado_en": "2026-10-21T00:20:54-06:00",
+  "indices": [
+    {
+      "coleccion": "atletas",
+      "nombre": "ix_atletas_nombre_norm",
+      "claves": {
+        "nombreNormalizado": 1
+      },
+      "opciones": {}
+    },
+    {
+      "coleccion": "atletas",
+      "nombre": "ix_atletas_pais_nac",
+      "claves": {
+        "lugarNacimiento.paisNoc": 1
+      },
+      "opciones": {}
+    },
+    {
+      "coleccion": "resultados",
+      "nombre": "ix_resultados_atleta_anio",
+      "claves": {
+        "atletas.id": 1,
+        "edicion.anio": -1
+      },
+      "opciones": {}
+    },
+    {
+      "coleccion": "resultados",
+      "nombre": "ix_resultados_pais_anio_medalla",
+      "claves": {
+        "atletas.noc": 1,
+        "edicion.anio": -1,
+        "medalla.codigo": 1
+      },
+      "opciones": {}
+    },
+    {
+      "coleccion": "resultados",
+      "nombre": "ix_resultados_anio_medalla",
+      "claves": {
+        "edicion.anio": 1,
+        "medalla.codigo": 1
+      },
+      "opciones": {}
+    },
+    {
+      "coleccion": "resultados",
+      "nombre": "ix_resultados_evento_anio",
+      "claves": {
+        "evento.id": 1,
+        "edicion.anio": 1
+      },
+      "opciones": {}
+    },
+    {
+      "coleccion": "resultados",
+      "nombre": "ix_resultados_deporte_anio",
+      "claves": {
+        "deporte.id": 1,
+        "edicion.anio": 1
+      },
+      "opciones": {}
+    },
+    {
+      "coleccion": "resultados",
+      "nombre": "ix_resultados_multipais_revisar",
+      "claves": {
+        "multipais": 1,
+        "revisar": 1
+      },
+      "opciones": {}
+    },
+    {
+      "coleccion": "paises",
+      "nombre": "ix_paises_noc",
+      "claves": {
+        "noc": 1
+      },
+      "opciones": {
+        "unique": true
+      }
+    },
+    {
+      "coleccion": "paises",
+      "nombre": "ix_paises_nombre_norm",
+      "claves": {
+        "nombreNormalizado": 1
+      },
+      "opciones": {}
+    },
+    {
+      "coleccion": "paises",
+      "nombre": "ix_paises_alias",
+      "claves": {
+        "aliasNormalizado": 1
+      },
+      "opciones": {}
+    },
+    {
+      "coleccion": "paises",
+      "nombre": "ix_paises_sedes_anio",
+      "claves": {
+        "sedes.anio": 1
+      },
+      "opciones": {}
+    },
+    {
+      "coleccion": "catalogos",
+      "nombre": "ix_catalogos_tipo_nombre",
+      "claves": {
+        "tipo": 1,
+        "nombreNormalizado": 1
+      },
+      "opciones": {}
+    },
+    {
+      "coleccion": "catalogos",
+      "nombre": "ix_catalogos_tipo_anio",
+      "claves": {
+        "tipo": 1,
+        "anio": 1
+      },
+      "opciones": {}
+    }
+  ]
+}

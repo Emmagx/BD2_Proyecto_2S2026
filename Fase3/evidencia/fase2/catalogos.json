@@ -1,12 +1,14 @@
 {
-  "generado_en": "2026-10-21T00:07:33-06:00",
-  "insertados": 3583,
+  "generado_en": "2026-10-21T00:20:07-06:00",
+  "insertados": 3617,
   "conteos": {
     "juego": 62,
     "deporte": 93,
     "disciplina": 1520,
     "evento": 1904,
-    "medalla": 4
+    "medalla": 4,
+    "region_sin_pais": 14,
+    "ciudad_sin_pais": 20
   },
   "muestra_juego": {
     "_id": "juego:1",

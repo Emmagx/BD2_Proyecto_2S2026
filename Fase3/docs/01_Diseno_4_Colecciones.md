@@ -41,8 +41,8 @@ Un documento por `RESULTADO`. La medalla vive una sola vez en el resultado.
 {
   "_id": 25,
   "edicion": { "id": 9, "anio": 1900, "temporada": "Summer", "categoria": "Senior" },
-  "deporte": { "id": 28, "nombre": "Tennis" },
-  "disciplina": { "id": 2, "nombre": "Tennis" },
+  "deporte": { "id": 1, "nombre": "Tennis" },
+  "disciplina": { "id": 2, "nombre": "Doubles" },
   "evento": { "id": 2, "nombre": "Doubles, Men (Olympic)" },
   "posicion": 3,
   "empate": true,
@@ -118,6 +118,7 @@ Reglas:
   "noc": "GUA",
   "nombreNormalizado": "guatemala",
   "alias": [],
+  "aliasNormalizado": [],
   "regiones": [
     {
       "id": 100,
@@ -145,7 +146,7 @@ Reglas:
 
 ---
 
-## 5. `catalogos` (3,583)
+## 5. `catalogos` (3,617)
 
 Una colección para los cinco catálogos. `_id` con prefijo para evitar choques:
 
@@ -153,18 +154,22 @@ Una colección para los cinco catálogos. `_id` con prefijo para evitar choques:
 { "_id": "juego:16", "tipo": "juego", "anio": 2012, "temporada": "Summer",
   "categoria": "Senior", "sedes": [{ "ciudad": "Londres", "paisNoc": "GBR" }] }
 
-{ "_id": "deporte:28", "tipo": "deporte", "nombre": "Tennis", "nombreNormalizado": "tennis" }
+{ "_id": "deporte:1", "tipo": "deporte", "nombre": "Tennis", "nombreNormalizado": "tennis" }
 
-{ "_id": "disciplina:2", "tipo": "disciplina", "nombre": "Tennis", "deporteId": 28 }
+{ "_id": "disciplina:2", "tipo": "disciplina", "nombre": "Doubles", "deporteId": 1 }
 
 { "_id": "evento:2", "tipo": "evento", "nombre": "Doubles, Men (Olympic)",
-  "nombreNormalizado": "doubles men olympic", "deporteId": 28, "disciplinaId": 2 }
+  "nombreNormalizado": "doubles men olympic", "deporteId": 1, "disciplinaId": 2 }
 
 { "_id": "medalla:2", "tipo": "medalla", "codigo": "BRONCE", "nombre": "Bronze" }
 ```
 
 Conteo: 62 juegos + 93 deportes + 1,520 disciplinas + 1,904 eventos + 4 medallas
-= **3,583**.
++ 14 regiones sin país + 20 ciudades sin país = **3,617**.
+
+Las regiones/ciudades que el dataset no puede asignar a un país no se
+inventan: se guardan en `catalogos` como `region_sin_pais` y
+`ciudad_sin_pais`.
 
 ---
 

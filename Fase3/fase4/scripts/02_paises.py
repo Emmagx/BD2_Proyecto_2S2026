@@ -27,6 +27,7 @@ from lib.common import (  # noqa: E402
     leer_alias,
     leer_dim_sedes,
     log,
+    normalizar,
     normalizar_con_fallback,
     preparar_coleccion,
     psql_json,
@@ -126,6 +127,9 @@ def main() -> int:
                 "nombreNormalizado": n["normalizado"],
                 "normalizado": n["ok"],
                 "alias": sorted(alias.get(p["noc"], [])),
+                "aliasNormalizado": sorted(
+                    {normalizar(a) for a in alias.get(p["noc"], [])}
+                ),
                 "regiones": regiones_por_pais.get(p["id"], []),
                 "poblacion": sorted(pob_por_pais.get(p["id"], []), key=lambda x: x["anio"]),
                 "sedes": sorted(sedes_por_noc.get(p["noc"], []), key=lambda x: x["anio"]),
@@ -237,6 +241,7 @@ def main() -> int:
 
     gua = db.paises.find_one({"noc": "GUA"}, {"nombre": 1, "resumen": 1, "sedes": 1})
     gre = db.paises.find_one({"noc": "GRE"}, {"nombre": 1, "resumen": 1, "sedes": 1})
+    sin_pais = db.catalogos.count_documents({"tipo": "ciudad_sin_pais"})
 
     evidencia(
         "fase4",
@@ -245,11 +250,15 @@ def main() -> int:
             "generado_en": ahora(),
             "insertados": insertados,
             "ciudades_sin_region": ciudades_sin_region,
+            "ciudades_sin_pais_en_catalogos": sin_pais,
             "guatemala": gua,
             "grecia": gre,
         },
     )
-    log(f"Países insertados: {insertados} | ciudades sin región: {ciudades_sin_region}")
+    log(
+        f"Países insertados: {insertados} | ciudades sin región: {ciudades_sin_region} | "
+        f"ciudades sin país en catalogos: {sin_pais}"
+    )
     log(f"Guatemala: {gua['resumen']}")
     return 0
 

@@ -1,0 +1,152 @@
+{
+  "generado_en": "2026-10-21T00:20:58-06:00",
+  "host": "Ema-Ubuntu",
+  "python": "3.10.12",
+  "mongo_uri": "mongodb://127.0.0.1:27017/?directConnection=true",
+  "mongo_db": "olimpiadas_mongo",
+  "conteos": {
+    "atletas": 145500,
+    "resultados": 156032,
+    "paises": 247,
+    "catalogos": 3617
+  },
+  "catalogos_por_tipo": {
+    "deporte": 93,
+    "ciudad_sin_pais": 20,
+    "juego": 62,
+    "medalla": 4,
+    "evento": 1904,
+    "disciplina": 1520,
+    "region_sin_pais": 14
+  },
+  "geografia": {
+    "regiones_en_paises": 2540,
+    "regiones_sin_pais": 14,
+    "ciudades_en_paises": 22353,
+    "ciudades_sin_pais": 20,
+    "poblacion_en_paises": 11136
+  },
+  "suma_atletas_resultados": 308238,
+  "atletas_con_participacion": 145262,
+  "multipais": 17308,
+  "multipais_empate": 9616,
+  "multipais_no_empate": 7692,
+  "revisar": 45,
+  "equipo_mixto": 264,
+  "medallas": {
+    "None": 135369,
+    "PLATA": 6880,
+    "BRONCE": 6830,
+    "ORO": 6953
+  },
+  "rendimiento_ms": {
+    "atleta": 1.486,
+    "pais": 1.322,
+    "detalle_pais_100": 4.377
+  },
+  "planes": {
+    "atleta_nombre": [
+      "FETCH",
+      "IXSCAN"
+    ],
+    "pais_noc": [
+      "FETCH",
+      "IXSCAN"
+    ],
+    "detalle_pais": [
+      "FETCH",
+      "IXSCAN"
+    ]
+  },
+  "phelps": {
+    "participaciones": 30,
+    "juegos": 5,
+    "anios": [
+      2000,
+      2004,
+      2008,
+      2012,
+      2016
+    ],
+    "deportes": [
+      "Swimming (Aquatics)"
+    ],
+    "medallas": {
+      "oro": 23,
+      "plata": 3,
+      "bronce": 2,
+      "total": 28
+    }
+  },
+  "guatemala": {
+    "participaciones": 463,
+    "atletas": 254,
+    "juegos": 18,
+    "anios": [
+      1952,
+      1968,
+      1972,
+      1976,
+      1980,
+      1984,
+      1988,
+      1992,
+      1996,
+      2000,
+      2004,
+      2008,
+      2010,
+      2012,
+      2014,
+      2016,
+      2020
+    ],
+    "deportes": [
+      "Alpine Skiing (Skiing)",
+      "Artistic Gymnastics (Gymnastics)",
+      "Athletics",
+      "Badminton",
+      "Boxing",
+      "Canoe Slalom (Canoeing)",
+      "Cross Country Skiing (Skiing)",
+      "Cycling Road (Cycling)",
+      "Cycling Track (Cycling)",
+      "Equestrian Eventing (Equestrian)",
+      "Equestrian Jumping (Equestrian)",
+      "Fencing",
+      "Football (Football)",
+      "Judo",
+      "Modern Pentathlon",
+      "Rowing",
+      "Sailing",
+      "Shooting",
+      "Swimming (Aquatics)",
+      "Taekwondo",
+      "Weightlifting",
+      "Wrestling"
+    ],
+    "medallas": {
+      "oro": 0,
+      "plata": 1,
+      "bronce": 0,
+      "total": 1
+    },
+    "medallasAtleta": {
+      "oro": 0,
+      "plata": 1,
+      "bronce": 0,
+      "total": 1
+    },
+    "medallasMixtas": {
+      "oro": 0,
+      "plata": 0,
+      "bronce": 0,
+      "total": 0
+    },
+    "primerAnio": 1952,
+    "ultimoAnio": 2020
+  },
+  "fallos": [],
+  "avisos": [],
+  "ok": true
+}

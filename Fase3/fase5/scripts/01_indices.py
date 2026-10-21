@@ -52,7 +52,7 @@ INDICES = [
     ),
     ("paises", [("noc", 1)], {"name": "ix_paises_noc", "unique": True}),
     ("paises", [("nombreNormalizado", 1)], {"name": "ix_paises_nombre_norm"}),
-    ("paises", [("alias", 1)], {"name": "ix_paises_alias"}),
+    ("paises", [("aliasNormalizado", 1)], {"name": "ix_paises_alias"}),
     ("paises", [("sedes.anio", 1)], {"name": "ix_paises_sedes_anio"}),
     (
         "catalogos",

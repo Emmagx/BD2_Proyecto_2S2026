@@ -103,8 +103,8 @@ def main() -> int:
                 "resumen": {
                     "participaciones": "$participaciones",
                     "juegos": {"$size": "$juegos"},
-                    "anios": "$anios",
-                    "deportes": "$deportes",
+                    "anios": {"$sortArray": {"input": "$anios", "sortBy": 1}},
+                    "deportes": {"$sortArray": {"input": "$deportes", "sortBy": 1}},
                     "medallas": {
                         "oro": "$oro",
                         "plata": "$plata",

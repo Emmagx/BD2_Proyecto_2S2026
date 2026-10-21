@@ -32,7 +32,7 @@ from lib.common import (  # noqa: E402
     log,
 )
 
-ESPERADO = {"atletas": 145_500, "resultados": 156_032, "paises": 247, "catalogos": 3_583}
+ESPERADO = {"atletas": 145_500, "resultados": 156_032, "paises": 247, "catalogos": 3_617}
 MEDALLAS = {"ORO": 6_953, "PLATA": 6_880, "BRONCE": 6_830, None: 135_369}
 
 
@@ -73,7 +73,15 @@ def main() -> int:
             fallos.append(f"{c}: {conteos[c]:,} (esperado {esperado:,})")
 
     tipos = {d["_id"]: d["n"] for d in db.catalogos.aggregate([{"$group": {"_id": "$tipo", "n": {"$sum": 1}}}])}
-    esperado_tipos = {"juego": 62, "deporte": 93, "disciplina": 1520, "evento": 1904, "medalla": 4}
+    esperado_tipos = {
+        "juego": 62,
+        "deporte": 93,
+        "disciplina": 1520,
+        "evento": 1904,
+        "medalla": 4,
+        "region_sin_pais": 14,
+        "ciudad_sin_pais": 20,
+    }
     for t, n in esperado_tipos.items():
         if tipos.get(t) != n:
             fallos.append(f"catalogos.{t}: {tipos.get(t)} (esperado {n})")
@@ -114,6 +122,29 @@ def main() -> int:
     eventos_resultados = set(db.resultados.distinct("evento.id"))
     if eventos_resultados - eventos_catalogo:
         fallos.append("Hay eventos de resultados sin documento en catalogos")
+
+    regiones_paises = sum(
+        len(p.get("regiones", [])) for p in db.paises.find({}, {"regiones": 1})
+    )
+    ciudades_paises = sum(
+        sum(len(r.get("ciudades", [])) for r in p.get("regiones", []))
+        for p in db.paises.find({}, {"regiones": 1})
+    )
+    sin_pais_ciudades = db.catalogos.count_documents({"tipo": "ciudad_sin_pais"})
+    sin_pais_regiones = db.catalogos.count_documents({"tipo": "region_sin_pais"})
+    poblacion_total = sum(
+        len(p.get("poblacion", [])) for p in db.paises.find({}, {"poblacion": 1})
+    )
+    if regiones_paises + sin_pais_regiones != 2_554:
+        fallos.append(
+            f"regiones: {regiones_paises}+{sin_pais_regiones} != 2,554"
+        )
+    if ciudades_paises + sin_pais_ciudades != 22_373:
+        fallos.append(
+            f"ciudades: {ciudades_paises}+{sin_pais_ciudades} != 22,373"
+        )
+    if poblacion_total != 11_136:
+        fallos.append(f"población: {poblacion_total:,} != 11,136")
 
     medallas = {}
     for f in db.resultados.aggregate([{"$group": {"_id": "$medalla.codigo", "n": {"$sum": 1}}}]):
@@ -169,6 +200,13 @@ def main() -> int:
         "mongo_db": MONGO_DB,
         "conteos": conteos,
         "catalogos_por_tipo": tipos,
+        "geografia": {
+            "regiones_en_paises": regiones_paises,
+            "regiones_sin_pais": sin_pais_regiones,
+            "ciudades_en_paises": ciudades_paises,
+            "ciudades_sin_pais": sin_pais_ciudades,
+            "poblacion_en_paises": poblacion_total,
+        },
         "suma_atletas_resultados": suma_atletas,
         "atletas_con_participacion": len(ids_en_resultados),
         "multipais": multipais,
@@ -207,6 +245,9 @@ def main() -> int:
     md.append("|---|---|")
     md.append(f"| Suma de `atletas[]` en resultados | {suma_atletas:,} |")
     md.append(f"| Atletas con participación | {len(ids_en_resultados):,} |")
+    md.append(f"| Regiones (países + catálogo) | {regiones_paises:,} + {sin_pais_regiones} |")
+    md.append(f"| Ciudades (países + catálogo) | {ciudades_paises:,} + {sin_pais_ciudades} |")
+    md.append(f"| Población en países | {poblacion_total:,} |")
     md.append(f"| Resultados multipaís | {multipais:,} (empates {empates:,}, no empates {no_empates:,}) |")
     md.append(f"| Marcados para revisar | {revisar:,} |")
     md.append(f"| Equipos mixtos | {mixtos:,} |")

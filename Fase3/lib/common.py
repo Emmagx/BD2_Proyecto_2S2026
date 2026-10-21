@@ -250,6 +250,42 @@ def leer_alias() -> dict[str, list[str]]:
     return salida
 
 
+DEPORTE_ALIAS = {
+    "atletismo": "athletics",
+    "natacion": "swimming",
+    "ciclismo": "cycling",
+    "gimnasia": "gymnastics",
+    "baloncesto": "basketball",
+    "futbol": "football",
+    "tenis": "tennis",
+    "boxeo": "boxing",
+    "lucha": "wrestling",
+    "remo": "rowing",
+    "vela": "sailing",
+    "tiro": "shooting",
+    "esgrima": "fencing",
+    "halterofilia": "weightlifting",
+    "badminton": "badminton",
+    "hockey": "hockey",
+    "voleibol": "volleyball",
+    "beisbol": "baseball",
+    "softbol": "softball",
+    "taekwondo": "taekwondo",
+    "judo": "judo",
+    "esqui": "skiing",
+    "patinaje": "skating",
+    "natacion sincronizada": "synchronized swimming",
+    "saltos": "diving",
+    "waterpolo": "water polo",
+}
+
+
+def normalizar_deporte(texto: str | None) -> str:
+    """Acepta el nombre del dataset o un alias común en español."""
+    t = normalizar(texto)
+    return DEPORTE_ALIAS.get(t, t)
+
+
 def codigo_medalla(nombre: str | None) -> str | None:
     if not nombre:
         return None

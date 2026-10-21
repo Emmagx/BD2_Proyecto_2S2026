@@ -1,0 +1,30 @@
+{
+  "generado_en": "2026-10-21T00:20:45-06:00",
+  "insertados": 145500,
+  "con_participaciones": 145262,
+  "sin_participaciones": 238,
+  "phelps": {
+    "_id": 93860,
+    "nombre": "Michael Phelps",
+    "resumen": {
+      "participaciones": 30,
+      "juegos": 5,
+      "anios": [
+        2000,
+        2004,
+        2008,
+        2012,
+        2016
+      ],
+      "deportes": [
+        "Swimming (Aquatics)"
+      ],
+      "medallas": {
+        "oro": 23,
+        "plata": 3,
+        "bronce": 2,
+        "total": 28
+      }
+    }
+  }
+}

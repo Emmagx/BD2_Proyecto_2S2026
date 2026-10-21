@@ -18,7 +18,7 @@ from pathlib import Path
 FASE3_DIR = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(FASE3_DIR))
 
-from lib.common import conectar_mongo, normalizar  # noqa: E402
+from lib.common import conectar_mongo, normalizar, normalizar_deporte  # noqa: E402
 
 MEDALLAS = {"oro": "ORO", "gold": "ORO", "plata": "PLATA", "silver": "PLATA", "bronce": "BRONCE", "bronze": "BRONCE", "ninguna": None, "no medal": None}
 
@@ -61,6 +61,14 @@ def main() -> int:
         ap.error("indique un nombre o use --id")
 
     _, db = conectar_mongo()
+    # Si --pais viene como nombre ("Estados Unidos"), resolverlo a NOC.
+    if args.pais:
+        qp = normalizar(args.pais)
+        pais_doc = db.paises.find_one(
+            {"$or": [{"noc": args.pais.upper()}, {"nombreNormalizado": qp}, {"aliasNormalizado": qp}]}
+        )
+        if pais_doc:
+            args.pais = pais_doc["noc"]
     if args.id:
         doc = db.atletas.find_one({"_id": args.id})
         candidatos = [doc] if doc else []
@@ -99,7 +107,7 @@ def main() -> int:
             atleta = next((a for a in r["atletas"] if a["id"] == doc["_id"]), None)
             if not atleta:
                 continue
-            if args.deporte and normalizar(args.deporte) not in normalizar(r["deporte"]["nombre"]):
+            if args.deporte and normalizar_deporte(args.deporte) not in normalizar(r["deporte"]["nombre"]):
                 continue
             if args.pais and normalizar(args.pais) not in normalizar(atleta.get("noc")):
                 continue
