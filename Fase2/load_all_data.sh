@@ -19,8 +19,8 @@ docker exec -i $CONTAINER_NAME psql -U $DB_USER -d $DB_NAME << 'EOF'
 \copy "EVENTO" FROM '/csv-limpios/9_EVENTO.csv' WITH (FORMAT csv, HEADER true);
 \copy "ATLETA" FROM '/csv-limpios/10_ATLETA.csv' WITH (FORMAT csv, HEADER true);
 \copy "CIUDAD_OLIMPIADA" FROM '/csv-limpios/11_CIUDAD_OLIMPIADA.csv' WITH (FORMAT csv, HEADER true);
---\copy "RESULTADO" FROM '/cargas/12_RESULTADO.csv' WITH (FORMAT csv, HEADER true);
---\copy "RESULTADO_ATLETA" FROM '/cargas/13_RESULTADO_ATLETA.csv' WITH (FORMAT csv, HEADER true);
+\copy "RESULTADO" FROM '/csv-limpios/12_RESULTADO.csv' WITH (FORMAT csv, HEADER true);
+\copy "RESULTADO_ATLETA" FROM '/csv-limpios/13_RESULTADO_ATLETA.csv' WITH (FORMAT csv, HEADER true);
 EOF
 
 echo "=== Carga finalizada con éxito ==="
