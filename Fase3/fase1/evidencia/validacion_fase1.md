@@ -1,6 +1,6 @@
 # Fase 1 - Validación y constancia de ejecución
 
-**Fecha y hora:** 2026-10-21T00:20:06-06:00  
+**Fecha y hora:** 2026-10-21T13:31:47-06:00  
 **Fuente:** pg  
 **Host:** `Ema-Ubuntu` · **Python:** 3.10.12  
 **Base de datos de origen:** `olimpiadas_db` (PostgreSQL 17, contenedor `postgres_cali`)

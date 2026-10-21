@@ -18,8 +18,8 @@ completo.
 cd Fase3
 ./fase2/run_fase2.sh
 # o por separado:
-python3 fase2/scripts/00_verificar_entorno.py
-python3 fase2/scripts/01_catalogos.py --recrear
+../.venv/bin/python fase2/scripts/00_verificar_entorno.py
+../.venv/bin/python fase2/scripts/01_catalogos.py --recrear
 ```
 
 ---

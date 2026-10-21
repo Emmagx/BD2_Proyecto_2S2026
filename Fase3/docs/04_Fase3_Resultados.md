@@ -16,7 +16,7 @@ de `RESULTADO`** y los atletas del resultado dentro.
 cd Fase3
 ./fase3/run_fase3.sh
 # o:
-python3 fase3/scripts/01_resultados.py --recrear
+../.venv/bin/python fase3/scripts/01_resultados.py --recrear
 ```
 
 ---

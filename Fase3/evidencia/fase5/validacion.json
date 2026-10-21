@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-10-21T00:20:58-06:00",
+  "generado_en": "2026-10-21T13:32:50-06:00",
   "host": "Ema-Ubuntu",
   "python": "3.10.12",
   "mongo_uri": "mongodb://127.0.0.1:27017/?directConnection=true",
@@ -11,13 +11,13 @@
     "catalogos": 3617
   },
   "catalogos_por_tipo": {
-    "deporte": 93,
-    "ciudad_sin_pais": 20,
     "juego": 62,
-    "medalla": 4,
+    "ciudad_sin_pais": 20,
     "evento": 1904,
+    "medalla": 4,
     "disciplina": 1520,
-    "region_sin_pais": 14
+    "region_sin_pais": 14,
+    "deporte": 93
   },
   "geografia": {
     "regiones_en_paises": 2540,
@@ -35,14 +35,14 @@
   "equipo_mixto": 264,
   "medallas": {
     "None": 135369,
-    "PLATA": 6880,
     "BRONCE": 6830,
-    "ORO": 6953
+    "ORO": 6953,
+    "PLATA": 6880
   },
   "rendimiento_ms": {
-    "atleta": 1.486,
-    "pais": 1.322,
-    "detalle_pais_100": 4.377
+    "atleta": 1.747,
+    "pais": 2.103,
+    "detalle_pais_100": 5.103
   },
   "planes": {
     "atleta_nombre": [

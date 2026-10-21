@@ -94,21 +94,21 @@ Evidencia final:
 ### (c) Atleta
 
 ```bash
-python3 fase5/scripts/03_consulta_atleta.py "Michael Phelps"
-python3 fase5/scripts/03_consulta_atleta.py "Michael Phelps" --anio 2008
-python3 fase5/scripts/03_consulta_atleta.py "Usain Bolt" --medalla oro
-python3 fase5/scripts/03_consulta_atleta.py "Phelps" --deporte swimming --pais USA
-python3 fase5/scripts/03_consulta_atleta.py --id 93860 --json
+../.venv/bin/python fase5/scripts/03_consulta_atleta.py "Michael Phelps"
+../.venv/bin/python fase5/scripts/03_consulta_atleta.py "Michael Phelps" --anio 2008
+../.venv/bin/python fase5/scripts/03_consulta_atleta.py "Usain Bolt" --medalla oro
+../.venv/bin/python fase5/scripts/03_consulta_atleta.py "Phelps" --deporte swimming --pais USA
+../.venv/bin/python fase5/scripts/03_consulta_atleta.py --id 93860 --json
 ```
 
 ### (d) País
 
 ```bash
-python3 fase5/scripts/04_consulta_pais.py "Guatemala"
-python3 fase5/scripts/04_consulta_pais.py "Estados Unidos" --anio 2012
-python3 fase5/scripts/04_consulta_pais.py GUA --limite 0
-python3 fase5/scripts/04_consulta_pais.py "Grecia" --deporte atletismo
-python3 fase5/scripts/04_consulta_pais.py "Japón" --json
+../.venv/bin/python fase5/scripts/04_consulta_pais.py "Guatemala"
+../.venv/bin/python fase5/scripts/04_consulta_pais.py "Estados Unidos" --anio 2012
+../.venv/bin/python fase5/scripts/04_consulta_pais.py GUA --limite 0
+../.venv/bin/python fase5/scripts/04_consulta_pais.py "Grecia" --deporte atletismo
+../.venv/bin/python fase5/scripts/04_consulta_pais.py "Japón" --json
 ```
 
 Acepta nombre en inglés, alias en español o NOC; los filtros son opcionales.
@@ -131,7 +131,8 @@ Fase3/
 │   ├── 03_Fase2_Catalogos.md
 │   ├── 04_Fase3_Resultados.md
 │   ├── 05_Fase4_Atletas_Paises.md
-│   └── 06_Fase5_Indices_Validacion_Consultas.md
+│   ├── 06_Fase5_Indices_Validacion_Consultas.md
+│   └── 07_Consultas_IA.md
 ├── fase1/
 │   ├── datos/ ...
 │   ├── scripts/ ...
@@ -193,6 +194,10 @@ Fase3/
 4. [Fase 3: resultados](docs/04_Fase3_Resultados.md).
 5. [Fase 4: atletas y países](docs/05_Fase4_Atletas_Paises.md).
 6. [Fase 5: índices, validación y consultas](docs/06_Fase5_Indices_Validacion_Consultas.md).
+7. [Evidencias de consultas a IA](docs/07_Consultas_IA.md) — capturas del
+   proceso de diseño.
+
+La guía general del repositorio está en [`../README.md`](../README.md).
 
 ---
 

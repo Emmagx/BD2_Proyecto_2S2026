@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 evidencia/**/*.log
 *.env
+
+# Entorno virtual local
+.venv/

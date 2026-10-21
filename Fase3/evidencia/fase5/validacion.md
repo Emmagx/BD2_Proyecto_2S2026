@@ -1,6 +1,6 @@
 # Fase 5 - Validación final
 
-**Fecha y hora:** 2026-10-21T00:20:58-06:00  
+**Fecha y hora:** 2026-10-21T13:32:50-06:00  
 **Host:** `Ema-Ubuntu` · **Python:** 3.10.12  
 **MongoDB:** `olimpiadas_mongo`
 
@@ -32,9 +32,9 @@
 
 | Consulta | Mediana (ms) | Plan |
 |---|---:|---|
-| Atleta por nombre | 1.486 | FETCH, IXSCAN |
-| País por NOC | 1.322 | FETCH, IXSCAN |
-| Detalle país, 100 | 4.377 | FETCH, IXSCAN |
+| Atleta por nombre | 1.747 | FETCH, IXSCAN |
+| País por NOC | 2.103 | FETCH, IXSCAN |
+| Detalle país, 100 | 5.103 | FETCH, IXSCAN |
 
 ## 4. Controles
 

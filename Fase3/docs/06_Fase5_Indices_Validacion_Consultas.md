@@ -20,8 +20,8 @@ cd Fase3
 ./fase5/run_fase5.sh
 
 # Consultas
-python3 fase5/scripts/03_consulta_atleta.py "Michael Phelps"
-python3 fase5/scripts/04_consulta_pais.py "Guatemala"
+../.venv/bin/python fase5/scripts/03_consulta_atleta.py "Michael Phelps"
+../.venv/bin/python fase5/scripts/04_consulta_pais.py "Guatemala"
 ```
 
 ---
@@ -82,11 +82,11 @@ Evidencia: `evidencia/fase5/validacion.md` y `validacion.json`.
 ## 3. Consulta de atleta (requisito c)
 
 ```bash
-python3 fase5/scripts/03_consulta_atleta.py "Michael Phelps"
-python3 fase5/scripts/03_consulta_atleta.py "Michael Phelps" --anio 2008
-python3 fase5/scripts/03_consulta_atleta.py "Usain Bolt" --medalla oro
-python3 fase5/scripts/03_consulta_atleta.py "Phelps" --deporte swimming --pais USA
-python3 fase5/scripts/03_consulta_atleta.py --id 93860 --json
+../.venv/bin/python fase5/scripts/03_consulta_atleta.py "Michael Phelps"
+../.venv/bin/python fase5/scripts/03_consulta_atleta.py "Michael Phelps" --anio 2008
+../.venv/bin/python fase5/scripts/03_consulta_atleta.py "Usain Bolt" --medalla oro
+../.venv/bin/python fase5/scripts/03_consulta_atleta.py "Phelps" --deporte swimming --pais USA
+../.venv/bin/python fase5/scripts/03_consulta_atleta.py --id 93860 --json
 ```
 
 Opciones: `--deporte`, `--pais` (NOC o nombre), `--anio`, `--medalla`
@@ -98,11 +98,11 @@ participaciones, medallas, años, deportes y tabla de resultados.
 ## 4. Consulta de país (requisito d)
 
 ```bash
-python3 fase5/scripts/04_consulta_pais.py "Guatemala"
-python3 fase5/scripts/04_consulta_pais.py "Estados Unidos" --anio 2012
-python3 fase5/scripts/04_consulta_pais.py GUA --limite 0
-python3 fase5/scripts/04_consulta_pais.py "Grecia" --deporte atletismo
-python3 fase5/scripts/04_consulta_pais.py "Japón" --json
+../.venv/bin/python fase5/scripts/04_consulta_pais.py "Guatemala"
+../.venv/bin/python fase5/scripts/04_consulta_pais.py "Estados Unidos" --anio 2012
+../.venv/bin/python fase5/scripts/04_consulta_pais.py GUA --limite 0
+../.venv/bin/python fase5/scripts/04_consulta_pais.py "Grecia" --deporte atletismo
+../.venv/bin/python fase5/scripts/04_consulta_pais.py "Japón" --json
 ```
 
 Acepta nombre en inglés, alias en español o NOC. Opciones: `--noc`,
@@ -127,3 +127,7 @@ Medallas: por evento Oro 43, Plata 63, Bronce 52
 - `evidencia/fase5/validacion.md`: reporte legible con fecha/hora.
 - `evidencia/fase5/validacion.json`: misma información en JSON.
 - `evidencia/fase5/ejecucion_<fecha>.log`: log de la fase.
+
+## 6. Evidencias de consultas a IA
+
+Ver [`07_Consultas_IA.md`](07_Consultas_IA.md) para las capturas del proceso.

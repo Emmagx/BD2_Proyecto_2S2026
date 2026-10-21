@@ -17,8 +17,8 @@ resúmenes derivados de `resultados`.
 cd Fase3
 ./fase4/run_fase4.sh
 # o:
-python3 fase4/scripts/01_atletas.py --recrear
-python3 fase4/scripts/02_paises.py --recrear
+../.venv/bin/python fase4/scripts/01_atletas.py --recrear
+../.venv/bin/python fase4/scripts/02_paises.py --recrear
 ```
 
 ---
