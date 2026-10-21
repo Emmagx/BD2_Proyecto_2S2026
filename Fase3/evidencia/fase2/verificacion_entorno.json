@@ -1,0 +1,16 @@
+{
+  "generado_en": "2026-10-21T00:07:32-06:00",
+  "python": "3.10.12",
+  "host": "Ema-Ubuntu",
+  "mongo_uri": "mongodb://127.0.0.1:27017/?directConnection=true",
+  "mongo_db": "olimpiadas_mongo",
+  "fallos": [],
+  "avisos": [],
+  "insumos": {
+    "dim_juegos.csv": "36a354373a6239401640231bf55f40de84f904cd469d6598ce8a2facb31b7910",
+    "dim_sedes.csv": "cd19ee9bfab6556887f2c1cbc338d826d2d78284ddd20c14c232fca30d405058",
+    "dim_alias_paises.csv": "21b14809e80733a9b05a4b17a3530c33c087d172c308d93262e3a0e4b831d4bb",
+    "dim_paises_normalizados.csv": "fdecfa25ae6ef0e5e01c567e283938367797ec912205fb50075fc6667c2715c4"
+  },
+  "ok": true
+}

@@ -1,0 +1,62 @@
+ID_OLIMPIADA,ANIO,TEMPORADA,CATEGORIA,CIUDAD,PAIS_NOC,PAIS_HISTORICO,NOTA
+1,1912,Summer,Senior,Estocolmo,SWE,Suecia,Sede única
+2,1920,Summer,Senior,Amberes,BEL,Bélgica,Sede única
+3,1996,Summer,Senior,Atlanta,USA,Estados Unidos,Sede única
+4,1924,Summer,Senior,París,FRA,Francia,Sede única
+5,1992,Summer,Senior,Barcelona,ESP,España,Sede única
+6,2000,Summer,Senior,Sídney,AUS,Australia,Sede única
+7,2004,Summer,Senior,Atenas,GRE,Grecia,Sede única
+8,2008,Summer,Senior,Pekín,CHN,República Popular China,Sede única
+9,1900,Summer,Senior,París,FRA,Francia,Sede única
+10,1906,Summer,Intercalado,Atenas,GRE,Grecia,Juegos Intercalados de 1906; el dataset los marca como temporada Unknown
+11,1908,Summer,Senior,Londres,GBR,Gran Bretaña,Sede única
+12,1896,Summer,Senior,Atenas,GRE,Grecia,Primeros Juegos Olímpicos modernos
+13,1984,Summer,Senior,Los Ángeles,USA,Estados Unidos,Sede única
+14,1988,Summer,Senior,Seúl,KOR,República de Corea,Sede única
+15,1904,Summer,Senior,San Luis,USA,Estados Unidos,Sede única
+16,2012,Summer,Senior,Londres,GBR,Gran Bretaña,Sede única
+17,2016,Summer,Senior,Río de Janeiro,BRA,Brasil,Sede única
+18,1976,Summer,Senior,Montreal,CAN,Canadá,Sede única
+19,1972,Summer,Senior,Múnich,GER,Alemania,En 1972 correspondía a Alemania Occidental (RFA)
+20,1980,Summer,Senior,Moscú,RUS,Rusia,En 1980 correspondía a la Unión Soviética (URSS)
+21,1928,Summer,Senior,Ámsterdam,NED,Países Bajos,Sede única
+22,2020,Summer,Senior,Tokio,JPN,Japón,Celebrados en 2021 por la pandemia de COVID-19
+23,1968,Summer,Senior,Ciudad de México,MEX,México,Sede única
+24,1956,Summer,Senior,Melbourne,AUS,Australia,Sede principal; las pruebas ecuestres se celebraron en Estocolmo (ver registro 32)
+25,1952,Summer,Senior,Helsinki,FIN,Finlandia,Sede única
+26,1960,Summer,Senior,Roma,ITA,Italia,Sede única
+27,1964,Summer,Senior,Tokio,JPN,Japón,Sede única
+28,1948,Summer,Senior,Londres,GBR,Gran Bretaña,Sede única
+29,1932,Summer,Senior,Los Ángeles,USA,Estados Unidos,Sede única
+30,1936,Summer,Senior,Berlín,GER,Alemania,Sede única
+31,1932,Winter,Senior,Lake Placid,USA,Estados Unidos,Sede única
+32,1956,Summer,Senior,Estocolmo,SWE,Suecia,Pruebas ecuestres de Melbourne 1956; el dataset las registra como temporada Unknown
+33,1948,Winter,Senior,Sankt Moritz,SUI,Suiza,Sede única
+34,1924,Winter,Senior,Chamonix,FRA,Francia,Primeros Juegos Olímpicos de Invierno
+35,1928,Winter,Senior,Sankt Moritz,SUI,Suiza,Sede única
+36,2002,Winter,Senior,Salt Lake City,USA,Estados Unidos,Sede única
+37,2006,Winter,Senior,Turín,ITA,Italia,Sede única
+38,2010,Winter,Senior,Vancouver,CAN,Canadá,Sede única
+39,1964,Winter,Senior,Innsbruck,AUT,Austria,Sede única
+40,1952,Winter,Senior,Oslo,NOR,Noruega,Sede única
+41,1936,Winter,Senior,Garmisch-Partenkirchen,GER,Alemania,Sede única
+42,1992,Winter,Senior,Albertville,FRA,Francia,Sede única
+43,1994,Winter,Senior,Lillehammer,NOR,Noruega,Sede única
+44,1998,Winter,Senior,Nagano,JPN,Japón,Sede única
+45,1956,Winter,Senior,Cortina d'Ampezzo,ITA,Italia,Sede única
+47,1988,Winter,Senior,Calgary,CAN,Canadá,Sede única
+48,1976,Winter,Senior,Innsbruck,AUT,Austria,Sede única
+49,1972,Winter,Senior,Sapporo,JPN,Japón,Sede única
+50,1984,Winter,Senior,Sarajevo,BIH,Bosnia y Herzegovina,En 1984 correspondía a Yugoslavia
+51,1980,Winter,Senior,Lake Placid,USA,Estados Unidos,Sede única
+52,1968,Winter,Senior,Grenoble,FRA,Francia,Sede única
+53,1960,Winter,Senior,Squaw Valley,USA,Estados Unidos,Sede única
+54,2014,Winter,Senior,Sochi,RUS,Rusia,Sede única
+55,2018,Winter,Senior,Pyeongchang,KOR,República de Corea,Sede única
+56,2022,Winter,Senior,Pekín,CHN,República Popular China,Sede única
+57,2010,Summer,Juvenil,Singapur,SGP,Singapur,Juegos Olímpicos de la Juventud de Verano 2010
+58,2014,Summer,Juvenil,Nankín,CHN,República Popular China,Juegos Olímpicos de la Juventud de Verano 2014
+59,2012,Winter,Juvenil,Innsbruck,AUT,Austria,Juegos Olímpicos de la Juventud de Invierno 2012
+60,2016,Winter,Juvenil,Lillehammer,NOR,Noruega,Juegos Olímpicos de la Juventud de Invierno 2016
+61,2018,Summer,Juvenil,Buenos Aires,ARG,Argentina,Juegos Olímpicos de la Juventud de Verano 2018
+62,2020,Winter,Juvenil,Lausana,SUI,Suiza,Juegos Olímpicos de la Juventud de Invierno 2020

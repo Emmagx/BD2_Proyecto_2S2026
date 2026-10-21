@@ -1,0 +1,20 @@
+services:
+  mongo:
+    image: mongo:7.0
+    container_name: mongo_fase3
+    restart: unless-stopped
+    # En este host Docker usa user-namespace remapping; mongod corre como root
+    # del contenedor para que el volumen nombrado sea escribible.
+    user: "0:0"
+    entrypoint: ["mongod"]
+    ports:
+      - "127.0.0.1:27017:27017"
+    volumes:
+      - mongo_fase3_data:/data/db
+    command:
+      - --wiredTigerCacheSizeGB=0.5
+      - --bind_ip_all
+
+volumes:
+  mongo_fase3_data:
+    name: mongo_fase3_data

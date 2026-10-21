@@ -1,0 +1,469 @@
+{
+  "generado_en": "2026-10-20T23:54:34-06:00",
+  "fuente": "pg",
+  "host": "Ema-Ubuntu",
+  "python": "3.10.12",
+  "conteos": {
+    "dim_juegos": 62,
+    "dim_sedes": 61,
+    "dim_alias_paises": 109,
+    "dim_paises_normalizados": 247,
+    "atletas_normalizados": 145500
+  },
+  "categorias": {
+    "Senior": 54,
+    "Intercalado": 1,
+    "Atipico": 1,
+    "Juvenil": 6
+  },
+  "correcciones_temporada": [
+    {
+      "id": 10,
+      "original": "Unknown",
+      "nueva": "Summer",
+      "motivo": "Juegos Intercalados"
+    },
+    {
+      "id": 32,
+      "original": "Unknown",
+      "nueva": "Summer",
+      "motivo": "Pruebas ecuestres de 1956"
+    }
+  ],
+  "normalizacion": {
+    "atletas_ok": 145399,
+    "atletas_fallback": 101,
+    "atletas_cambiados": 145399,
+    "paises_fallback": 0,
+    "ejemplos_fallback": [
+      {
+        "ID": 5527,
+        "ORIGINAL": "Tsоnka Vaysilova",
+        "NORMALIZADO": "Tsоnka Vaysilova",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 21214,
+        "ORIGINAL": "Elxan Məmmədov",
+        "NORMALIZADO": "Elxan Məmmədov",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 33189,
+        "ORIGINAL": "Zülfiyyə Hüseynova",
+        "NORMALIZADO": "Zülfiyyə Hüseynova",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 41255,
+        "ORIGINAL": "İradə Aşumova",
+        "NORMALIZADO": "İradə Aşumova",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 45417,
+        "ORIGINAL": "Emin Cəbrayilov",
+        "NORMALIZADO": "Emin Cəbrayilov",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 55230,
+        "ORIGINAL": "Tofiq Heydərov",
+        "NORMALIZADO": "Tofiq Heydərov",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 55231,
+        "ORIGINAL": "Asif Məlikov",
+        "NORMALIZADO": "Asif Məlikov",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 55331,
+        "ORIGINAL": "Zlatаn Vasilev",
+        "NORMALIZADO": "Zlatаn Vasilev",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 57257,
+        "ORIGINAL": "Vilayət Ağayev",
+        "NORMALIZADO": "Vilayət Ağayev",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 57259,
+        "ORIGINAL": "Məmmədsalam Haciyev",
+        "NORMALIZADO": "Məmmədsalam Haciyev",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 57261,
+        "ORIGINAL": "Davud Məhəmmədov",
+        "NORMALIZADO": "Davud Məhəmmədov",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 60439,
+        "ORIGINAL": "Məhyəddin Allahverdiyev",
+        "NORMALIZADO": "Məhyəddin Allahverdiyev",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 60501,
+        "ORIGINAL": "Rəşid Məmmədbəyov",
+        "NORMALIZADO": "Rəşid Məmmədbəyov",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 64985,
+        "ORIGINAL": "Vasif Əsadov",
+        "NORMALIZADO": "Vasif Əsadov",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 90027,
+        "ORIGINAL": "Ağası Məmmədov",
+        "NORMALIZADO": "Ağası Məmmədov",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 90108,
+        "ORIGINAL": "Vüqar Mursal Ələkbərov",
+        "NORMALIZADO": "Vüqar Mursal Ələkbərov",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 90112,
+        "ORIGINAL": "Əli Shamil İsmayılov",
+        "NORMALIZADO": "Əli Shamil İsmayılov",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 90159,
+        "ORIGINAL": "Ədalət Məmmədov",
+        "NORMALIZADO": "Ədalət Məmmədov",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 90206,
+        "ORIGINAL": "İlham Kərimov",
+        "NORMALIZADO": "İlham Kərimov",
+        "motivo": "letras no normalizables"
+      },
+      {
+        "ID": 91255,
+        "ORIGINAL": "Eleоnora Kezhova",
+        "NORMALIZADO": "Eleоnora Kezhova",
+        "motivo": "letras no normalizables"
+      }
+    ],
+    "ejemplos_cambio": [
+      {
+        "ID": 1,
+        "ORIGINAL": "Jean-François Blanchy",
+        "NORMALIZADO": "jean francois blanchy"
+      },
+      {
+        "ID": 2,
+        "ORIGINAL": "Arnaud Boetsch",
+        "NORMALIZADO": "arnaud boetsch"
+      },
+      {
+        "ID": 3,
+        "ORIGINAL": "Jean Borotra",
+        "NORMALIZADO": "jean borotra"
+      },
+      {
+        "ID": 4,
+        "ORIGINAL": "Jacques Brugnon",
+        "NORMALIZADO": "jacques brugnon"
+      },
+      {
+        "ID": 5,
+        "ORIGINAL": "Albert Canet",
+        "NORMALIZADO": "albert canet"
+      },
+      {
+        "ID": 6,
+        "ORIGINAL": "Nicolas Chatelain",
+        "NORMALIZADO": "nicolas chatelain"
+      },
+      {
+        "ID": 7,
+        "ORIGINAL": "Patrick Chila",
+        "NORMALIZADO": "patrick chila"
+      },
+      {
+        "ID": 8,
+        "ORIGINAL": "Henri Cochet",
+        "NORMALIZADO": "henri cochet"
+      },
+      {
+        "ID": 9,
+        "ORIGINAL": "Marcel Cousin",
+        "NORMALIZADO": "marcel cousin"
+      },
+      {
+        "ID": 10,
+        "ORIGINAL": "Guy de la Chapelle",
+        "NORMALIZADO": "guy de la chapelle"
+      },
+      {
+        "ID": 11,
+        "ORIGINAL": "Élie, Comte de Lastours",
+        "NORMALIZADO": "elie comte de lastours"
+      },
+      {
+        "ID": 12,
+        "ORIGINAL": "Max Decugis",
+        "NORMALIZADO": "max decugis"
+      },
+      {
+        "ID": 13,
+        "ORIGINAL": "J. Defert",
+        "NORMALIZADO": "j defert"
+      },
+      {
+        "ID": 14,
+        "ORIGINAL": "Étienne Durand",
+        "NORMALIZADO": "etienne durand"
+      },
+      {
+        "ID": 15,
+        "ORIGINAL": "Damien Éloi",
+        "NORMALIZADO": "damien eloi"
+      },
+      {
+        "ID": 16,
+        "ORIGINAL": "Adrien Fauchier-Magnan",
+        "NORMALIZADO": "adrien fauchier magnan"
+      },
+      {
+        "ID": 17,
+        "ORIGINAL": "Guy Forget",
+        "NORMALIZADO": "guy forget"
+      },
+      {
+        "ID": 18,
+        "ORIGINAL": "Jean-Philippe Gatien",
+        "NORMALIZADO": "jean philippe gatien"
+      },
+      {
+        "ID": 19,
+        "ORIGINAL": "Maurice Germot",
+        "NORMALIZADO": "maurice germot"
+      },
+      {
+        "ID": 20,
+        "ORIGINAL": "André Gobert",
+        "NORMALIZADO": "andre gobert"
+      }
+    ]
+  },
+  "alias": {
+    "validos": 109,
+    "omitidos": [],
+    "duplicados": []
+  },
+  "discrepancias_sedes_crudas": [
+    {
+      "ID_OLIMPIADA": 1,
+      "CIUDAD_CURADA": "Estocolmo",
+      "PAIS_CURADO": "SWE",
+      "PAIS_CRUDO": "USA",
+      "TIPO": "pais_distinto"
+    },
+    {
+      "ID_OLIMPIADA": 2,
+      "CIUDAD_CURADA": "Amberes",
+      "PAIS_CURADO": "BEL",
+      "PAIS_CRUDO": "(sin país)",
+      "TIPO": "sin_pais"
+    },
+    {
+      "ID_OLIMPIADA": 4,
+      "CIUDAD_CURADA": "París",
+      "PAIS_CURADO": "FRA",
+      "PAIS_CRUDO": "USA",
+      "TIPO": "pais_distinto"
+    },
+    {
+      "ID_OLIMPIADA": 5,
+      "CIUDAD_CURADA": "Barcelona",
+      "PAIS_CURADO": "ESP",
+      "PAIS_CRUDO": "VEN",
+      "TIPO": "pais_distinto"
+    },
+    {
+      "ID_OLIMPIADA": 7,
+      "CIUDAD_CURADA": "Atenas",
+      "PAIS_CURADO": "GRE",
+      "PAIS_CRUDO": "USA",
+      "TIPO": "pais_distinto"
+    },
+    {
+      "ID_OLIMPIADA": 9,
+      "CIUDAD_CURADA": "París",
+      "PAIS_CURADO": "FRA",
+      "PAIS_CRUDO": "USA",
+      "TIPO": "pais_distinto"
+    },
+    {
+      "ID_OLIMPIADA": 10,
+      "CIUDAD_CURADA": "Atenas",
+      "PAIS_CURADO": "GRE",
+      "PAIS_CRUDO": "(sin fila en CIUDAD_OLIMPIADA)",
+      "TIPO": "sin_fila"
+    },
+    {
+      "ID_OLIMPIADA": 12,
+      "CIUDAD_CURADA": "Atenas",
+      "PAIS_CURADO": "GRE",
+      "PAIS_CRUDO": "USA",
+      "TIPO": "pais_distinto"
+    },
+    {
+      "ID_OLIMPIADA": 15,
+      "CIUDAD_CURADA": "San Luis",
+      "PAIS_CURADO": "USA",
+      "PAIS_CRUDO": "SEN",
+      "TIPO": "pais_distinto"
+    },
+    {
+      "ID_OLIMPIADA": 19,
+      "CIUDAD_CURADA": "Múnich",
+      "PAIS_CURADO": "GER",
+      "PAIS_CRUDO": "(sin país)",
+      "TIPO": "sin_pais"
+    },
+    {
+      "ID_OLIMPIADA": 20,
+      "CIUDAD_CURADA": "Moscú",
+      "PAIS_CURADO": "RUS",
+      "PAIS_CRUDO": "USA",
+      "TIPO": "pais_distinto"
+    },
+    {
+      "ID_OLIMPIADA": 22,
+      "CIUDAD_CURADA": "Tokio",
+      "PAIS_CURADO": "JPN",
+      "PAIS_CRUDO": "(sin fila en CIUDAD_OLIMPIADA)",
+      "TIPO": "sin_fila"
+    },
+    {
+      "ID_OLIMPIADA": 24,
+      "CIUDAD_CURADA": "Melbourne",
+      "PAIS_CURADO": "AUS",
+      "PAIS_CRUDO": "USA",
+      "TIPO": "pais_distinto"
+    },
+    {
+      "ID_OLIMPIADA": 26,
+      "CIUDAD_CURADA": "Roma",
+      "PAIS_CURADO": "ITA",
+      "PAIS_CRUDO": "AUS",
+      "TIPO": "pais_distinto"
+    },
+    {
+      "ID_OLIMPIADA": 32,
+      "CIUDAD_CURADA": "Estocolmo",
+      "PAIS_CURADO": "SWE",
+      "PAIS_CRUDO": "(sin fila en CIUDAD_OLIMPIADA)",
+      "TIPO": "sin_fila"
+    },
+    {
+      "ID_OLIMPIADA": 34,
+      "CIUDAD_CURADA": "Chamonix",
+      "PAIS_CURADO": "FRA",
+      "PAIS_CRUDO": "(sin país)",
+      "TIPO": "sin_pais"
+    },
+    {
+      "ID_OLIMPIADA": 45,
+      "CIUDAD_CURADA": "Cortina d'Ampezzo",
+      "PAIS_CURADO": "ITA",
+      "PAIS_CRUDO": "(sin país)",
+      "TIPO": "sin_pais"
+    },
+    {
+      "ID_OLIMPIADA": 53,
+      "CIUDAD_CURADA": "Squaw Valley",
+      "PAIS_CURADO": "USA",
+      "PAIS_CRUDO": "(sin país)",
+      "TIPO": "sin_pais"
+    },
+    {
+      "ID_OLIMPIADA": 55,
+      "CIUDAD_CURADA": "Pyeongchang",
+      "PAIS_CURADO": "KOR",
+      "PAIS_CRUDO": "(sin fila en CIUDAD_OLIMPIADA)",
+      "TIPO": "sin_fila"
+    },
+    {
+      "ID_OLIMPIADA": 56,
+      "CIUDAD_CURADA": "Pekín",
+      "PAIS_CURADO": "CHN",
+      "PAIS_CRUDO": "(sin fila en CIUDAD_OLIMPIADA)",
+      "TIPO": "sin_fila"
+    },
+    {
+      "ID_OLIMPIADA": 57,
+      "CIUDAD_CURADA": "Singapur",
+      "PAIS_CURADO": "SGP",
+      "PAIS_CRUDO": "(sin fila en CIUDAD_OLIMPIADA)",
+      "TIPO": "sin_fila"
+    },
+    {
+      "ID_OLIMPIADA": 58,
+      "CIUDAD_CURADA": "Nankín",
+      "PAIS_CURADO": "CHN",
+      "PAIS_CRUDO": "(sin fila en CIUDAD_OLIMPIADA)",
+      "TIPO": "sin_fila"
+    },
+    {
+      "ID_OLIMPIADA": 59,
+      "CIUDAD_CURADA": "Innsbruck",
+      "PAIS_CURADO": "AUT",
+      "PAIS_CRUDO": "(sin fila en CIUDAD_OLIMPIADA)",
+      "TIPO": "sin_fila"
+    },
+    {
+      "ID_OLIMPIADA": 60,
+      "CIUDAD_CURADA": "Lillehammer",
+      "PAIS_CURADO": "NOR",
+      "PAIS_CRUDO": "(sin fila en CIUDAD_OLIMPIADA)",
+      "TIPO": "sin_fila"
+    },
+    {
+      "ID_OLIMPIADA": 61,
+      "CIUDAD_CURADA": "Buenos Aires",
+      "PAIS_CURADO": "ARG",
+      "PAIS_CRUDO": "(sin fila en CIUDAD_OLIMPIADA)",
+      "TIPO": "sin_fila"
+    },
+    {
+      "ID_OLIMPIADA": 62,
+      "CIUDAD_CURADA": "Lausana",
+      "PAIS_CURADO": "SUI",
+      "PAIS_CRUDO": "(sin fila en CIUDAD_OLIMPIADA)",
+      "TIPO": "sin_fila"
+    }
+  ],
+  "resumen_discrepancias": {
+    "total": 26,
+    "pais_distinto": 10,
+    "sin_pais": 5,
+    "sin_fila": 11
+  },
+  "fallos": [],
+  "avisos": [],
+  "ok": true,
+  "sha256": {
+    "datos/insumos/sedes_olimpiadas.csv": "c938417295618b081269c407fc65ad61c0c4c6824c0251f01c922120890927b8",
+    "datos/insumos/alias_paises.csv": "5d0c13fb2fb525fdac002a0fa507121f5426e9651611abd946167c95a9de594b",
+    "datos/dim_juegos.csv": "36a354373a6239401640231bf55f40de84f904cd469d6598ce8a2facb31b7910",
+    "datos/dim_sedes.csv": "cd19ee9bfab6556887f2c1cbc338d826d2d78284ddd20c14c232fca30d405058",
+    "datos/dim_alias_paises.csv": "21b14809e80733a9b05a4b17a3530c33c087d172c308d93262e3a0e4b831d4bb",
+    "datos/dim_paises_normalizados.csv": "fdecfa25ae6ef0e5e01c567e283938367797ec912205fb50075fc6667c2715c4"
+  }
+}

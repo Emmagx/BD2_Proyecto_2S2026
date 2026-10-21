@@ -1,0 +1,2 @@
+# Fases 2-5 (Fase 1 usa solo biblioteca estándar)
+pymongo>=4.6,<5

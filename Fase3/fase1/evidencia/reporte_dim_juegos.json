@@ -1,0 +1,33 @@
+{
+  "generado_en": "2026-10-20T23:54:29-06:00",
+  "fuente": "pg",
+  "juegos": 62,
+  "sedes": 61,
+  "sin_sede": [
+    46
+  ],
+  "categorias": {
+    "Senior": 54,
+    "Intercalado": 1,
+    "Atipico": 1,
+    "Juvenil": 6
+  },
+  "correcciones_temporada": [
+    {
+      "id": 10,
+      "original": "Unknown",
+      "nueva": "Summer",
+      "motivo": "Juegos Intercalados"
+    },
+    {
+      "id": 32,
+      "original": "Unknown",
+      "nueva": "Summer",
+      "motivo": "Pruebas ecuestres de 1956"
+    }
+  ],
+  "sha256": {
+    "dim_juegos.csv": "36a354373a6239401640231bf55f40de84f904cd469d6598ce8a2facb31b7910",
+    "dim_sedes.csv": "cd19ee9bfab6556887f2c1cbc338d826d2d78284ddd20c14c232fca30d405058"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "generado_en": "2026-10-20T23:54:28-06:00",
+  "fuente": "pg",
+  "juegos": 62,
+  "juegos_con_sede": 61,
+  "juegos_sin_sede": [
+    46
+  ],
+  "categorias": {
+    "Senior": 54,
+    "Intercalado": 1,
+    "Juvenil": 6,
+    "Atipico": 1
+  },
+  "alias_validos": 109,
+  "alias_omitidos": [],
+  "alias_duplicados": [
+    {
+      "NOC": "BEL",
+      "ALIAS": "Belgica"
+    },
+    {
+      "NOC": "CAN",
+      "ALIAS": "Canada"
+    },
+    {
+      "NOC": "ESP",
+      "ALIAS": "Espana"
+    },
+    {
+      "NOC": "GBR",
+      "ALIAS": "Gran Bretana"
+    },
+    {
+      "NOC": "JPN",
+      "ALIAS": "Japon"
+    },
+    {
+      "NOC": "MEX",
+      "ALIAS": "Mexico"
+    },
+    {
+      "NOC": "NED",
+      "ALIAS": "Paises Bajos"
+    },
+    {
+      "NOC": "URS",
+      "ALIAS": "Union Sovietica"
+    },
+    {
+      "NOC": "PER",
+      "ALIAS": "Peru"
+    },
+    {
+      "NOC": "PAN",
+      "ALIAS": "Panama"
+    },
+    {
+      "NOC": "DOM",
+      "ALIAS": "Republica Dominicana"
+    },
+    {
+      "NOC": "HAI",
+      "ALIAS": "Haiti"
+    },
+    {
+      "NOC": "HUN",
+      "ALIAS": "Hungria"
+    },
+    {
+      "NOC": "CZE",
+      "ALIAS": "Republica Checa"
+    },
+    {
+      "NOC": "AZE",
+      "ALIAS": "Azerbaiyan"
+    },
+    {
+      "NOC": "KAZ",
+      "ALIAS": "Kazajistan"
+    },
+    {
+      "NOC": "PAK",
+      "ALIAS": "Pakistan"
+    },
+    {
+      "NOC": "IRI",
+      "ALIAS": "Iran"
+    },
+    {
+      "NOC": "TUR",
+      "ALIAS": "Turquia"
+    },
+    {
+      "NOC": "RSA",
+      "ALIAS": "Sudafrica"
+    },
+    {
+      "NOC": "ETH",
+      "ALIAS": "Etiopia"
+    },
+    {
+      "NOC": "TUN",
+      "ALIAS": "Tunez"
+    }
+  ],
+  "sha256": {
+    "sedes_olimpiadas.csv": "c938417295618b081269c407fc65ad61c0c4c6824c0251f01c922120890927b8",
+    "alias_paises.csv": "5d0c13fb2fb525fdac002a0fa507121f5426e9651611abd946167c95a9de594b"
+  }
+}

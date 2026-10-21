@@ -1,0 +1,248 @@
+ID,NOMBRE_ORIGINAL,NOMBRE_NORMALIZADO,NORMALIZADO,CAMBIO
+1,Afghanistan,afghanistan,SI,SI
+2,Netherlands Antilles,netherlands antilles,SI,SI
+3,Albania,albania,SI,SI
+4,Algeria,algeria,SI,SI
+5,Andorra,andorra,SI,SI
+6,Angola,angola,SI,SI
+7,Antigua and Barbuda,antigua and barbuda,SI,SI
+8,Australasia,australasia,SI,SI
+9,Argentina,argentina,SI,SI
+10,Armenia,armenia,SI,SI
+11,Aruba,aruba,SI,SI
+12,American Samoa,american samoa,SI,SI
+13,Australia,australia,SI,SI
+14,Austria,austria,SI,SI
+15,Azerbaijan,azerbaijan,SI,SI
+16,The Bahamas,the bahamas,SI,SI
+17,Bangladesh,bangladesh,SI,SI
+18,Barbados,barbados,SI,SI
+19,Burundi,burundi,SI,SI
+20,Belgium,belgium,SI,SI
+21,Benin,benin,SI,SI
+22,Bermuda,bermuda,SI,SI
+23,Bhutan,bhutan,SI,SI
+24,Bosnia and Herzegovina,bosnia and herzegovina,SI,SI
+25,Belize,belize,SI,SI
+26,Belarus,belarus,SI,SI
+27,Bohemia,bohemia,SI,SI
+28,Bolivia,bolivia,SI,SI
+29,Botswana,botswana,SI,SI
+30,Brazil,brazil,SI,SI
+31,Bahrain,bahrain,SI,SI
+32,Brunei Darussalam,brunei darussalam,SI,SI
+33,Bulgaria,bulgaria,SI,SI
+34,Burkina Faso,burkina faso,SI,SI
+35,Central African Republic,central african republic,SI,SI
+36,Cambodia,cambodia,SI,SI
+37,Canada,canada,SI,SI
+38,Cayman Islands,cayman islands,SI,SI
+39,Congo,congo,SI,SI
+40,Chad,chad,SI,SI
+41,Chile,chile,SI,SI
+42,People's Republic of China,people s republic of china,SI,SI
+43,Côte d'Ivoire,cote d ivoire,SI,SI
+44,Cameroon,cameroon,SI,SI
+45,Democratic Republic of the Congo,democratic republic of the congo,SI,SI
+46,Cook Islands,cook islands,SI,SI
+47,Colombia,colombia,SI,SI
+48,Comoros,comoros,SI,SI
+49,Korea Team,korea team,SI,SI
+50,Cabo Verde,cabo verde,SI,SI
+51,Costa Rica,costa rica,SI,SI
+52,Croatia,croatia,SI,SI
+53,Crete,crete,SI,SI
+54,Cuba,cuba,SI,SI
+55,Cyprus,cyprus,SI,SI
+56,Czechia,czechia,SI,SI
+57,Denmark,denmark,SI,SI
+58,Djibouti,djibouti,SI,SI
+59,Dominica,dominica,SI,SI
+60,Dominican Republic,dominican republic,SI,SI
+61,Ecuador,ecuador,SI,SI
+62,Egypt,egypt,SI,SI
+63,Refugee Olympic Team,refugee olympic team,SI,SI
+64,Eritrea,eritrea,SI,SI
+65,El Salvador,el salvador,SI,SI
+66,Spain,spain,SI,SI
+67,Estonia,estonia,SI,SI
+68,Ethiopia,ethiopia,SI,SI
+69,Unified Team,unified team,SI,SI
+70,Fiji,fiji,SI,SI
+71,Finland,finland,SI,SI
+72,France,france,SI,SI
+73,West Germany,west germany,SI,SI
+74,Federated States of Micronesia,federated states of micronesia,SI,SI
+75,Gabon,gabon,SI,SI
+76,The Gambia,the gambia,SI,SI
+77,Great Britain,great britain,SI,SI
+78,Guinea Bissau,guinea bissau,SI,SI
+79,East Germany,east germany,SI,SI
+80,Georgia,georgia,SI,SI
+81,Equatorial Guinea,equatorial guinea,SI,SI
+82,Germany,germany,SI,SI
+83,Ghana,ghana,SI,SI
+84,Greece,greece,SI,SI
+85,Grenada,grenada,SI,SI
+86,Guatemala,guatemala,SI,SI
+87,Guinea,guinea,SI,SI
+88,Guam,guam,SI,SI
+89,Guyana,guyana,SI,SI
+90,Haiti,haiti,SI,SI
+91,"Hong Kong, China",hong kong china,SI,SI
+92,Honduras,honduras,SI,SI
+93,Hungary,hungary,SI,SI
+94,Indonesia,indonesia,SI,SI
+95,India,india,SI,SI
+96,Independent Olympic Athletes,independent olympic athletes,SI,SI
+97,Islamic Republic of Iran,islamic republic of iran,SI,SI
+98,Ireland,ireland,SI,SI
+99,Iraq,iraq,SI,SI
+100,Iceland,iceland,SI,SI
+101,Israel,israel,SI,SI
+102,United States Virgin Islands,united states virgin islands,SI,SI
+103,Italy,italy,SI,SI
+104,British Virgin Islands,british virgin islands,SI,SI
+105,Jamaica,jamaica,SI,SI
+106,Jordan,jordan,SI,SI
+107,Japan,japan,SI,SI
+108,Kazakhstan,kazakhstan,SI,SI
+109,Kenya,kenya,SI,SI
+110,Kyrgyzstan,kyrgyzstan,SI,SI
+111,Kiribati,kiribati,SI,SI
+112,Republic of Korea,republic of korea,SI,SI
+113,Kosovo,kosovo,SI,SI
+114,Kingdom of Saudi Arabia,kingdom of saudi arabia,SI,SI
+115,Kuwait,kuwait,SI,SI
+116,Lao People's Democratic Republic,lao people s democratic republic,SI,SI
+117,Latvia,latvia,SI,SI
+118,Libya,libya,SI,SI
+119,Lebanon,lebanon,SI,SI
+120,Liberia,liberia,SI,SI
+121,Saint Lucia,saint lucia,SI,SI
+122,Lesotho,lesotho,SI,SI
+123,Liechtenstein,liechtenstein,SI,SI
+124,Lithuania,lithuania,SI,SI
+125,Luxembourg,luxembourg,SI,SI
+126,Madagascar,madagascar,SI,SI
+127,Malaya,malaya,SI,SI
+128,Morocco,morocco,SI,SI
+129,Malaysia,malaysia,SI,SI
+130,Malawi,malawi,SI,SI
+131,Republic of Moldova,republic of moldova,SI,SI
+132,Maldives,maldives,SI,SI
+133,Mexico,mexico,SI,SI
+134,Mongolia,mongolia,SI,SI
+135,Marshall Islands,marshall islands,SI,SI
+136,North Macedonia,north macedonia,SI,SI
+137,Mali,mali,SI,SI
+138,Malta,malta,SI,SI
+139,Montenegro,montenegro,SI,SI
+140,Monaco,monaco,SI,SI
+141,Mozambique,mozambique,SI,SI
+142,Mauritius,mauritius,SI,SI
+143,Mauritania,mauritania,SI,SI
+144,Myanmar,myanmar,SI,SI
+145,Namibia,namibia,SI,SI
+146,North Borneo,north borneo,SI,SI
+147,Nicaragua,nicaragua,SI,SI
+148,Netherlands,netherlands,SI,SI
+149,Nepal,nepal,SI,SI
+150,Nigeria,nigeria,SI,SI
+151,Niger,niger,SI,SI
+152,Norway,norway,SI,SI
+153,Nauru,nauru,SI,SI
+154,New Zealand,new zealand,SI,SI
+155,Oman,oman,SI,SI
+156,Pakistan,pakistan,SI,SI
+157,Panama,panama,SI,SI
+158,Paraguay,paraguay,SI,SI
+159,Peru,peru,SI,SI
+160,Philippines,philippines,SI,SI
+161,Palestine,palestine,SI,SI
+162,Palau,palau,SI,SI
+163,Papua New Guinea,papua new guinea,SI,SI
+164,Poland,poland,SI,SI
+165,Portugal,portugal,SI,SI
+166,Democratic People's Republic of Korea,democratic people s republic of korea,SI,SI
+167,Puerto Rico,puerto rico,SI,SI
+168,Qatar,qatar,SI,SI
+169,Rhodesia,rhodesia,SI,SI
+170,ROC,roc,SI,SI
+171,Romania,romania,SI,SI
+172,South Africa,south africa,SI,SI
+173,Russian Federation,russian federation,SI,SI
+174,Rwanda,rwanda,SI,SI
+175,Saar,saar,SI,SI
+176,Samoa,samoa,SI,SI
+177,Serbia and Montenegro,serbia and montenegro,SI,SI
+178,Senegal,senegal,SI,SI
+179,Seychelles,seychelles,SI,SI
+180,Singapore,singapore,SI,SI
+181,Saint Kitts and Nevis,saint kitts and nevis,SI,SI
+182,Sierra Leone,sierra leone,SI,SI
+183,Slovenia,slovenia,SI,SI
+184,San Marino,san marino,SI,SI
+185,Solomon Islands,solomon islands,SI,SI
+186,Somalia,somalia,SI,SI
+187,Serbia,serbia,SI,SI
+188,Sri Lanka,sri lanka,SI,SI
+189,South Sudan,south sudan,SI,SI
+190,São Tomé and Príncipe,sao tome and principe,SI,SI
+191,Sudan,sudan,SI,SI
+192,Switzerland,switzerland,SI,SI
+193,Suriname,suriname,SI,SI
+194,Slovakia,slovakia,SI,SI
+195,Sweden,sweden,SI,SI
+196,Eswatini,eswatini,SI,SI
+197,Syrian Arab Republic,syrian arab republic,SI,SI
+198,United Republic of Tanzania,united republic of tanzania,SI,SI
+199,Czechoslovakia,czechoslovakia,SI,SI
+200,Tonga,tonga,SI,SI
+201,Thailand,thailand,SI,SI
+202,Tajikistan,tajikistan,SI,SI
+203,Turkmenistan,turkmenistan,SI,SI
+204,Timor-Leste,timor leste,SI,SI
+205,Togo,togo,SI,SI
+206,Chinese Taipei,chinese taipei,SI,SI
+207,Trinidad and Tobago,trinidad and tobago,SI,SI
+208,Tunisia,tunisia,SI,SI
+209,Türkiye,turkiye,SI,SI
+210,Tuvalu,tuvalu,SI,SI
+211,United Arab Emirates,united arab emirates,SI,SI
+212,United Arab Republic,united arab republic,SI,SI
+213,Uganda,uganda,SI,SI
+214,Ukraine,ukraine,SI,SI
+215,Soviet Union,soviet union,SI,SI
+216,Uruguay,uruguay,SI,SI
+217,United States,united states,SI,SI
+218,Uzbekistan,uzbekistan,SI,SI
+219,Vanuatu,vanuatu,SI,SI
+220,Venezuela,venezuela,SI,SI
+221,Vietnam,vietnam,SI,SI
+222,Saint Vincent and the Grenadines,saint vincent and the grenadines,SI,SI
+223,South Vietnam,south vietnam,SI,SI
+224,Jamaica West Indies Federation,jamaica west indies federation,SI,SI
+225,North Yemen,north yemen,SI,SI
+226,Yemen,yemen,SI,SI
+227,South Yemen,south yemen,SI,SI
+228,Yugoslavia,yugoslavia,SI,SI
+229,Zambia,zambia,SI,SI
+230,Zimbabwe,zimbabwe,SI,SI
+231,FPN,fpn,SI,SI
+232,CUR,cur,SI,SI
+233,JER,jer,SI,SI
+234,GRL,grl,SI,SI
+235,MTS,mts,SI,SI
+236,IOM,iom,SI,SI
+237,FLI,fli,SI,SI
+238,NCD,ncd,SI,SI
+239,GIB,gib,SI,SI
+240,GUE,gue,SI,SI
+241,NFI,nfi,SI,SI
+242,MRT,mrt,SI,SI
+243,MQE,mqe,SI,SI
+244,AGU,agu,SI,SI
+245,SMT,smt,SI,SI
+246,TKS,tks,SI,SI
+247,FAR,far,SI,SI

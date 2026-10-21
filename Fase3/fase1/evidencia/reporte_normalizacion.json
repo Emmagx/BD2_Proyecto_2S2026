@@ -1,0 +1,242 @@
+{
+  "generado_en": "2026-10-20T23:54:33-06:00",
+  "fuente": "pg",
+  "atletas_procesados": 145500,
+  "normalizados_ok": 145399,
+  "fallback_original": 101,
+  "cambiados": 145399,
+  "limite": 0,
+  "ejemplos_fallback": [
+    {
+      "ID": 5527,
+      "ORIGINAL": "Tsоnka Vaysilova",
+      "NORMALIZADO": "Tsоnka Vaysilova",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 21214,
+      "ORIGINAL": "Elxan Məmmədov",
+      "NORMALIZADO": "Elxan Məmmədov",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 33189,
+      "ORIGINAL": "Zülfiyyə Hüseynova",
+      "NORMALIZADO": "Zülfiyyə Hüseynova",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 41255,
+      "ORIGINAL": "İradə Aşumova",
+      "NORMALIZADO": "İradə Aşumova",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 45417,
+      "ORIGINAL": "Emin Cəbrayilov",
+      "NORMALIZADO": "Emin Cəbrayilov",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 55230,
+      "ORIGINAL": "Tofiq Heydərov",
+      "NORMALIZADO": "Tofiq Heydərov",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 55231,
+      "ORIGINAL": "Asif Məlikov",
+      "NORMALIZADO": "Asif Məlikov",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 55331,
+      "ORIGINAL": "Zlatаn Vasilev",
+      "NORMALIZADO": "Zlatаn Vasilev",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 57257,
+      "ORIGINAL": "Vilayət Ağayev",
+      "NORMALIZADO": "Vilayət Ağayev",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 57259,
+      "ORIGINAL": "Məmmədsalam Haciyev",
+      "NORMALIZADO": "Məmmədsalam Haciyev",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 57261,
+      "ORIGINAL": "Davud Məhəmmədov",
+      "NORMALIZADO": "Davud Məhəmmədov",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 60439,
+      "ORIGINAL": "Məhyəddin Allahverdiyev",
+      "NORMALIZADO": "Məhyəddin Allahverdiyev",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 60501,
+      "ORIGINAL": "Rəşid Məmmədbəyov",
+      "NORMALIZADO": "Rəşid Məmmədbəyov",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 64985,
+      "ORIGINAL": "Vasif Əsadov",
+      "NORMALIZADO": "Vasif Əsadov",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 90027,
+      "ORIGINAL": "Ağası Məmmədov",
+      "NORMALIZADO": "Ağası Məmmədov",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 90108,
+      "ORIGINAL": "Vüqar Mursal Ələkbərov",
+      "NORMALIZADO": "Vüqar Mursal Ələkbərov",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 90112,
+      "ORIGINAL": "Əli Shamil İsmayılov",
+      "NORMALIZADO": "Əli Shamil İsmayılov",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 90159,
+      "ORIGINAL": "Ədalət Məmmədov",
+      "NORMALIZADO": "Ədalət Məmmədov",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 90206,
+      "ORIGINAL": "İlham Kərimov",
+      "NORMALIZADO": "İlham Kərimov",
+      "motivo": "letras no normalizables"
+    },
+    {
+      "ID": 91255,
+      "ORIGINAL": "Eleоnora Kezhova",
+      "NORMALIZADO": "Eleоnora Kezhova",
+      "motivo": "letras no normalizables"
+    }
+  ],
+  "ejemplos_cambio": [
+    {
+      "ID": 1,
+      "ORIGINAL": "Jean-François Blanchy",
+      "NORMALIZADO": "jean francois blanchy"
+    },
+    {
+      "ID": 2,
+      "ORIGINAL": "Arnaud Boetsch",
+      "NORMALIZADO": "arnaud boetsch"
+    },
+    {
+      "ID": 3,
+      "ORIGINAL": "Jean Borotra",
+      "NORMALIZADO": "jean borotra"
+    },
+    {
+      "ID": 4,
+      "ORIGINAL": "Jacques Brugnon",
+      "NORMALIZADO": "jacques brugnon"
+    },
+    {
+      "ID": 5,
+      "ORIGINAL": "Albert Canet",
+      "NORMALIZADO": "albert canet"
+    },
+    {
+      "ID": 6,
+      "ORIGINAL": "Nicolas Chatelain",
+      "NORMALIZADO": "nicolas chatelain"
+    },
+    {
+      "ID": 7,
+      "ORIGINAL": "Patrick Chila",
+      "NORMALIZADO": "patrick chila"
+    },
+    {
+      "ID": 8,
+      "ORIGINAL": "Henri Cochet",
+      "NORMALIZADO": "henri cochet"
+    },
+    {
+      "ID": 9,
+      "ORIGINAL": "Marcel Cousin",
+      "NORMALIZADO": "marcel cousin"
+    },
+    {
+      "ID": 10,
+      "ORIGINAL": "Guy de la Chapelle",
+      "NORMALIZADO": "guy de la chapelle"
+    },
+    {
+      "ID": 11,
+      "ORIGINAL": "Élie, Comte de Lastours",
+      "NORMALIZADO": "elie comte de lastours"
+    },
+    {
+      "ID": 12,
+      "ORIGINAL": "Max Decugis",
+      "NORMALIZADO": "max decugis"
+    },
+    {
+      "ID": 13,
+      "ORIGINAL": "J. Defert",
+      "NORMALIZADO": "j defert"
+    },
+    {
+      "ID": 14,
+      "ORIGINAL": "Étienne Durand",
+      "NORMALIZADO": "etienne durand"
+    },
+    {
+      "ID": 15,
+      "ORIGINAL": "Damien Éloi",
+      "NORMALIZADO": "damien eloi"
+    },
+    {
+      "ID": 16,
+      "ORIGINAL": "Adrien Fauchier-Magnan",
+      "NORMALIZADO": "adrien fauchier magnan"
+    },
+    {
+      "ID": 17,
+      "ORIGINAL": "Guy Forget",
+      "NORMALIZADO": "guy forget"
+    },
+    {
+      "ID": 18,
+      "ORIGINAL": "Jean-Philippe Gatien",
+      "NORMALIZADO": "jean philippe gatien"
+    },
+    {
+      "ID": 19,
+      "ORIGINAL": "Maurice Germot",
+      "NORMALIZADO": "maurice germot"
+    },
+    {
+      "ID": 20,
+      "ORIGINAL": "André Gobert",
+      "NORMALIZADO": "andre gobert"
+    }
+  ],
+  "paises": {
+    "total": 247,
+    "normalizados_ok": 247,
+    "fallback": 0
+  },
+  "sha256": {
+    "dim_paises_normalizados.csv": "fdecfa25ae6ef0e5e01c567e283938367797ec912205fb50075fc6667c2715c4",
+    "muestra_normalizacion.csv": "549cd1e50646a67c39faabfc03cb12c3e41be4c9ac108849dd162f8c12e6cd68"
+  }
+}

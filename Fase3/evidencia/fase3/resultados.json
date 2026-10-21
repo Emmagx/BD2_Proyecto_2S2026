@@ -1,0 +1,81 @@
+{
+  "generado_en": "2026-10-21T00:07:52-06:00",
+  "insertados": 156032,
+  "conteos": {
+    "resultados": 156032,
+    "multipais": 17308,
+    "multipais_empate": 9616,
+    "multipais_no_empate": 7692,
+    "equipo_mixto": 264,
+    "revisar": 45
+  },
+  "medallas": {
+    "SIN_MEDALLA": 135369,
+    "BRONCE": 6830,
+    "PLATA": 6880,
+    "ORO": 6953
+  },
+  "muestra_resultado_25": {
+    "_id": 25,
+    "edicion": {
+      "id": 9,
+      "anio": 1900,
+      "temporada": "Summer",
+      "categoria": "Senior"
+    },
+    "deporte": {
+      "id": 1,
+      "nombre": "Tennis"
+    },
+    "disciplina": {
+      "id": 2,
+      "nombre": "Doubles"
+    },
+    "evento": {
+      "id": 2,
+      "nombre": "Doubles, Men (Olympic)"
+    },
+    "posicion": 3,
+    "empate": true,
+    "estado": "COMPLETED",
+    "medalla": {
+      "id": 2,
+      "nombre": "Bronze",
+      "codigo": "BRONCE"
+    },
+    "atletas": [
+      {
+        "id": 10,
+        "nombre": "Guy de la Chapelle",
+        "noc": "FRA",
+        "edad": 32
+      },
+      {
+        "id": 31,
+        "nombre": "André Prévost",
+        "noc": "FRA",
+        "edad": 25
+      },
+      {
+        "id": 106,
+        "nombre": "Harold Mahony",
+        "noc": "GBR",
+        "edad": 33
+      },
+      {
+        "id": 109,
+        "nombre": "Arthur Norris",
+        "noc": "GBR",
+        "edad": null
+      }
+    ],
+    "paises": [
+      "FRA",
+      "GBR"
+    ],
+    "multipais": true,
+    "paisEquipo": null,
+    "equipoMixto": false,
+    "revisar": false
+  }
+}

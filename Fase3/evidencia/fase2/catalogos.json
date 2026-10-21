@@ -1,0 +1,38 @@
+{
+  "generado_en": "2026-10-21T00:07:33-06:00",
+  "insertados": 3583,
+  "conteos": {
+    "juego": 62,
+    "deporte": 93,
+    "disciplina": 1520,
+    "evento": 1904,
+    "medalla": 4
+  },
+  "muestra_juego": {
+    "_id": "juego:1",
+    "tipo": "juego",
+    "id": 1,
+    "anio": 1912,
+    "temporada": "Summer",
+    "temporadaOriginal": "Summer",
+    "categoria": "Senior",
+    "sedes": [
+      {
+        "ciudad": "Estocolmo",
+        "paisNoc": "SWE",
+        "paisHistorico": "Suecia",
+        "nota": "Sede única"
+      }
+    ],
+    "nombreNormalizado": "1912 summer"
+  },
+  "muestra_evento": {
+    "_id": "evento:1",
+    "tipo": "evento",
+    "id": 1,
+    "nombre": "Singles, Men (Olympic)",
+    "nombreNormalizado": "singles men olympic",
+    "deporteId": 1,
+    "disciplinaId": 1
+  }
+}

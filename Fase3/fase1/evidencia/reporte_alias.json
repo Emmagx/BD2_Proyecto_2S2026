@@ -1,0 +1,11 @@
+{
+  "generado_en": "2026-10-20T23:54:29-06:00",
+  "fuente": "pg",
+  "paises": 247,
+  "alias_validos": 109,
+  "alias_omitidos": [],
+  "alias_duplicados": [],
+  "sha256": {
+    "dim_alias_paises.csv": "21b14809e80733a9b05a4b17a3530c33c087d172c308d93262e3a0e4b831d4bb"
+  }
+}
