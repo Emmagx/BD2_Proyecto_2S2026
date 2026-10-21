@@ -32,7 +32,7 @@ echo "4. Levantando el contenedor..."
 docker compose up -d
 
 echo "5. Esperando a que PostgreSQL acepte conexiones..."
-until docker exec postgres_fase2 pg_isready -U postgres -q; do
+until docker exec postgres_cali pg_isready -U postgres -q; do
     sleep 0.1
 done
 

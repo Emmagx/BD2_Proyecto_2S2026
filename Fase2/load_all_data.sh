@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-CONTAINER_NAME="postgres_fase2"
+CONTAINER_NAME="postgres_cali"
 DB_NAME="olimpiadas_db"
 DB_USER="postgres"
 

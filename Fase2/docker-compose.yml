@@ -3,7 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: postgres_fase2
+    container_name: postgres_cali
     restart: always
     environment:
       POSTGRES_USER: postgres
