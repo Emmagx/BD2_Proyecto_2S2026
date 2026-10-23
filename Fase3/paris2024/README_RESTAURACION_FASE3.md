@@ -1,54 +1,72 @@
-# Restaurar la base MongoDB de Fase 3 (París 2024)
-## Archivos necesarios
+# Fase 3 — Restaurar MongoDB para el equipo (4 colecciones)
 
-- `restaurar_fase3.ps1`, colocado en la carpeta `Fase3/`.
-- `paris2024/respaldos/olimpiadas_mongo_fase3.archive.gz`, respaldo **final** generado por la persona que hizo la carga, **después** de los ETL y de la conciliación. No usar `antes_etl_equipos.archive.gz`.
-- Docker Desktop funcionando y un contenedor MongoDB en ejecución, por defecto `mongo_fase3`.
+ **no deben ejecutar los 55 scripts de carga**. Deben restaurar los datos ya procesados con `restaurar_fase3.ps1`.
 
-## Preparar el respaldo en la computadora de origen
+## Archivos
 
-Desde `Fase3`:
+- `Fase3/restaurar_fase3.ps1` (usar la nueva versión de cuatro colecciones).
+- `Fase3/paris2024/respaldos/olimpiadas_mongo_fase3.archive.gz` (copia final que comparte quien realizó la carga, por Drive). **El respaldo no está en GitHub**.
+- Docker Desktop con un contenedor MongoDB corriendo, normalmente `mongo_fase3`, y las herramientas `mongorestore` y `mongosh` dentro del contenedor.
 
-```powershell
-docker exec mongo_fase3 mongodump --db olimpiadas_mongo --archive=/tmp/olimpiadas_mongo_fase3.archive.gz --gzip
-docker cp mongo_fase3:/tmp/olimpiadas_mongo_fase3.archive.gz ".\paris2024\respaldos\olimpiadas_mongo_fase3.archive.gz"
-```
+## Cómo instalar en la computadora 
 
-Compartir el `.archive.gz` con el equipo por Drive o una ubicación acordada. Subir el código a Git; evitar subir los numerosos respaldos intermedios. Comprobar el tamaño del archivo antes de compartir.
-
-## En la computadora de cada compañero
-
-Abrir PowerShell en `Fase3`. Con Docker y el contenedor ya iniciados:
+1. Obtener el código del repositorio y descargar el respaldo final compartido.
+2. Colocar el respaldo en `Fase3/paris2024/respaldos/olimpiadas_mongo_fase3.archive.gz`.
+3. Abrir PowerShell dentro de `Fase3` y comprobar que el contenedor esté en ejecución.
+4. Ejecutar una comprobación sin modificar nada:
 
 ```powershell
 .\restaurar_fase3.ps1
 ```
 
-Esto **solo valida** los requisitos y no modifica los datos. Para ejecutar la restauración:
+5. Restaurar:
 
 ```powershell
 .\restaurar_fase3.ps1 -Reemplazar
 ```
 
-**Advertencia:** `-Reemplazar` utiliza `mongorestore --drop`: sustituye las colecciones incluidas en el respaldo dentro de `olimpiadas_mongo`. Usarlo solamente en una base local de pruebas cuando se acepta reemplazar su contenido. Si el contenedor tiene otro nombre:
+Si el contenedor tiene otro nombre:
 
 ```powershell
-.\restaurar_fase3.ps1 -Contenedor nombre_real -Reemplazar
+.\restaurar_fase3.ps1 -Contenedor mi_mongo -Reemplazar
 ```
 
-Si PowerShell impide ejecutar archivos `.ps1`, se puede invocar puntualmente desde `Fase3`:
+Si la política de ejecución bloquea el archivo:
 
 ```powershell
 powershell -NoProfile -ExecutionPolicy Bypass -File .\restaurar_fase3.ps1 -Reemplazar
 ```
 
-## Estado esperado
+**Cuidado:** `-Reemplazar` aplica `mongorestore --drop` a las **cuatro colecciones principales** del destino. No usar sobre una base cuyos datos deban conservarse. El script **no elimina otras colecciones preexistentes**: para ver exactamente cuatro en `show collections`, usar una base `olimpiadas_mongo` inicialmente vacía. No borraremos colecciones auxiliares automáticamente.
 
-- Resultados totales: **160244**
-- Resultados de París 2024: **4212**
-- Atletas: **149081**
-- Equipos preparados: **199** (131 resultados colectivos integrados, 68 equipos pendientes)
+## ¿Qué se restaura?
 
-El respaldo contiene las cargas realmente realizadas, **no la totalidad de resultados oficiales de París 2024**. Existen medallas, identidades y participaciones pendientes de verificación. También está pendiente la comprobación exhaustiva de ciertos resúmenes derivados tras la interrupción del cargador colectivo.
+Solamente estas cuatro colecciones, incluso si el respaldo incluye seis:
 
-Los scripts de ETL pueden conservarse en el repositorio como trazabilidad, pero no hace falta ejecutarlos para reproducir el estado final compartido.
+- `resultados`: 160,244 documentos (4,212 de París 2024 y 156,032 históricos).
+- `atletas`: 149,081 documentos.
+- `paises`: 247 documentos.
+- `catalogos`: 3,618 documentos.
+
+No se importan `paris2024_fuente` ni `paris2024_equipos_preparados`. Esas dos son auxiliares para ETL y auditoría, no necesarias para consultar el modelo principal ya cargado. Para repetir el ETL o auditar casos pendientes, conservar una copia completa de seis colecciones en el equipo de origen.
+
+## Comprobar las consultas
+
+```powershell
+docker exec -it mongo_fase3 mongosh olimpiadas_mongo
+```
+
+Dentro de MongoDB:
+
+```javascript
+show collections
+db.resultados.countDocuments({})
+db.resultados.countDocuments({"edicion.anio":2024})
+db.resultados.countDocuments({paises:"GUA", "medalla.nombre":{$in:["Gold","Silver","Bronze"]}})
+```
+
+El último ejemplo demuestra el acceso a un campo anidado (`medalla.nombre`), no `medalla` como texto.
+
+## Alcance
+
+El respaldo refleja las cargas realmente implementadas; **no incluye todos los resultados oficiales de París 2024**. Hay posiciones, medallas e identidades pendientes de revisión. La verificación final de conteos no sustituye una auditoría exhaustiva de los resúmenes derivados de atletas y países.
