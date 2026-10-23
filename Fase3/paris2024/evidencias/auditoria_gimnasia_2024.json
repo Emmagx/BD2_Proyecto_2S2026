@@ -1,0 +1,90 @@
+{
+  "filas_encontradas": 410,
+  "columnas": [
+    "player_id",
+    "Name",
+    "Sex",
+    "Team",
+    "NOC",
+    "Year",
+    "Season",
+    "City",
+    "Sport",
+    "Event",
+    "Medal"
+  ],
+  "campos_detectados": {
+    "anio": "Year",
+    "temporada": "Season",
+    "deporte": "Sport",
+    "evento": "Event",
+    "medalla": "Medal",
+    "atleta": "Name",
+    "id_atleta": "player_id",
+    "noc": "NOC"
+  },
+  "eventos": {
+    "Women's Balance Beam": {
+      "id_evento_historico_propuesto": 483,
+      "participaciones": 90,
+      "paises_distintos": 34,
+      "medallas_fuente": {
+        "No medal": 87,
+        "Gold": 1,
+        "Bronze": 1,
+        "Silver": 1
+      },
+      "equivalencia_confirmada": false
+    },
+    "Women's Floor Exercise": {
+      "id_evento_historico_propuesto": 480,
+      "participaciones": 88,
+      "paises_distintos": 33,
+      "medallas_fuente": {
+        "No medal": 85,
+        "Bronze": 1,
+        "Gold": 1,
+        "Silver": 1
+      },
+      "equivalencia_confirmada": false
+    },
+    "Men's Horizontal Bar": {
+      "id_evento_historico_propuesto": 493,
+      "participaciones": 80,
+      "paises_distintos": 29,
+      "medallas_fuente": {
+        "No medal": 76,
+        "Bronze": 2,
+        "Gold": 1,
+        "Silver": 1
+      },
+      "equivalencia_confirmada": false
+    },
+    "Men's Floor Exercise": {
+      "id_evento_historico_propuesto": 490,
+      "participaciones": 76,
+      "paises_distintos": 26,
+      "medallas_fuente": {
+        "No medal": 73,
+        "Bronze": 1,
+        "Silver": 1,
+        "Gold": 1
+      },
+      "equivalencia_confirmada": false
+    },
+    "Men's Rings": {
+      "id_evento_historico_propuesto": 494,
+      "participaciones": 76,
+      "paises_distintos": 26,
+      "medallas_fuente": {
+        "No medal": 73,
+        "Gold": 1,
+        "Silver": 1,
+        "Bronze": 1
+      },
+      "equivalencia_confirmada": false
+    }
+  },
+  "duplicados_atleta_evento": 0,
+  "estado": "AUDITORIA_SIN_INSERCION"
+}

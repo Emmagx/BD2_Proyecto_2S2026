@@ -1,0 +1,78 @@
+{
+  "grupos_encontrados": 205,
+  "equipos_preparados": 199,
+  "integrantes_fuente": 2589,
+  "clasificacion": {
+    "EQUIPO_PREPARADO": 199,
+    "MEDALLAS_INCONSISTENTES": 6
+  },
+  "pendientes": [
+    {
+      "deporte": "Beach Volleyball",
+      "evento": "Women",
+      "noc": "BRA",
+      "equipo": "Brazil",
+      "motivo": "MEDALLAS_INCONSISTENTES",
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Beach Volleyball",
+      "evento": "Women",
+      "noc": "CAN",
+      "equipo": "Canada",
+      "motivo": "MEDALLAS_INCONSISTENTES",
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Beach Volleyball",
+      "evento": "Women",
+      "noc": "SUI",
+      "equipo": "Switzerland",
+      "motivo": "MEDALLAS_INCONSISTENTES",
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Handball",
+      "evento": "Men",
+      "noc": "ESP",
+      "equipo": "Spain",
+      "motivo": "MEDALLAS_INCONSISTENTES",
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Handball",
+      "evento": "Women",
+      "noc": "DEN",
+      "equipo": "Denmark",
+      "motivo": "MEDALLAS_INCONSISTENTES",
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Handball",
+      "evento": "Women",
+      "noc": "NOR",
+      "equipo": "Norway",
+      "motivo": "MEDALLAS_INCONSISTENTES",
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    }
+  ],
+  "mongo_modificado": true
+}

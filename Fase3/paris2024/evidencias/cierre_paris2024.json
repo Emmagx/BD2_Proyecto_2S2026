@@ -1,0 +1,37 @@
+{
+  "generado": "2026-10-22T18:04:11.406228-06:00",
+  "tipo": "Cierre tecnico de carga incremental; no certificacion de resultados deportivos",
+  "conteos": {
+    "resultados_historicos": 156032,
+    "resultados_paris2024": 4212,
+    "resultados_totales": 160244,
+    "atletas_totales": 149081,
+    "paises_totales": 247,
+    "catalogos_totales": 3618,
+    "fuente_paris2024": 14892,
+    "equipos_preparados": 199
+  },
+  "equipos": {
+    "cargados": 131,
+    "integrantes_referenciados": 1607,
+    "por_estado": {
+      "INTEGRADO_PROVISIONAL": 131,
+      "PENDIENTE_VALIDACION": 68
+    },
+    "sin_integrar": 68,
+    "pendientes_medallistas": 42
+  },
+  "validaciones": {
+    "exitosas": true,
+    "errores": []
+  },
+  "advertencias": [
+    "Los 14,892 registros de fuente son participaciones atleta-evento, no resultados independientes.",
+    "Resultados 2024 provisionales conservan estado por verificar; no constituyen clasificaciones oficiales completas.",
+    "La consistencia de conteos y referencias no equivale a verificacion deportiva de medallas, posiciones o identidades.",
+    "No volver a ejecutar --aplicar sobre cargas ya confirmadas sin auditoria y respaldo actualizado."
+  ],
+  "documentos_salida": {
+    "pendientes_csv": "C:\\Users\\vngg1\\OneDrive\\Documentos\\universidad\\10 DECIMO SEMESTRE\\LAB Bases2\\FASE3-PROYECTO\\BD2_Proyecto_2S2026\\Fase3\\paris2024\\evidencias\\pendientes_equipos_paris2024.csv"
+  }
+}

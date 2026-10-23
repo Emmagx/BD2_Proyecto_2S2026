@@ -1,0 +1,17 @@
+{
+  "generado_en": "2026-10-21T18:42:22-06:00",
+  "archivo_origen": "olympics_dataset.csv",
+  "registros_2024_totales": 14892,
+  "registros_en_casos_especiales": 536,
+  "pares_deporte_evento": 36,
+  "conteo_por_deporte_original": {
+    "Breaking": 33,
+    "Cycling Road, Cycling Mountain Bike": 4,
+    "Cycling Road, Cycling Track": 30,
+    "Cycling Road, Triathlon": 2,
+    "Equestrian": 415,
+    "Marathon Swimming, Swimming": 52
+  },
+  "catalogo_historico_disponible": true,
+  "advertencia": "Sugerencias orientativas. Sin asignación de IDs ni modificaciones a bases de datos."
+}

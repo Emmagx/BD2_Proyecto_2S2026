@@ -1,0 +1,83 @@
+{
+  "fecha_ejecucion": "2026-10-21T18:02:17.389359-06:00",
+  "archivo": "olympics_dataset.csv",
+  "registros_historicos": 252565,
+  "participaciones_2024": 14892,
+  "atletas_distintos_por_id": 11113,
+  "delegaciones_distintas_por_noc": 206,
+  "deportes_distintos": 50,
+  "eventos_distintos": 289,
+  "registros_por_medalla": {
+    "Silver": 744,
+    "Bronze": 794,
+    "No medal": 12611,
+    "Gold": 743
+  },
+  "muestras": [
+    {
+      "player_id": "1532872",
+      "Name": "Artur Aleksanyan",
+      "Sex": "M",
+      "Team": "Armenia",
+      "NOC": "ARM",
+      "Year": "2024",
+      "Season": "Summer",
+      "City": "Paris",
+      "Sport": "Wrestling",
+      "Event": "Men's Greco-Roman 97kg",
+      "Medal": "Silver"
+    },
+    {
+      "player_id": "1532873",
+      "Name": "Malkhas Amoyan",
+      "Sex": "M",
+      "Team": "Armenia",
+      "NOC": "ARM",
+      "Year": "2024",
+      "Season": "Summer",
+      "City": "Paris",
+      "Sport": "Wrestling",
+      "Event": "Men's Greco-Roman 77kg",
+      "Medal": "Bronze"
+    },
+    {
+      "player_id": "1532874",
+      "Name": "Slavik Galstyan",
+      "Sex": "M",
+      "Team": "Armenia",
+      "NOC": "ARM",
+      "Year": "2024",
+      "Season": "Summer",
+      "City": "Paris",
+      "Sport": "Wrestling",
+      "Event": "Men's Greco-Roman 67kg",
+      "Medal": "No medal"
+    },
+    {
+      "player_id": "1532944",
+      "Name": "Arsen Harutyunyan",
+      "Sex": "M",
+      "Team": "Armenia",
+      "NOC": "ARM",
+      "Year": "2024",
+      "Season": "Summer",
+      "City": "Paris",
+      "Sport": "Wrestling",
+      "Event": "Men's Freestyle 57kg",
+      "Medal": "No medal"
+    },
+    {
+      "player_id": "1532945",
+      "Name": "Vazgen Tevanyan",
+      "Sex": "M",
+      "Team": "Armenia",
+      "NOC": "ARM",
+      "Year": "2024",
+      "Season": "Summer",
+      "City": "Paris",
+      "Sport": "Wrestling",
+      "Event": "Men's Freestyle 65kg",
+      "Medal": "No medal"
+    }
+  ]
+}

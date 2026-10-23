@@ -1,0 +1,34 @@
+{
+  "filas_fuente": 14892,
+  "resultados_definitivos_2024": 115,
+  "candidatos": 714,
+  "clasificacion": {
+    "EVENTO_SIN_MAPEO_UNICO": 5508,
+    "PRUEBA_COLECTIVA_REVISAR": 6063,
+    "IDENTIDAD_SIN_MAPEO_UNICO": 2009,
+    "CANDIDATO_PARA_REVISION": 714,
+    "DEPORTE_SIN_MAPEO_UNICO": 358,
+    "YA_INTEGRADO": 108,
+    "NOC_SIN_PAIS": 46,
+    "MEDALLA_REQUIERE_VALIDACION": 86
+  },
+  "candidatos_por_deporte": {
+    "Rowing": 52,
+    "Artistic Gymnastics": 43,
+    "Modern Pentathlon": 18,
+    "Archery": 26,
+    "Shooting": 37,
+    "Athletics": 209,
+    "Table Tennis": 52,
+    "Badminton": 19,
+    "Fencing": 60,
+    "Tennis": 41,
+    "Sailing": 25,
+    "Cycling Track": 65,
+    "Cycling Road": 14,
+    "Cycling Mountain Bike": 21,
+    "Skateboarding": 27,
+    "Cycling BMX Freestyle": 5
+  },
+  "mongo_modificado": false
+}

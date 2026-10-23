@@ -1,0 +1,125 @@
+{
+  "modo": "APLICACION",
+  "atletas": {
+    "143537": {
+      "participaciones": 2,
+      "juegos": 2,
+      "anios": [
+        2020,
+        2024
+      ],
+      "deportes": [
+        "Shooting"
+      ],
+      "medallas": {
+        "oro": 1,
+        "plata": 0,
+        "bronce": 0,
+        "total": 1
+      }
+    },
+    "123253": {
+      "participaciones": 2,
+      "juegos": 2,
+      "anios": [
+        2012,
+        2024
+      ],
+      "deportes": [
+        "Shooting"
+      ],
+      "medallas": {
+        "oro": 0,
+        "plata": 0,
+        "bronce": 1,
+        "total": 1
+      }
+    },
+    "143538": {
+      "participaciones": 2,
+      "juegos": 2,
+      "anios": [
+        2020,
+        2024
+      ],
+      "deportes": [
+        "Shooting"
+      ],
+      "medallas": {
+        "oro": 0,
+        "plata": 0,
+        "bronce": 0,
+        "total": 0
+      }
+    }
+  },
+  "guatemala": {
+    "participaciones": 466,
+    "atletas": 254,
+    "juegos": 19,
+    "anios": [
+      1952,
+      1968,
+      1972,
+      1976,
+      1980,
+      1984,
+      1988,
+      1992,
+      1996,
+      2000,
+      2004,
+      2008,
+      2010,
+      2012,
+      2014,
+      2016,
+      2020,
+      2024
+    ],
+    "deportes": [
+      "Alpine Skiing (Skiing)",
+      "Artistic Gymnastics (Gymnastics)",
+      "Athletics",
+      "Badminton",
+      "Boxing",
+      "Canoe Slalom (Canoeing)",
+      "Cross Country Skiing (Skiing)",
+      "Cycling Road (Cycling)",
+      "Cycling Track (Cycling)",
+      "Equestrian Eventing (Equestrian)",
+      "Equestrian Jumping (Equestrian)",
+      "Fencing",
+      "Football (Football)",
+      "Judo",
+      "Modern Pentathlon",
+      "Rowing",
+      "Sailing",
+      "Shooting",
+      "Swimming (Aquatics)",
+      "Taekwondo",
+      "Weightlifting",
+      "Wrestling"
+    ],
+    "medallas": {
+      "oro": 1,
+      "plata": 1,
+      "bronce": 1,
+      "total": 3
+    },
+    "medallasAtleta": {
+      "oro": 1,
+      "plata": 1,
+      "bronce": 1,
+      "total": 3
+    },
+    "medallasMixtas": {
+      "oro": 0,
+      "plata": 0,
+      "bronce": 0,
+      "total": 0
+    },
+    "primerAnio": 1952,
+    "ultimoAnio": 2024
+  }
+}

@@ -1,0 +1,3735 @@
+{
+  "filas": 14892,
+  "campos": {
+    "player_id": 14892,
+    "Name": 14892,
+    "Sex": 14892,
+    "Team": 14892,
+    "NOC": 14892,
+    "Year": 14892,
+    "Season": 14892,
+    "City": 14892,
+    "Sport": 14892,
+    "Event": 14892,
+    "Medal": 14892
+  },
+  "posibles_campos_equipo": [
+    "Team",
+    "NOC"
+  ],
+  "grupos_multideportista": 2882,
+  "grupos_medallas_diferentes": [
+    {
+      "deporte": "Diving",
+      "evento": "Men's 3m Springboard",
+      "noc": "MEX",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 800m",
+      "noc": "ETH",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Triple Jump",
+      "noc": "JAM",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 10,000m",
+      "noc": "ETH",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "50m Rifle 3 Positions Men",
+      "noc": "IND",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Pistol Women",
+      "noc": "IND",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Pistol Mixed Team",
+      "noc": "IND",
+      "integrantes": 4,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Archery",
+      "evento": "Women's Individual",
+      "noc": "FRA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Badminton",
+      "evento": "Women's Doubles",
+      "noc": "JPN",
+      "integrantes": 4,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Triathlon",
+      "evento": "Women's Individual",
+      "noc": "FRA",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Triathlon",
+      "evento": "Men's Individual",
+      "noc": "FRA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Skateboarding",
+      "evento": "Women's Park",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Sport Climbing",
+      "evento": "Men's Boulder & Lead",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Javelin Throw",
+      "noc": "IND",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Modern Pentathlon",
+      "evento": "Women's Individual",
+      "noc": "FRA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 10,000m",
+      "noc": "UGA",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Rhythmic Gymnastics",
+      "evento": "Individual All-Around",
+      "noc": "BUL",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Women's Floor Exercise",
+      "noc": "ROU",
+      "integrantes": 5,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Women's Balance Beam",
+      "noc": "ITA",
+      "integrantes": 5,
+      "medallas": [
+        "Bronze",
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Pistol Men",
+      "noc": "ITA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Triple Jump",
+      "noc": "ITA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Modern Pentathlon",
+      "evento": "Men's Individual",
+      "noc": "ITA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Discus Throw",
+      "noc": "JAM",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Tennis",
+      "evento": "Women's Singles",
+      "noc": "CRO",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 3000m Steeplechase",
+      "noc": "MAR",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 100m",
+      "noc": "JAM",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Tennis",
+      "evento": "Men's Singles",
+      "noc": "ITA",
+      "integrantes": 4,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Tennis",
+      "evento": "Women's Doubles",
+      "noc": "ITA",
+      "integrantes": 4,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 110m Hurdles",
+      "noc": "JAM",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Sport Climbing",
+      "evento": "Women's Speed",
+      "noc": "POL",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "Gold"
+      ]
+    },
+    {
+      "deporte": "Table Tennis",
+      "evento": "Men's Singles",
+      "noc": "SWE",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Tennis",
+      "evento": "Men's Singles",
+      "noc": "ESP",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Canoe Sprint",
+      "evento": "Women's Canoe Single 200m",
+      "noc": "CUB",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Pistol Mixed Team",
+      "noc": "TUR",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Long Jump",
+      "noc": "JAM",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Surfing",
+      "evento": "Women",
+      "noc": "FRA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Surfing",
+      "evento": "Men",
+      "noc": "FRA",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Canoe Sprint",
+      "evento": "Women's Kayak Single 500m",
+      "noc": "HUN",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Canoe Sprint",
+      "evento": "Women's Kayak Double 500m",
+      "noc": "HUN",
+      "integrantes": 4,
+      "medallas": [
+        "Bronze",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Canoe Sprint",
+      "evento": "Men's Kayak Single 1000m",
+      "noc": "HUN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Canoe Sprint",
+      "evento": "Men's Kayak Double 500m",
+      "noc": "HUN",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's High Jump",
+      "noc": "UKR",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 100m Freestyle",
+      "noc": "SWE",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 50m Freestyle",
+      "noc": "SWE",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Rifle Men",
+      "noc": "SWE",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Women's Omnium",
+      "noc": "POL",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 400m",
+      "noc": "POL",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Modern Pentathlon",
+      "evento": "Women's Individual",
+      "noc": "KOR",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Decathlon",
+      "noc": "NOR",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Handball",
+      "evento": "Women",
+      "noc": "NOR",
+      "integrantes": 17,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Men's Madison",
+      "noc": "DEN",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Breaking",
+      "evento": "B-Boys",
+      "noc": "FRA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Canoe Slalom",
+      "evento": "Women's Kayak Cross",
+      "noc": "FRA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Rifle Men",
+      "noc": "CRO",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "25m Pistol Women",
+      "noc": "FRA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Badminton",
+      "evento": "Men's Singles",
+      "noc": "DEN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 5000m",
+      "noc": "NOR",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Table Tennis",
+      "evento": "Men's Singles",
+      "noc": "FRA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Women's Sprint",
+      "noc": "GER",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Badminton",
+      "evento": "Women's Singles",
+      "noc": "KOR",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Badminton",
+      "evento": "Mixed Doubles",
+      "noc": "KOR",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 400m Individual Medley",
+      "noc": "JPN",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Sport Climbing",
+      "evento": "Men's Boulder & Lead",
+      "noc": "JPN",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Javelin Throw",
+      "noc": "CZE",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Golf",
+      "evento": "Women's Individual Stroke Play",
+      "noc": "GER",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Rifle Women",
+      "noc": "KOR",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Rifle Mixed Team",
+      "noc": "KOR",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "25m Rapid Fire Pistol Men",
+      "noc": "KOR",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Pistol Women",
+      "noc": "KOR",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "25m Pistol Women",
+      "noc": "KOR",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Handball",
+      "evento": "Women",
+      "noc": "DEN",
+      "integrantes": 17,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Marathon",
+      "noc": "BEL",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Heptathlon",
+      "noc": "BEL",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "Gold"
+      ]
+    },
+    {
+      "deporte": "Cycling Road",
+      "evento": "Men's Road Race",
+      "noc": "FRA",
+      "integrantes": 4,
+      "medallas": [
+        "Bronze",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling BMX Racing",
+      "evento": "Men",
+      "noc": "FRA",
+      "integrantes": 4,
+      "medallas": [
+        "Bronze",
+        "Gold",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Men's Omnium",
+      "noc": "FRA",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Mountain Bike",
+      "evento": "Women's Cross-country",
+      "noc": "FRA",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Mountain Bike",
+      "evento": "Men's Cross-country",
+      "noc": "FRA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Canoe Slalom",
+      "evento": "Men's Kayak Cross",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Canoe Slalom",
+      "evento": "Women's Kayak Cross",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Rhythmic Gymnastics",
+      "evento": "Individual All-Around",
+      "noc": "GER",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Fencing",
+      "evento": "Men's Épée Individual",
+      "noc": "JPN",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Men's Parallel Bars",
+      "noc": "UKR",
+      "integrantes": 5,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Fencing",
+      "evento": "Women's Sabre Individual",
+      "noc": "UKR",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Golf",
+      "evento": "Men's Individual Stroke Play",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "25m Pistol Women",
+      "noc": "HUN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Diving",
+      "evento": "Men's 10m Platform",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Marathon",
+      "noc": "ETH",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Marathon",
+      "noc": "ETH",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Diving",
+      "evento": "Women's 3m Springboard",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "Gold"
+      ]
+    },
+    {
+      "deporte": "Diving",
+      "evento": "Women's 10m Platform",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Diving",
+      "evento": "Men's 3m Springboard",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Diving",
+      "evento": "Men's 10m Platform",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Skateboarding",
+      "evento": "Women's Street",
+      "noc": "JPN",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Skateboarding",
+      "evento": "Men's Street",
+      "noc": "JPN",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Skateboarding",
+      "evento": "Women's Park",
+      "noc": "JPN",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Archery",
+      "evento": "Women's Individual",
+      "noc": "KOR",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Archery",
+      "evento": "Men's Individual",
+      "noc": "KOR",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Table Tennis",
+      "evento": "Men's Singles",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Table Tennis",
+      "evento": "Women's Singles",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling Road",
+      "evento": "Men's Road Race",
+      "noc": "BEL",
+      "integrantes": 4,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Road",
+      "evento": "Men's Individual Time Trial",
+      "noc": "BEL",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "Gold"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Men's Omnium",
+      "noc": "BEL",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 50m Freestyle",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 200m Individual Medley",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 200m Freestyle",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 100m Breaststroke",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Marathon Race Walk Relay Mixed",
+      "noc": "ESP",
+      "integrantes": 7,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 20km Race Walk",
+      "noc": "ESP",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 20km Race Walk",
+      "noc": "ESP",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Triathlon",
+      "evento": "Men's Individual",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Triathlon",
+      "evento": "Women's Individual",
+      "noc": "GBR",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "Trap Men",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Men's Floor Exercise",
+      "noc": "GBR",
+      "integrantes": 5,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Men's Vault",
+      "noc": "GBR",
+      "integrantes": 5,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Trampoline Gymnastics",
+      "evento": "Women",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 100m Butterfly",
+      "noc": "HUN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 200m Backstroke",
+      "noc": "HUN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 200m Butterfly",
+      "noc": "HUN",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 50m Freestyle",
+      "noc": "FRA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Breaking",
+      "evento": "B-Girls",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 800m",
+      "noc": "KEN",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 800m",
+      "noc": "KEN",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 5000m",
+      "noc": "KEN",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 10,000m",
+      "noc": "KEN",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 5000m",
+      "noc": "KEN",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 3000m Steeplechase",
+      "noc": "KEN",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 3000m Steeplechase",
+      "noc": "KEN",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Marathon",
+      "noc": "KEN",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 1500m",
+      "noc": "KEN",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 100m Hurdles",
+      "noc": "FRA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Women's Madison",
+      "noc": "GBR",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Women's Keirin",
+      "noc": "GBR",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Women's Sprint",
+      "noc": "GBR",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Men's Sprint",
+      "noc": "GBR",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Golf",
+      "evento": "Women's Individual Stroke Play",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Badminton",
+      "evento": "Mixed Doubles",
+      "noc": "CHN",
+      "integrantes": 4,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Badminton",
+      "evento": "Men's Doubles",
+      "noc": "CHN",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Badminton",
+      "evento": "Women's Singles",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Badminton",
+      "evento": "Women's Doubles",
+      "noc": "CHN",
+      "integrantes": 4,
+      "medallas": [
+        "Gold",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Sport Climbing",
+      "evento": "Men's Speed",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Sport Climbing",
+      "evento": "Women's Speed",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Canoe Sprint",
+      "evento": "Men's Kayak Double 500m",
+      "noc": "GER",
+      "integrantes": 4,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Canoe Sprint",
+      "evento": "Women's Kayak Double 500m",
+      "noc": "GER",
+      "integrantes": 4,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Canoe Slalom",
+      "evento": "Men's Kayak Cross",
+      "noc": "GER",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Rifle Men",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "50m Rifle 3 Positions Men",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Rifle Mixed Team",
+      "noc": "CHN",
+      "integrantes": 4,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Pistol Men",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "25m Rapid Fire Pistol Men",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "Gold"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "Trap Men",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Rifle Women",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "50m Rifle 3 Positions Women",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Equestrian",
+      "evento": "Dressage Individual",
+      "noc": "GER",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Equestrian",
+      "evento": "Jumping Individual",
+      "noc": "GER",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Equestrian",
+      "evento": "Eventing Individual",
+      "noc": "GER",
+      "integrantes": 4,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "Trap Women",
+      "noc": "ITA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "Skeet Mixed Team",
+      "noc": "ITA",
+      "integrantes": 4,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Fencing",
+      "evento": "Women's Épée Individual",
+      "noc": "FRA",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Fencing",
+      "evento": "Men's Épée Individual",
+      "noc": "FRA",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Fencing",
+      "evento": "Women's Sabre Individual",
+      "noc": "FRA",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Hammer Throw",
+      "noc": "HUN",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Trampoline Gymnastics",
+      "evento": "Men",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Men's Horizontal Bar",
+      "noc": "CHN",
+      "integrantes": 5,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Men's Parallel Bars",
+      "noc": "CHN",
+      "integrantes": 5,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Men's Rings",
+      "noc": "CHN",
+      "integrantes": 5,
+      "medallas": [
+        "Gold",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Men's All-Around",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Women's Balance Beam",
+      "noc": "CHN",
+      "integrantes": 5,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Women's Uneven Bars",
+      "noc": "CHN",
+      "integrantes": 5,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 20km Race Walk",
+      "noc": "CHN",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Shot Put",
+      "noc": "CHN",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Discus Throw",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Hammer Throw",
+      "noc": "CHN",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Men's Horizontal Bar",
+      "noc": "JPN",
+      "integrantes": 5,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Men's Parallel Bars",
+      "noc": "JPN",
+      "integrantes": 5,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Men's All-Around",
+      "noc": "JPN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Javelin Throw",
+      "noc": "JPN",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Decathlon",
+      "noc": "GER",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Shot Put",
+      "noc": "GER",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Long Jump",
+      "noc": "GER",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling BMX Freestyle",
+      "evento": "Women's Park",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Discus Throw",
+      "noc": "CRO",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Discus Throw",
+      "noc": "LTU",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Rhythmic Gymnastics",
+      "evento": "Individual All-Around",
+      "noc": "ITA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Fencing",
+      "evento": "Men's Foil Individual",
+      "noc": "ITA",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "4 x 400m Relay Mixed",
+      "noc": "GBR",
+      "integrantes": 10,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 4 x 400m Relay",
+      "noc": "GBR",
+      "integrantes": 8,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 400m",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 4 x 100m Relay",
+      "noc": "GBR",
+      "integrantes": 6,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 1500m",
+      "noc": "GBR",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 800m",
+      "noc": "GBR",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 1500m",
+      "noc": "GBR",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Heptathlon",
+      "noc": "GBR",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Fencing",
+      "evento": "Men's Sabre Individual",
+      "noc": "ITA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 100m Breaststroke",
+      "noc": "ITA",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 100m Backstroke",
+      "noc": "ITA",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Triathlon",
+      "evento": "Men's Individual",
+      "noc": "NZL",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Fencing",
+      "evento": "Men's Sabre Individual",
+      "noc": "KOR",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Tennis",
+      "evento": "Mixed Doubles",
+      "noc": "CHN",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Tennis",
+      "evento": "Women's Singles",
+      "noc": "CHN",
+      "integrantes": 4,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 20km Race Walk",
+      "noc": "ECU",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Marathon Race Walk Relay Mixed",
+      "noc": "ECU",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Rifle Mixed Team",
+      "noc": "KAZ",
+      "integrantes": 4,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Tennis",
+      "evento": "Men's Doubles",
+      "noc": "USA",
+      "integrantes": 4,
+      "medallas": [
+        "Bronze",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Table Tennis",
+      "evento": "Women's Singles",
+      "noc": "JPN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Men's Pommel Horse",
+      "noc": "KAZ",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Tennis",
+      "evento": "Women's Singles",
+      "noc": "POL",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Modern Pentathlon",
+      "evento": "Men's Individual",
+      "noc": "EGY",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Marathon",
+      "noc": "KEN",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Men's Madison",
+      "noc": "POR",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Men's Omnium",
+      "noc": "POR",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 100m Backstroke",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 200m Backstroke",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 100m Backstroke",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 200m Breaststroke",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 200m Individual Medley",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 100m Breaststroke",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 1500m Freestyle",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 800m Freestyle",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 400m Individual Medley",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 200m Freestyle",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 100m Butterfly",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 100m Freestyle",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 400m Freestyle",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 800m Freestyle",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "Gold"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 200m Butterfly",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Fencing",
+      "evento": "Men's Épée Individual",
+      "noc": "EGY",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Modern Pentathlon",
+      "evento": "Women's Individual",
+      "noc": "HUN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 4 x 400m Relay",
+      "noc": "BOT",
+      "integrantes": 7,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Trampoline Gymnastics",
+      "evento": "Women",
+      "noc": "AIN",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Triple Jump",
+      "noc": "POR",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Marathon Race Walk Relay Mixed",
+      "noc": "AUS",
+      "integrantes": 6,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's High Jump",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 1500m",
+      "noc": "AUS",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 20km Race Walk",
+      "noc": "AUS",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling BMX Racing",
+      "evento": "Women",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Canoe Slalom",
+      "evento": "Women's Kayak Cross",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Men's Keirin",
+      "noc": "AUS",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Men's Sprint",
+      "noc": "AUS",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Sport Climbing",
+      "evento": "Men's Speed",
+      "noc": "INA",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Diving",
+      "evento": "Women's 3m Springboard",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Equestrian",
+      "evento": "Eventing Individual",
+      "noc": "AUS",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Surfing",
+      "evento": "Women",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Skateboarding",
+      "evento": "Men's Street",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Skateboarding",
+      "evento": "Men's Park",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "Skeet Men",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "Skeet Mixed Team",
+      "noc": "USA",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "50m Rifle 3 Positions Women",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "Skeet Women",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Women's Sprint",
+      "noc": "NZL",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Women's Keirin",
+      "noc": "NZL",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 200m Butterfly",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 50m Freestyle",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 100m Freestyle",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 100m Breaststroke",
+      "noc": "CHN",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Canoe Sprint",
+      "evento": "Women's Kayak Double 500m",
+      "noc": "NZL",
+      "integrantes": 4,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Canoe Sprint",
+      "evento": "Women's Kayak Single 500m",
+      "noc": "NZL",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Skateboarding",
+      "evento": "Women's Park",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Skateboarding",
+      "evento": "Men's Park",
+      "noc": "AUS",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Surfing",
+      "evento": "Men",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 200m Freestyle",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 400m Freestyle",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 800m Freestyle",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 50m Freestyle",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 400m Freestyle",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 200m Individual Medley",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 100m Backstroke",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 200m Breaststroke",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 200m Backstroke",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 100m Freestyle",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 50m Freestyle",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Handball",
+      "evento": "Men",
+      "noc": "ESP",
+      "integrantes": 16,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Sport Climbing",
+      "evento": "Women's Boulder & Lead",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Sport Climbing",
+      "evento": "Men's Speed",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Fencing",
+      "evento": "Women's Foil Individual",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Fencing",
+      "evento": "Men's Foil Individual",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Golf",
+      "evento": "Men's Individual Stroke Play",
+      "noc": "USA",
+      "integrantes": 4,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 400m Hurdles",
+      "noc": "BRA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 20km Race Walk",
+      "noc": "BRA",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Canoe Sprint",
+      "evento": "Men's Canoe Single 1000m",
+      "noc": "BRA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Breaking",
+      "evento": "B-Girls",
+      "noc": "JPN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Women's All-Around",
+      "noc": "BRA",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Women's Floor Exercise",
+      "noc": "BRA",
+      "integrantes": 5,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Women's Vault",
+      "noc": "BRA",
+      "integrantes": 5,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 200m Backstroke",
+      "noc": "GRE",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling Mountain Bike",
+      "evento": "Women's Cross-country",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling BMX Freestyle",
+      "evento": "Women's Park",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Women's Omnium",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Breaking",
+      "evento": "B-Boys",
+      "noc": "USA",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Skateboarding",
+      "evento": "Men's Park",
+      "noc": "BRA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Skateboarding",
+      "evento": "Women's Street",
+      "noc": "BRA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Surfing",
+      "evento": "Men",
+      "noc": "BRA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Surfing",
+      "evento": "Women",
+      "noc": "BRA",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Tennis",
+      "evento": "Men's Singles",
+      "noc": "SRB",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "Trap Women",
+      "noc": "GUA",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Men's Pommel Horse",
+      "noc": "USA",
+      "integrantes": 5,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Women's Floor Exercise",
+      "noc": "USA",
+      "integrantes": 5,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Women's Uneven Bars",
+      "noc": "USA",
+      "integrantes": 5,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Women's Vault",
+      "noc": "USA",
+      "integrantes": 5,
+      "medallas": [
+        "Bronze",
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Artistic Gymnastics",
+      "evento": "Women's All-Around",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 4 x 400m Relay",
+      "noc": "USA",
+      "integrantes": 9,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "4 x 400m Relay Mixed",
+      "noc": "USA",
+      "integrantes": 8,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 4 x 100m Relay",
+      "noc": "USA",
+      "integrantes": 7,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 5000m",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 110m Hurdles",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 100m Hurdles",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 100m",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 200m",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 400m",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Pole Vault",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 4 x 400m Relay",
+      "noc": "USA",
+      "integrantes": 9,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 100m",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 10,000m",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 400m Hurdles",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 200m",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 400m Hurdles",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Shot Put",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Long Jump",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Discus Throw",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Hammer Throw",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 1500m",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's High Jump",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Triple Jump",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Golf",
+      "evento": "Men's Individual Stroke Play",
+      "noc": "JPN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 200m Breaststroke",
+      "noc": "RSA",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 800m",
+      "noc": "ALG",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Beach Volleyball",
+      "evento": "Women",
+      "noc": "BRA",
+      "integrantes": 4,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Canoe Sprint",
+      "evento": "Women's Canoe Single 200m",
+      "noc": "CAN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Pole Vault",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 3000m Steeplechase",
+      "noc": "USA",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 100m Butterfly",
+      "noc": "CAN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 400m Individual Medley",
+      "noc": "CAN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 200m Backstroke",
+      "noc": "CAN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Women's 200m Individual Medley",
+      "noc": "CAN",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Beach Volleyball",
+      "evento": "Women",
+      "noc": "CAN",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "Trap Women",
+      "noc": "AUS",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Tennis",
+      "evento": "Men's Doubles",
+      "noc": "AUS",
+      "integrantes": 4,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Road",
+      "evento": "Women's Road Race",
+      "noc": "NED",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Women's Madison",
+      "noc": "NED",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling BMX Racing",
+      "evento": "Women",
+      "noc": "NED",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Women's Keirin",
+      "noc": "NED",
+      "integrantes": 3,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Men's Keirin",
+      "noc": "NED",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling Track",
+      "evento": "Men's Sprint",
+      "noc": "NED",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Equestrian",
+      "evento": "Eventing Individual",
+      "noc": "GBR",
+      "integrantes": 4,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Equestrian",
+      "evento": "Dressage Individual",
+      "noc": "GBR",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 400m Hurdles",
+      "noc": "NED",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 10,000m",
+      "noc": "NED",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's 5000m",
+      "noc": "NED",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Marathon",
+      "noc": "NED",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Swimming",
+      "evento": "Men's 200m Breaststroke",
+      "noc": "NED",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Fencing",
+      "evento": "Women's Foil Individual",
+      "noc": "CAN",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 4 x 100m Relay",
+      "noc": "CAN",
+      "integrantes": 7,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's Hammer Throw",
+      "noc": "CAN",
+      "integrantes": 3,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Women's Pole Vault",
+      "noc": "CAN",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Cycling BMX Racing",
+      "evento": "Women",
+      "noc": "SUI",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Beach Volleyball",
+      "evento": "Women",
+      "noc": "SUI",
+      "integrantes": 4,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "10m Air Rifle Women",
+      "noc": "SUI",
+      "integrantes": 2,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Shooting",
+      "evento": "50m Rifle 3 Positions Women",
+      "noc": "SUI",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Triathlon",
+      "evento": "Women's Individual",
+      "noc": "SUI",
+      "integrantes": 2,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Equestrian",
+      "evento": "Jumping Individual",
+      "noc": "SUI",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Equestrian",
+      "evento": "Jumping Individual",
+      "noc": "NED",
+      "integrantes": 3,
+      "medallas": [
+        "Bronze",
+        "No medal"
+      ]
+    },
+    {
+      "deporte": "Tennis",
+      "evento": "Women's Doubles",
+      "noc": "AIN",
+      "integrantes": 4,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Athletics",
+      "evento": "Men's 4 x 100m Relay",
+      "noc": "RSA",
+      "integrantes": 5,
+      "medallas": [
+        "No medal",
+        "Silver"
+      ]
+    },
+    {
+      "deporte": "Sport Climbing",
+      "evento": "Women's Boulder & Lead",
+      "noc": "SLO",
+      "integrantes": 2,
+      "medallas": [
+        "Gold",
+        "No medal"
+      ]
+    }
+  ],
+  "filas_por_deporte": {
+    "Athletics": 1670,
+    "Triathlon": 85,
+    "Artistic Swimming": 133,
+    "Rowing": 439,
+    "Diving": 134,
+    "Equestrian": 381,
+    "Artistic Gymnastics": 1027,
+    "Rhythmic Gymnastics": 78,
+    "Modern Pentathlon": 46,
+    "Archery": 198,
+    "Shooting": 362,
+    "Canoe Sprint": 278,
+    "Football": 553,
+    "Swimming": 998,
+    "Table Tennis": 216,
+    "Golf": 106,
+    "Badminton": 116,
+    "Sailing": 156,
+    "Hockey": 415,
+    "Cycling BMX Racing": 56,
+    "Rugby Sevens": 317,
+    "Cycling Track": 412,
+    "Cycling Road": 130,
+    "Handball": 386,
+    "Skateboarding": 66,
+    "Fencing": 336,
+    "Tennis": 275,
+    "Marathon Swimming": 12,
+    "Sport Climbing": 40,
+    "Canoe Slalom": 44,
+    "Cycling Mountain Bike": 30,
+    "Judo": 181,
+    "Beach Volleyball": 96,
+    "Basketball": 287,
+    "Water Polo": 286,
+    "Surfing": 30,
+    "Volleyball": 311,
+    "3x3 Basketball": 64,
+    "Breaking": 18,
+    "Marathon Swimming, Swimming": 6,
+    "Trampoline Gymnastics": 8,
+    "Cycling BMX Freestyle": 6,
+    "Cycling Road, Cycling Track": 6
+  },
+  "nota": "Agrupar por deporte, evento y NOC no demuestra que todos pertenezcan al mismo equipo."
+}

@@ -1,0 +1,69 @@
+﻿equipo_id,deporte,evento,noc,equipo,integrantes,medalla_origen,estado_integracion,revision
+paris2024_equipo:1e8983d8e4f226f69bb9a450,Basketball,Men,ESP,Spain,12,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:52e99c964f471e04f777a919,Basketball,Men,JPN,Japan,12,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:f87976b531c61b679e4d0080,Basketball,Men,PUR,Puerto Rico,12,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:a0fef15e362aba30638ee7f9,Basketball,Women,CAN,Canada,12,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:e90a19835d059be5c6f4a383,Basketball,Women,CHN,China,12,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:60a6ee25edbff5b1922234dc,Basketball,Women,JPN,Japan,12,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:597297ac5e7dfd3981eedbd2,Football,Men,ARG,Argentina,18,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:7dc62af7acac139975450f4d,Football,Men,EGY,Egypt,19,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:ab1f2e8c566b0e314a079d4b,Football,Men,GUI,Guinea,19,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:69f1c418726e91b9db2f0cdd,Football,Men,MLI,Mali,19,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:db1918ff312d8a4bd908a141,Football,Men,PAR,Paraguay,19,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:84dc3e51bd2b8de71f052177,Football,Women,ZAM,Zambia,20,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:c8d68736c85288a33dd5d2d2,Handball,Men,ARG,Argentina,15,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:52dd7accccf5461b8af71b30,Handball,Men,EGY,Egypt,15,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:9dcb859f1c060b7da76ee1fe,Handball,Men,HUN,Hungary,17,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:7f4a1ef5a19a2b039931a9b5,Handball,Women,NED,Netherlands,17,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:153860d2893dbbef287dcbcd,Hockey,Men,ESP,Spain,18,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:9d4a5d47f7f9d355f21aefff,Hockey,Men,IRL,Ireland,17,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:a7738145128cf5334c68a6a6,Hockey,Men,RSA,South Africa,16,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:5624ea64277eb07efdb67967,Rugby Sevens,Men,IRL,Ireland,14,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:e0113ee09c3e74785ec76e68,Rugby Sevens,Men,URU,Uruguay,14,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:e24f25b8ac68406a52cf382a,Rugby Sevens,Women,CHN,China,14,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:c6d9ab299d7269156f64be75,Rugby Sevens,Women,GBR,Great Britain,14,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:4d095d761f1d1334ac21b466,Volleyball,Men,CAN,Canada,13,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:5e2de9f399aef95c3ebf1a0e,Volleyball,Men,EGY,Egypt,13,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:d74c3d5dd55a0c947ddbd309,Volleyball,Women,NED,Netherlands,13,No medal,PENDIENTE_VALIDACION,Identidad ambigua u otra validacion pendiente
+paris2024_equipo:9bcb23bdc27f605260d1280b,Basketball,Men,FRA,France,12,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:1d72bdcdbfe5ef19adaff444,Basketball,Men,SRB,Serbia,12,Bronze,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:dc5d6cf1092f6aee659d5fbb,Basketball,Men,USA,United States,12,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:94221d79f221411da6e8e84d,Basketball,Women,AUS,Australia,11,Bronze,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:c8b62fe49e9ae028fba3d9c6,Basketball,Women,FRA,France,12,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:68da0bf6c9ff6c3ba0df6d38,Basketball,Women,USA,United States,12,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:17e67d1c659105199babf039,Beach Volleyball,Men,GER,Germany,2,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:500941c65318a14996864d89,Beach Volleyball,Men,NOR,Norway,2,Bronze,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:a030d28fcb8017a8e295396c,Beach Volleyball,Men,SWE,Sweden,2,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:37feab1c6b4191725892a395,Football,Men,ESP,Spain,22,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:261866b2a6876e83e044cb67,Football,Men,FRA,France,21,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:3c06a2904b89b0380cfcff1f,Football,Men,MAR,Morocco,19,Bronze,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:321d402df06f78f8617ab56f,Football,Women,BRA,Brazil,22,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:58d3c518cc67a748c6eb6595,Football,Women,GER,Germany,20,Bronze,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:857b5bce8491dbefcefcbca2,Football,Women,USA,United States,20,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:d17ca53cd8f13624360551c1,Handball,Men,DEN,Denmark,16,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:e14d64892d7b8af6a09517f7,Handball,Men,GER,Germany,16,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:6d8bd27d3301a22b46289e4e,Handball,Women,FRA,France,17,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:e221b09e2075958cfd38e0e2,Hockey,Men,GER,Germany,18,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:43028f13513be9367cc4fc32,Hockey,Men,IND,India,16,Bronze,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:19ba33c412870ea0baf79755,Hockey,Men,NED,Netherlands,18,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:85520f401abed90d69c652d6,Hockey,Women,ARG,Argentina,16,Bronze,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:1c6537823ee6f3a383cf2af4,Hockey,Women,CHN,China,17,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:b8f9b43e4f2be76cf0efe717,Hockey,Women,NED,Netherlands,17,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:100487934a84b8226baf19a6,Rugby Sevens,Men,FIJ,Fiji,14,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:415187a750dffe0e9277e888,Rugby Sevens,Men,FRA,France,13,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:7683db51c55d4e291b660807,Rugby Sevens,Men,RSA,South Africa,13,Bronze,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:dbbbd99141d369c57b4328b4,Rugby Sevens,Women,CAN,Canada,14,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:5312a78ea77c8f551335795c,Rugby Sevens,Women,NZL,New Zealand,12,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:77c35632b2cdb975c151b6f2,Rugby Sevens,Women,USA,United States,12,Bronze,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:8080f3290b5a60dc8992e973,Volleyball,Men,FRA,France,13,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:3fd6210cf63f803cff822c3c,Volleyball,Men,POL,Poland,13,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:6b123d5b56b6255174a4a2e2,Volleyball,Men,USA,United States,13,Bronze,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:0998ccf42ff5d0d4a7090870,Volleyball,Women,BRA,Brazil,13,Bronze,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:5b721fb3e5330a870095179c,Volleyball,Women,ITA,Italy,13,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:2307c667797cda2258979be9,Volleyball,Women,USA,United States,13,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:31c6d881fb03c2f21ad677bd,Water Polo,Men,CRO,Croatia,13,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:2bf799ba9a3a2f7bf3e15b77,Water Polo,Men,SRB,Serbia,13,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:8169d2c3501ad1f48cbce084,Water Polo,Men,USA,United States,13,Bronze,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:5c2645238cb5d09887b9fff9,Water Polo,Women,AUS,Australia,13,Silver,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:bd21bc3a86e154893618dd09,Water Polo,Women,ESP,Spain,13,Gold,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
+paris2024_equipo:7e1b2d356b95c63a34519812,Water Polo,Women,NED,Netherlands,13,Bronze,PENDIENTE_VALIDACION,Medalla e identidades/duplicados por verificar
