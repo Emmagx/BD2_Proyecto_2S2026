@@ -1,0 +1,42 @@
+﻿sport_2024,evento_2024,participaciones,id_deporte_sugerido,id_disciplina_sugerido,id_evento_sugerido,nombre_evento_historico,estado_verificacion,detalle,decision_manual
+Artistic Gymnastics,Women's Balance Beam,90,50,393,483,"Balance Beam, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Artistic Gymnastics,Women's Floor Exercise,88,50,390,480,"Floor Exercise, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Artistic Gymnastics,Men's Horizontal Bar,80,50,399,493,"Horizontal Bar, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Artistic Gymnastics,Men's Floor Exercise,76,50,390,490,"Floor Exercise, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Artistic Gymnastics,Men's Rings,76,50,400,494,"Rings, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Cycling Track,Women's Team Pursuit,48,26,1149,1475,"Team Pursuit, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Table Tennis,Men's Team,48,2,17,54,"Team, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Table Tennis,Women's Team,48,2,17,37,"Team, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Sailing,Men's Skiff,40,13,1145,1469,"Skiff, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Sailing,Women's Skiff,40,13,1145,1468,"Skiff, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Sailing,Mixed Multihull,38,13,815,1012,"Multihull, Mixed (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Fencing,Men's Foil Individual,37,3,288,358,"Foil, Individual, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Archery,Men's Team,36,9,49,73,"Team, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Archery,Women's Team,36,9,49,72,"Team, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Fencing,Women's Sabre Individual,36,3,196,1472,"Sabre, Individual, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Fencing,Women's Épée Individual,36,3,7,408,"Épée, Individual, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Rowing,Men's Quadruple Sculls,36,25,502,633,"Quadruple Sculls, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Rowing,Women's Quadruple Sculls,36,25,502,641,"Quadruple Sculls, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Fencing,Men's Épée Individual,35,3,7,8,"Épée, Individual, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Fencing,Men's Sabre Individual,34,3,196,241,"Sabre, Individual, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Fencing,Women's Foil Individual,34,3,288,406,"Foil, Individual, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Cycling Mountain Bike,Women's Cross-country,33,38,206,252,"Cross-Country, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Cycling Road,Men's Individual Time Trial,33,17,209,279,"Individual Time Trial, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Athletics,Women's Discus Throw,32,6,303,1026,"Discus Throw, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Athletics,Women's Hammer Throw,32,6,317,1032,"Hammer Throw, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Athletics,Women's Javelin Throw,32,6,320,1017,"Javelin Throw, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Rowing,Lightweight Men's Double Sculls,32,25,499,637,"Lightweight Double Sculls, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Rowing,Lightweight Women's Double Sculls,32,25,499,628,"Lightweight Double Sculls, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Rowing,Women's Single Sculls,32,25,153,198,"Single Sculls, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Cycling Road,Women's Individual Time Trial,31,17,209,255,"Individual Time Trial, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Shooting,Skeet Men,30,24,541,681,"Skeet, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Shooting,Trap Men,30,24,531,670,"Trap, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Shooting,Trap Women,30,24,531,687,"Trap, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Shooting,Skeet Women,29,24,541,724,"Skeet, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Rowing,Women's Double Sculls,26,25,497,626,"Double Sculls, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Skateboarding,Men's Park,22,82,1323,1679,"Park, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Skateboarding,Women's Park,22,82,1323,1886,"Park, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Trampoline Gymnastics,Men,16,75,1094,1383,"Individual, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Trampoline Gymnastics,Women,16,75,1094,1384,"Individual, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Cycling BMX Freestyle,Men's Park,12,91,1508,1888,"Park, Men (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE
+Cycling BMX Freestyle,Women's Park,12,91,1508,1881,"Park, Women (Olympic)",ESTRUCTURA_COHERENTE,,PENDIENTE

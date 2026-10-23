@@ -1,0 +1,10 @@
+{
+  "atletas_fuente": 178,
+  "candidatos_consolidados": 65,
+  "clasificacion": {
+    "LISTO_PARA_REVISION_FINAL": 63,
+    "REVISAR_ID_COMPARTIDO": 2
+  },
+  "confirmados_automaticamente": 0,
+  "mongo_modificado": false
+}

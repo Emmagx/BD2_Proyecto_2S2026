@@ -1,0 +1,225 @@
+{
+  "equipos_origen": 199,
+  "resultados_2024_antes": 4081,
+  "nuevos_resultados": 131,
+  "nuevos_perfiles": 1166,
+  "integrantes_en_resultados": 1607,
+  "clasificacion": {
+    "PREPARADO": 131,
+    "MEDALLA_PENDIENTE_VERIFICACION": 42,
+    "POTENCIAL_HOMONIMO": 26
+  },
+  "pendientes_ejemplo": [
+    {
+      "equipo": "paris2024_equipo:0998ccf42ff5d0d4a7090870",
+      "deporte": "Volleyball",
+      "evento": "Women",
+      "noc": "BRA",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:100487934a84b8226baf19a6",
+      "deporte": "Rugby Sevens",
+      "evento": "Men",
+      "noc": "FIJ",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:153860d2893dbbef287dcbcd",
+      "deporte": "Hockey",
+      "evento": "Men",
+      "noc": "ESP",
+      "razon": "POTENCIAL_HOMONIMO"
+    },
+    {
+      "equipo": "paris2024_equipo:17e67d1c659105199babf039",
+      "deporte": "Beach Volleyball",
+      "evento": "Men",
+      "noc": "GER",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:19ba33c412870ea0baf79755",
+      "deporte": "Hockey",
+      "evento": "Men",
+      "noc": "NED",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:1c6537823ee6f3a383cf2af4",
+      "deporte": "Hockey",
+      "evento": "Women",
+      "noc": "CHN",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:1d72bdcdbfe5ef19adaff444",
+      "deporte": "Basketball",
+      "evento": "Men",
+      "noc": "SRB",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:1e8983d8e4f226f69bb9a450",
+      "deporte": "Basketball",
+      "evento": "Men",
+      "noc": "ESP",
+      "razon": "POTENCIAL_HOMONIMO"
+    },
+    {
+      "equipo": "paris2024_equipo:2307c667797cda2258979be9",
+      "deporte": "Volleyball",
+      "evento": "Women",
+      "noc": "USA",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:261866b2a6876e83e044cb67",
+      "deporte": "Football",
+      "evento": "Men",
+      "noc": "FRA",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:2bf799ba9a3a2f7bf3e15b77",
+      "deporte": "Water Polo",
+      "evento": "Men",
+      "noc": "SRB",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:31c6d881fb03c2f21ad677bd",
+      "deporte": "Water Polo",
+      "evento": "Men",
+      "noc": "CRO",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:321d402df06f78f8617ab56f",
+      "deporte": "Football",
+      "evento": "Women",
+      "noc": "BRA",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:37feab1c6b4191725892a395",
+      "deporte": "Football",
+      "evento": "Men",
+      "noc": "ESP",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:3c06a2904b89b0380cfcff1f",
+      "deporte": "Football",
+      "evento": "Men",
+      "noc": "MAR",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:3fd6210cf63f803cff822c3c",
+      "deporte": "Volleyball",
+      "evento": "Men",
+      "noc": "POL",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:415187a750dffe0e9277e888",
+      "deporte": "Rugby Sevens",
+      "evento": "Men",
+      "noc": "FRA",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:43028f13513be9367cc4fc32",
+      "deporte": "Hockey",
+      "evento": "Men",
+      "noc": "IND",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:4d095d761f1d1334ac21b466",
+      "deporte": "Volleyball",
+      "evento": "Men",
+      "noc": "CAN",
+      "razon": "POTENCIAL_HOMONIMO"
+    },
+    {
+      "equipo": "paris2024_equipo:500941c65318a14996864d89",
+      "deporte": "Beach Volleyball",
+      "evento": "Men",
+      "noc": "NOR",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:52dd7accccf5461b8af71b30",
+      "deporte": "Handball",
+      "evento": "Men",
+      "noc": "EGY",
+      "razon": "POTENCIAL_HOMONIMO"
+    },
+    {
+      "equipo": "paris2024_equipo:52e99c964f471e04f777a919",
+      "deporte": "Basketball",
+      "evento": "Men",
+      "noc": "JPN",
+      "razon": "POTENCIAL_HOMONIMO"
+    },
+    {
+      "equipo": "paris2024_equipo:5312a78ea77c8f551335795c",
+      "deporte": "Rugby Sevens",
+      "evento": "Women",
+      "noc": "NZL",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:5624ea64277eb07efdb67967",
+      "deporte": "Rugby Sevens",
+      "evento": "Men",
+      "noc": "IRL",
+      "razon": "POTENCIAL_HOMONIMO"
+    },
+    {
+      "equipo": "paris2024_equipo:58d3c518cc67a748c6eb6595",
+      "deporte": "Football",
+      "evento": "Women",
+      "noc": "GER",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:597297ac5e7dfd3981eedbd2",
+      "deporte": "Football",
+      "evento": "Men",
+      "noc": "ARG",
+      "razon": "POTENCIAL_HOMONIMO"
+    },
+    {
+      "equipo": "paris2024_equipo:5b721fb3e5330a870095179c",
+      "deporte": "Volleyball",
+      "evento": "Women",
+      "noc": "ITA",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:5c2645238cb5d09887b9fff9",
+      "deporte": "Water Polo",
+      "evento": "Women",
+      "noc": "AUS",
+      "razon": "MEDALLA_PENDIENTE_VERIFICACION"
+    },
+    {
+      "equipo": "paris2024_equipo:5e2de9f399aef95c3ebf1a0e",
+      "deporte": "Volleyball",
+      "evento": "Men",
+      "noc": "EGY",
+      "razon": "POTENCIAL_HOMONIMO"
+    },
+    {
+      "equipo": "paris2024_equipo:60a6ee25edbff5b1922234dc",
+      "deporte": "Basketball",
+      "evento": "Women",
+      "noc": "JPN",
+      "razon": "POTENCIAL_HOMONIMO"
+    }
+  ],
+  "modo": "APLICAR"
+}

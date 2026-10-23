@@ -1,0 +1,29 @@
+{
+  "generado_en": "2026-10-21T19:05:39-06:00",
+  "dataset": "olympics_dataset.csv",
+  "estado": "PRELIMINAR_NO_INSERTAR",
+  "registros_transformados": 119,
+  "conteos": {
+    "Skeet Women": 29,
+    "medalla:No medal": 107,
+    "Trap Men": 30,
+    "Skeet Men": 30,
+    "Trap Women": 30,
+    "medalla:Bronze": 4,
+    "medalla:Gold": 4,
+    "medalla:Silver": 4
+  },
+  "ids_evento_verificados": {
+    "Trap Men": 670,
+    "Trap Women": 687,
+    "Skeet Men": 681,
+    "Skeet Women": 724
+  },
+  "pendientes": [
+    "resolver identidad de atleta contra MongoDB",
+    "resolver id real de la edicion 2024",
+    "verificar existencia previa para evitar doble carga",
+    "crear y actualizar resúmenes y catálogos"
+  ],
+  "archivo_salida": "lote_preliminar_tiro_2024.jsonl"
+}

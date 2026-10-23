@@ -1,0 +1,12 @@
+{
+  "generado_en": "2026-10-21T18:53:53-06:00",
+  "origen": "olympics_dataset.csv",
+  "registros_2024": 14892,
+  "eventos_distintos_por_nombre": 289,
+  "pares_sport_evento": 361,
+  "conteos_estados": {
+    "SIN_COINCIDENCIA_EXACTA": 361
+  },
+  "archivo_csv": "revision_disciplinas_eventos_2024.csv",
+  "nota": "Una coincidencia de nombre NO valida identidad: requiere verificar deporte y disciplina. Sin inserciones."
+}

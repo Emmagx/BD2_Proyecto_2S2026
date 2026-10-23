@@ -1,0 +1,12 @@
+{
+  "atletas_evaluados": 178,
+  "participaciones_representadas": 410,
+  "candidatos_historicos_consultados": 46,
+  "estados": {
+    "SIN_CANDIDATO_EXACTO": 133,
+    "CANDIDATO_COMPATIBLE": 44,
+    "AMBIGUO_REVISAR": 1
+  },
+  "identidades_confirmadas": 0,
+  "mongo_modificado": false
+}

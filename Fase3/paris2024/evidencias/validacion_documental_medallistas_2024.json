@@ -1,0 +1,17 @@
+{
+  "documentos_validados": 8,
+  "identidades_con_referencia_documental": 8,
+  "resultados_con_referencia_documental": 8,
+  "ids_resultados": [
+    156036,
+    156037,
+    156038,
+    156039,
+    156040,
+    156041,
+    156042,
+    156043
+  ],
+  "estado": "VALIDADO_PENDIENTE_CARGA",
+  "mongo_modificado": false
+}

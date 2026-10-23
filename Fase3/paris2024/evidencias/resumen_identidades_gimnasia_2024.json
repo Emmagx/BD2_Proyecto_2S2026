@@ -1,0 +1,11 @@
+{
+  "participaciones": 410,
+  "atletas_fuente_distintos": 178,
+  "estados": {
+    "SIN_COINCIDENCIA_NOMBRE": 133,
+    "CANDIDATO_POR_NOMBRE": 44,
+    "NOMBRE_AMBIGUO": 1
+  },
+  "identidades_confirmadas_automaticamente": 0,
+  "mongo_modificado": false
+}

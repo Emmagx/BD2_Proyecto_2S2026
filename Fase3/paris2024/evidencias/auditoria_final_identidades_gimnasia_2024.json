@@ -1,0 +1,12 @@
+{
+  "candidatos": 65,
+  "estados": {
+    "NOMBRE_EQUIVALENTE_REVISAR": 45,
+    "RIESGO_IDENTIDAD_DIFERENTE": 8,
+    "VARIANTE_MUY_SIMILAR_REVISAR": 5,
+    "ORDEN_INVERTIDO_REVISAR": 5,
+    "CONFLICTO_ID_COMPARTIDO": 2
+  },
+  "identidades_confirmadas": 0,
+  "mongo_modificado": false
+}

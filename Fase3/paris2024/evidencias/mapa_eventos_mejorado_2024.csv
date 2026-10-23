@@ -1,0 +1,362 @@
+﻿deporte_2024,evento_2024,participaciones,estado,evento_id_candidato,evento_historico,validado_manualmente
+3x3 Basketball,Men,32,MAPEO_EXACTO_CANDIDATO,1894,"3x3 Basketball, Men (Olympic)",NO
+3x3 Basketball,Women,32,MAPEO_EXACTO_CANDIDATO,1896,"3x3 Basketball, Women (Olympic)",NO
+"3x3 Basketball, Basketball",Women,1,MAPEO_PENDIENTE,,,NO
+Archery,Men's Individual,64,MAPEO_EXACTO_CANDIDATO,70,"Individual, Men (Olympic)",NO
+Archery,Men's Team,36,MAPEO_EXACTO_CANDIDATO,73,"Team, Men (Olympic)",NO
+Archery,Mixed Team,54,MAPEO_EXACTO_CANDIDATO,116,"Team, Mixed (Olympic)",NO
+Archery,Women's Individual,64,MAPEO_EXACTO_CANDIDATO,71,"Individual, Women (Olympic)",NO
+Archery,Women's Team,36,MAPEO_EXACTO_CANDIDATO,72,"Team, Women (Olympic)",NO
+Artistic Gymnastics,Men,96,MAPEO_PENDIENTE,,,NO
+Artistic Gymnastics,Men's All-Around,44,MAPEO_PENDIENTE,,,NO
+Artistic Gymnastics,Men's Floor Exercise,76,MAPEO_EXACTO_CANDIDATO,490,"Floor Exercise, Men (Olympic)",NO
+Artistic Gymnastics,Men's Horizontal Bar,80,MAPEO_EXACTO_CANDIDATO,493,"Horizontal Bar, Men (Olympic)",NO
+Artistic Gymnastics,Men's Parallel Bars,78,MAPEO_EXACTO_CANDIDATO,492,"Parallel Bars, Men (Olympic)",NO
+Artistic Gymnastics,Men's Pommel Horse,77,MAPEO_PENDIENTE,,,NO
+Artistic Gymnastics,Men's Rings,76,MAPEO_EXACTO_CANDIDATO,494,"Rings, Men (Olympic)",NO
+Artistic Gymnastics,Men's Team,60,MAPEO_PENDIENTE,,,NO
+Artistic Gymnastics,Men's Vault,78,MAPEO_PENDIENTE,,,NO
+Artistic Gymnastics,Women,94,MAPEO_PENDIENTE,,,NO
+Artistic Gymnastics,Women's All-Around,60,MAPEO_PENDIENTE,,,NO
+Artistic Gymnastics,Women's Balance Beam,90,MAPEO_EXACTO_CANDIDATO,483,"Balance Beam, Women (Olympic)",NO
+Artistic Gymnastics,Women's Floor Exercise,88,MAPEO_EXACTO_CANDIDATO,480,"Floor Exercise, Women (Olympic)",NO
+Artistic Gymnastics,Women's Team,59,MAPEO_PENDIENTE,,,NO
+Artistic Gymnastics,Women's Uneven Bars,91,MAPEO_EXACTO_CANDIDATO,482,"Uneven Bars, Women (Olympic)",NO
+Artistic Gymnastics,Women's Vault,89,MAPEO_PENDIENTE,,,NO
+Artistic Swimming,Duet,43,MAPEO_PENDIENTE,,,NO
+Artistic Swimming,Team,90,MAPEO_PENDIENTE,,,NO
+Athletics,4 x 400m Relay Mixed,113,MAPEO_EXACTO_CANDIDATO,1501,"4 × 400 metres Relay, Mixed (Olympic)",NO
+Athletics,Marathon Race Walk Relay Mixed,73,MAPEO_PENDIENTE,,,NO
+Athletics,"Men's 10,000m",27,MAPEO_EXACTO_CANDIDATO,1023,"10,000 metres, Men (Olympic)",NO
+Athletics,Men's 100m,102,MAPEO_EXACTO_CANDIDATO,43,"100 metres, Men (Olympic)",NO
+Athletics,Men's 110m Hurdles,40,MAPEO_EXACTO_CANDIDATO,46,"110 metres Hurdles, Men (Olympic)",NO
+Athletics,Men's 1500m,45,MAPEO_PENDIENTE,,,NO
+Athletics,Men's 200m,45,MAPEO_EXACTO_CANDIDATO,467,"200 metres, Men (Olympic)",NO
+Athletics,Men's 20km Race Walk,49,MAPEO_PENDIENTE,,,NO
+Athletics,Men's 3000m Steeplechase,36,MAPEO_PENDIENTE,,,NO
+Athletics,Men's 4 x 100m Relay,100,MAPEO_EXACTO_CANDIDATO,400,"4 × 100 metres Relay, Men (Olympic)",NO
+Athletics,Men's 4 x 400m Relay,107,MAPEO_EXACTO_CANDIDATO,476,"4 × 400 metres Relay, Men (Olympic)",NO
+Athletics,Men's 400m,46,MAPEO_EXACTO_CANDIDATO,44,"400 metres, Men (Olympic)",NO
+Athletics,Men's 400m Hurdles,39,MAPEO_EXACTO_CANDIDATO,1013,"400 metres Hurdles, Men (Olympic)",NO
+Athletics,Men's 5000m,43,MAPEO_PENDIENTE,,,NO
+Athletics,Men's 800m,54,MAPEO_EXACTO_CANDIDATO,45,"800 metres, Men (Olympic)",NO
+Athletics,Men's Decathlon,22,MAPEO_EXACTO_CANDIDATO,157,"Decathlon, Men (Olympic)",NO
+Athletics,Men's Discus Throw,32,MAPEO_EXACTO_CANDIDATO,393,"Discus Throw, Men (Olympic)",NO
+Athletics,Men's Hammer Throw,32,MAPEO_EXACTO_CANDIDATO,395,"Hammer Throw, Men (Olympic)",NO
+Athletics,Men's High Jump,31,MAPEO_EXACTO_CANDIDATO,47,"High Jump, Men (Olympic)",NO
+Athletics,Men's Javelin Throw,32,MAPEO_EXACTO_CANDIDATO,398,"Javelin Throw, Men (Olympic)",NO
+Athletics,Men's Long Jump,33,MAPEO_EXACTO_CANDIDATO,49,"Long Jump, Men (Olympic)",NO
+Athletics,Men's Marathon,82,MAPEO_EXACTO_CANDIDATO,96,"Marathon, Men (Olympic)",NO
+Athletics,Men's Pole Vault,31,MAPEO_EXACTO_CANDIDATO,48,"Pole Vault, Men (Olympic)",NO
+Athletics,Men's Shot Put,31,MAPEO_EXACTO_CANDIDATO,383,"Shot Put, Men (Olympic)",NO
+Athletics,Men's Triple Jump,32,MAPEO_EXACTO_CANDIDATO,50,"Triple Jump, Men (Olympic)",NO
+Athletics,"Women's 10,000m",25,MAPEO_EXACTO_CANDIDATO,1028,"10,000 metres, Women (Olympic)",NO
+Athletics,Women's 100m,91,MAPEO_EXACTO_CANDIDATO,1025,"100 metres, Women (Olympic)",NO
+Athletics,Women's 100m Hurdles,40,MAPEO_EXACTO_CANDIDATO,1027,"100 metres Hurdles, Women (Olympic)",NO
+Athletics,Women's 1500m,44,MAPEO_PENDIENTE,,,NO
+Athletics,Women's 200m,47,MAPEO_EXACTO_CANDIDATO,1014,"200 metres, Women (Olympic)",NO
+Athletics,Women's 20km Race Walk,45,MAPEO_PENDIENTE,,,NO
+Athletics,Women's 3000m Steeplechase,36,MAPEO_PENDIENTE,,,NO
+Athletics,Women's 4 x 100m Relay,92,MAPEO_EXACTO_CANDIDATO,928,"4 × 100 metres Relay, Women (Olympic)",NO
+Athletics,Women's 4 x 400m Relay,111,MAPEO_EXACTO_CANDIDATO,340,"4 × 400 metres Relay, Women (Olympic)",NO
+Athletics,Women's 400m,47,MAPEO_EXACTO_CANDIDATO,339,"400 metres, Women (Olympic)",NO
+Athletics,Women's 400m Hurdles,40,MAPEO_EXACTO_CANDIDATO,1035,"400 metres Hurdles, Women (Olympic)",NO
+Athletics,Women's 5000m,42,MAPEO_PENDIENTE,,,NO
+Athletics,Women's 800m,50,MAPEO_EXACTO_CANDIDATO,1015,"800 metres, Women (Olympic)",NO
+Athletics,Women's Discus Throw,32,MAPEO_EXACTO_CANDIDATO,1026,"Discus Throw, Women (Olympic)",NO
+Athletics,Women's Hammer Throw,32,MAPEO_EXACTO_CANDIDATO,1032,"Hammer Throw, Women (Olympic)",NO
+Athletics,Women's Heptathlon,23,MAPEO_EXACTO_CANDIDATO,1018,"Heptathlon, Women (Olympic)",NO
+Athletics,Women's High Jump,32,MAPEO_EXACTO_CANDIDATO,1024,"High Jump, Women (Olympic)",NO
+Athletics,Women's Javelin Throw,32,MAPEO_EXACTO_CANDIDATO,1017,"Javelin Throw, Women (Olympic)",NO
+Athletics,Women's Long Jump,31,MAPEO_EXACTO_CANDIDATO,927,"Long Jump, Women (Olympic)",NO
+Athletics,Women's Marathon,91,MAPEO_EXACTO_CANDIDATO,1029,"Marathon, Women (Olympic)",NO
+Athletics,Women's Pole Vault,30,MAPEO_EXACTO_CANDIDATO,496,"Pole Vault, Women (Olympic)",NO
+Athletics,Women's Shot Put,31,MAPEO_EXACTO_CANDIDATO,1030,"Shot Put, Women (Olympic)",NO
+Athletics,Women's Triple Jump,31,MAPEO_EXACTO_CANDIDATO,153,"Triple Jump, Women (Olympic)",NO
+Badminton,Men's Doubles,34,MAPEO_EXACTO_CANDIDATO,34,"Doubles, Men (Olympic)",NO
+Badminton,Men's Singles,41,MAPEO_EXACTO_CANDIDATO,24,"Singles, Men (Olympic)",NO
+Badminton,Mixed Doubles,32,MAPEO_EXACTO_CANDIDATO,29,"Doubles, Mixed (Olympic)",NO
+Badminton,Women's Doubles,32,MAPEO_EXACTO_CANDIDATO,28,"Doubles, Women (Olympic)",NO
+Badminton,Women's Singles,39,MAPEO_EXACTO_CANDIDATO,33,"Singles, Women (Olympic)",NO
+Basketball,Men,144,MAPEO_EXACTO_CANDIDATO,150,"Basketball, Men (Olympic)",NO
+Basketball,Women,143,MAPEO_EXACTO_CANDIDATO,152,"Basketball, Women (Olympic)",NO
+Beach Volleyball,Men,48,MAPEO_EXACTO_CANDIDATO,906,"Beach Volleyball, Men (Olympic)",NO
+Beach Volleyball,Women,48,MAPEO_EXACTO_CANDIDATO,907,"Beach Volleyball, Women (Olympic)",NO
+Boxing,Men's +92kg,16,MAPEO_PENDIENTE,,,NO
+Boxing,Men's 51kg,17,MAPEO_PENDIENTE,,,NO
+Boxing,Men's 57kg,17,MAPEO_PENDIENTE,,,NO
+Boxing,Men's 63.5kg,20,MAPEO_PENDIENTE,,,NO
+Boxing,Men's 71kg,20,MAPEO_PENDIENTE,,,NO
+Boxing,Men's 80kg,18,MAPEO_PENDIENTE,,,NO
+Boxing,Men's 92kg,16,MAPEO_PENDIENTE,,,NO
+Boxing,Women's 50kg,22,MAPEO_PENDIENTE,,,NO
+Boxing,Women's 54kg,22,MAPEO_PENDIENTE,,,NO
+Boxing,Women's 57kg,22,MAPEO_PENDIENTE,,,NO
+Boxing,Women's 60kg,22,MAPEO_PENDIENTE,,,NO
+Boxing,Women's 66kg,20,MAPEO_PENDIENTE,,,NO
+Boxing,Women's 75kg,16,MAPEO_PENDIENTE,,,NO
+Breaking,B-Boys,16,MAPEO_PENDIENTE,,,NO
+Breaking,B-Girls,17,MAPEO_PENDIENTE,,,NO
+Canoe Slalom,Men's Canoe Single,20,MAPEO_PENDIENTE,,,NO
+Canoe Slalom,Men's Kayak Cross,38,MAPEO_PENDIENTE,,,NO
+Canoe Slalom,Men's Kayak Single,24,MAPEO_PENDIENTE,,,NO
+Canoe Slalom,Women's Canoe Single,21,MAPEO_PENDIENTE,,,NO
+Canoe Slalom,Women's Kayak Cross,37,MAPEO_PENDIENTE,,,NO
+Canoe Slalom,Women's Kayak Single,25,MAPEO_PENDIENTE,,,NO
+Canoe Sprint,Men's Canoe Double 500m,26,MAPEO_PENDIENTE,,,NO
+Canoe Sprint,Men's Canoe Single 1000m,25,MAPEO_PENDIENTE,,,NO
+Canoe Sprint,Men's Kayak Double 500m,40,MAPEO_PENDIENTE,,,NO
+Canoe Sprint,Men's Kayak Four 500m,44,MAPEO_PENDIENTE,,,NO
+Canoe Sprint,Men's Kayak Single 1000m,29,MAPEO_PENDIENTE,,,NO
+Canoe Sprint,Women's Canoe Double 500m,26,MAPEO_PENDIENTE,,,NO
+Canoe Sprint,Women's Canoe Single 200m,33,MAPEO_PENDIENTE,,,NO
+Canoe Sprint,Women's Kayak Double 500m,40,MAPEO_PENDIENTE,,,NO
+Canoe Sprint,Women's Kayak Four 500m,40,MAPEO_PENDIENTE,,,NO
+Canoe Sprint,Women's Kayak Single 500m,41,MAPEO_PENDIENTE,,,NO
+Cycling BMX Freestyle,Men's Park,12,MAPEO_EXACTO_CANDIDATO,1888,"Park, Men (Olympic)",NO
+Cycling BMX Freestyle,Women's Park,12,MAPEO_EXACTO_CANDIDATO,1881,"Park, Women (Olympic)",NO
+Cycling BMX Racing,Men,34,MAPEO_PENDIENTE,,,NO
+Cycling BMX Racing,Women,33,MAPEO_PENDIENTE,,,NO
+Cycling Mountain Bike,Men's Cross-country,35,MAPEO_EXACTO_CANDIDATO,285,"Cross-Country, Men (Olympic)",NO
+Cycling Mountain Bike,Women's Cross-country,33,MAPEO_EXACTO_CANDIDATO,252,"Cross-Country, Women (Olympic)",NO
+Cycling Road,Men's Individual Time Trial,33,MAPEO_EXACTO_CANDIDATO,279,"Individual Time Trial, Men (Olympic)",NO
+Cycling Road,Men's Road Race,86,MAPEO_PENDIENTE,,,NO
+Cycling Road,Women's Individual Time Trial,31,MAPEO_EXACTO_CANDIDATO,255,"Individual Time Trial, Women (Olympic)",NO
+Cycling Road,Women's Road Race,84,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Mountain Bike",Men's Cross-country,1,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Mountain Bike",Men's Road Race,1,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Mountain Bike",Women's Cross-country,1,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Mountain Bike",Women's Road Race,1,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Track",Men's Individual Time Trial,1,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Track",Men's Madison,3,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Track",Men's Omnium,1,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Track",Men's Road Race,2,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Track",Men's Team Pursuit,2,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Track",Women's Individual Time Trial,3,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Track",Women's Keirin,1,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Track",Women's Madison,1,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Track",Women's Omnium,3,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Track",Women's Road Race,7,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Track",Women's Sprint,1,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Cycling Track",Women's Team Pursuit,5,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Triathlon",Women's Individual,1,MAPEO_PENDIENTE,,,NO
+"Cycling Road, Triathlon",Women's Individual Time Trial,1,MAPEO_PENDIENTE,,,NO
+Cycling Track,Men's Keirin,36,MAPEO_EXACTO_CANDIDATO,299,"Keirin, Men (Olympic)",NO
+Cycling Track,Men's Madison,40,MAPEO_EXACTO_CANDIDATO,272,"Madison, Men (Olympic)",NO
+Cycling Track,Men's Omnium,34,MAPEO_EXACTO_CANDIDATO,301,"Omnium, Men (Olympic)",NO
+Cycling Track,Men's Sprint,36,MAPEO_EXACTO_CANDIDATO,244,"Sprint, Men (Olympic)",NO
+Cycling Track,Men's Team Pursuit,48,MAPEO_PENDIENTE,,,NO
+Cycling Track,Men's Team Sprint,32,MAPEO_EXACTO_CANDIDATO,288,"Team Sprint, Men (Olympic)",NO
+Cycling Track,Women's Keirin,37,MAPEO_EXACTO_CANDIDATO,266,"Keirin, Women (Olympic)",NO
+Cycling Track,Women's Madison,43,MAPEO_EXACTO_CANDIDATO,1602,"Madison, Women (Olympic)",NO
+Cycling Track,Women's Omnium,31,MAPEO_EXACTO_CANDIDATO,1381,"Omnium, Women (Olympic)",NO
+Cycling Track,Women's Sprint,36,MAPEO_EXACTO_CANDIDATO,259,"Sprint, Women (Olympic)",NO
+Cycling Track,Women's Team Pursuit,48,MAPEO_EXACTO_CANDIDATO,1475,"Team Pursuit, Women (Olympic)",NO
+Cycling Track,Women's Team Sprint,31,MAPEO_EXACTO_CANDIDATO,267,"Team Sprint, Women (Olympic)",NO
+Diving,Men's 10m Platform,26,MAPEO_PENDIENTE,,,NO
+Diving,Men's 3m Springboard,25,MAPEO_PENDIENTE,,,NO
+Diving,Men's Synchronised 10m Platform,16,MAPEO_PENDIENTE,,,NO
+Diving,Men's Synchronised 3m Springboard,16,MAPEO_PENDIENTE,,,NO
+Diving,Women's 10m Platform,29,MAPEO_PENDIENTE,,,NO
+Diving,Women's 3m Springboard,28,MAPEO_PENDIENTE,,,NO
+Diving,Women's Synchronised 10m Platform,16,MAPEO_PENDIENTE,,,NO
+Diving,Women's Synchronised 3m Springboard,16,MAPEO_PENDIENTE,,,NO
+Equestrian,Dressage Individual,62,MAPEO_PENDIENTE,,,NO
+Equestrian,Dressage Team,58,MAPEO_PENDIENTE,,,NO
+Equestrian,Eventing Individual,81,MAPEO_PENDIENTE,,,NO
+Equestrian,Eventing Team,64,MAPEO_PENDIENTE,,,NO
+Equestrian,Jumping Individual,77,MAPEO_PENDIENTE,,,NO
+Equestrian,Jumping Team,73,MAPEO_PENDIENTE,,,NO
+Fencing,Men's Foil Individual,37,MAPEO_EXACTO_CANDIDATO,358,"Foil, Individual, Men (Olympic)",NO
+Fencing,Men's Foil Team,32,MAPEO_EXACTO_CANDIDATO,410,"Foil, Team, Men (Olympic)",NO
+Fencing,Men's Sabre Individual,34,MAPEO_EXACTO_CANDIDATO,241,"Sabre, Individual, Men (Olympic)",NO
+Fencing,Men's Sabre Team,32,MAPEO_EXACTO_CANDIDATO,228,"Sabre, Team, Men (Olympic)",NO
+Fencing,Men's Épée Individual,35,MAPEO_EXACTO_CANDIDATO,8,"Épée, Individual, Men (Olympic)",NO
+Fencing,Men's Épée Team,32,MAPEO_EXACTO_CANDIDATO,411,"Épée, Team, Men (Olympic)",NO
+Fencing,Women's Foil Individual,34,MAPEO_EXACTO_CANDIDATO,406,"Foil, Individual, Women (Olympic)",NO
+Fencing,Women's Foil Team,32,MAPEO_EXACTO_CANDIDATO,407,"Foil, Team, Women (Olympic)",NO
+Fencing,Women's Sabre Individual,36,MAPEO_EXACTO_CANDIDATO,1472,"Sabre, Individual, Women (Olympic)",NO
+Fencing,Women's Sabre Team,32,MAPEO_EXACTO_CANDIDATO,1473,"Sabre, Team, Women (Olympic)",NO
+Fencing,Women's Épée Individual,36,MAPEO_EXACTO_CANDIDATO,408,"Épée, Individual, Women (Olympic)",NO
+Fencing,Women's Épée Team,32,MAPEO_EXACTO_CANDIDATO,409,"Épée, Team, Women (Olympic)",NO
+Football,Men,313,MAPEO_EXACTO_CANDIDATO,303,"Football, Men (Olympic)",NO
+Football,Women,240,MAPEO_EXACTO_CANDIDATO,468,"Football, Women (Olympic)",NO
+Golf,Men's Individual Stroke Play,60,MAPEO_PENDIENTE,,,NO
+Golf,Women's Individual Stroke Play,60,MAPEO_PENDIENTE,,,NO
+Handball,Men,184,MAPEO_EXACTO_CANDIDATO,583,"Handball, Men (Olympic)",NO
+Handball,Women,202,MAPEO_EXACTO_CANDIDATO,154,"Handball, Women (Olympic)",NO
+Hockey,Men,212,MAPEO_EXACTO_CANDIDATO,39,"Hockey, Men (Olympic)",NO
+Hockey,Women,203,MAPEO_EXACTO_CANDIDATO,338,"Hockey, Women (Olympic)",NO
+Judo,Men +100 kg,23,MAPEO_PENDIENTE,,,NO
+Judo,Men -100 kg,25,MAPEO_PENDIENTE,,,NO
+Judo,Men -60 kg,25,MAPEO_PENDIENTE,,,NO
+Judo,Men -66 kg,27,MAPEO_PENDIENTE,,,NO
+Judo,Men -73 kg,30,MAPEO_PENDIENTE,,,NO
+Judo,Men -81 kg,33,MAPEO_PENDIENTE,,,NO
+Judo,Men -90 kg,29,MAPEO_PENDIENTE,,,NO
+Judo,Mixed Team,181,MAPEO_EXACTO_CANDIDATO,1496,"Team, Mixed (Olympic)",NO
+Judo,Women +78 kg,26,MAPEO_PENDIENTE,,,NO
+Judo,Women -48 kg,31,MAPEO_PENDIENTE,,,NO
+Judo,Women -52 kg,26,MAPEO_PENDIENTE,,,NO
+Judo,Women -57 kg,28,MAPEO_PENDIENTE,,,NO
+Judo,Women -63 kg,29,MAPEO_PENDIENTE,,,NO
+Judo,Women -70 kg,24,MAPEO_PENDIENTE,,,NO
+Judo,Women -78 kg,22,MAPEO_PENDIENTE,,,NO
+Marathon Swimming,Men's 10km,18,MAPEO_PENDIENTE,,,NO
+Marathon Swimming,Women's 10km,20,MAPEO_PENDIENTE,,,NO
+"Marathon Swimming, Swimming",Men's 10km,13,MAPEO_PENDIENTE,,,NO
+"Marathon Swimming, Swimming",Men's 1500m Freestyle,10,MAPEO_PENDIENTE,,,NO
+"Marathon Swimming, Swimming",Men's 200m Freestyle,2,MAPEO_PENDIENTE,,,NO
+"Marathon Swimming, Swimming",Men's 4 x 200m Freestyle Relay,2,MAPEO_PENDIENTE,,,NO
+"Marathon Swimming, Swimming",Men's 400m Freestyle,5,MAPEO_PENDIENTE,,,NO
+"Marathon Swimming, Swimming",Men's 800m Freestyle,10,MAPEO_PENDIENTE,,,NO
+"Marathon Swimming, Swimming",Women's 10km,4,MAPEO_PENDIENTE,,,NO
+"Marathon Swimming, Swimming",Women's 1500m Freestyle,4,MAPEO_PENDIENTE,,,NO
+"Marathon Swimming, Swimming",Women's 400m Freestyle,1,MAPEO_PENDIENTE,,,NO
+"Marathon Swimming, Swimming",Women's 400m Individual Medley,1,MAPEO_PENDIENTE,,,NO
+Modern Pentathlon,Men's Individual,36,MAPEO_EXACTO_CANDIDATO,68,"Individual, Men (Olympic)",NO
+Modern Pentathlon,Women's Individual,36,MAPEO_EXACTO_CANDIDATO,899,"Individual, Women (Olympic)",NO
+Rhythmic Gymnastics,Group All-Around,70,MAPEO_PENDIENTE,,,NO
+Rhythmic Gymnastics,Individual All-Around,24,MAPEO_PENDIENTE,,,NO
+Rowing,Lightweight Men's Double Sculls,32,MAPEO_EXACTO_CANDIDATO,637,"Lightweight Double Sculls, Men (Olympic)",NO
+Rowing,Lightweight Women's Double Sculls,32,MAPEO_EXACTO_CANDIDATO,628,"Lightweight Double Sculls, Women (Olympic)",NO
+Rowing,Men's Double Sculls,26,MAPEO_EXACTO_CANDIDATO,635,"Double Sculls, Men (Olympic)",NO
+Rowing,Men's Eight,64,MAPEO_PENDIENTE,,,NO
+Rowing,Men's Four,36,MAPEO_PENDIENTE,,,NO
+Rowing,Men's Pair,26,MAPEO_PENDIENTE,,,NO
+Rowing,Men's Quadruple Sculls,36,MAPEO_EXACTO_CANDIDATO,633,"Quadruple Sculls, Men (Olympic)",NO
+Rowing,Men's Single Sculls,33,MAPEO_EXACTO_CANDIDATO,634,"Single Sculls, Men (Olympic)",NO
+Rowing,Women's Double Sculls,26,MAPEO_EXACTO_CANDIDATO,626,"Double Sculls, Women (Olympic)",NO
+Rowing,Women's Eight,63,MAPEO_PENDIENTE,,,NO
+Rowing,Women's Four,36,MAPEO_PENDIENTE,,,NO
+Rowing,Women's Pair,26,MAPEO_PENDIENTE,,,NO
+Rowing,Women's Quadruple Sculls,36,MAPEO_EXACTO_CANDIDATO,641,"Quadruple Sculls, Women (Olympic)",NO
+Rowing,Women's Single Sculls,32,MAPEO_EXACTO_CANDIDATO,198,"Single Sculls, Women (Olympic)",NO
+Rugby Sevens,Men,159,MAPEO_EXACTO_CANDIDATO,1731,"Rugby Sevens, Men (Olympic)",NO
+Rugby Sevens,Women,158,MAPEO_EXACTO_CANDIDATO,1692,"Rugby Sevens, Women (Olympic)",NO
+Sailing,Men's Dinghy,43,MAPEO_PENDIENTE,,,NO
+Sailing,Men's Kite,20,MAPEO_PENDIENTE,,,NO
+Sailing,Men's Skiff,40,MAPEO_EXACTO_CANDIDATO,1469,"Skiff, Men (Olympic)",NO
+Sailing,Men's Windsurfing,24,MAPEO_PENDIENTE,,,NO
+Sailing,Mixed Dinghy,38,MAPEO_PENDIENTE,,,NO
+Sailing,Mixed Multihull,38,MAPEO_EXACTO_CANDIDATO,1012,"Multihull, Mixed (Olympic)",NO
+Sailing,Women's Dinghy,43,MAPEO_PENDIENTE,,,NO
+Sailing,Women's Kite,20,MAPEO_PENDIENTE,,,NO
+Sailing,Women's Skiff,40,MAPEO_EXACTO_CANDIDATO,1468,"Skiff, Women (Olympic)",NO
+Sailing,Women's Windsurfing,24,MAPEO_PENDIENTE,,,NO
+Shooting,10m Air Pistol Men,33,MAPEO_EXACTO_CANDIDATO,685,"Air Pistol, 10 metres, Men (Olympic)",NO
+Shooting,10m Air Pistol Mixed Team,34,MAPEO_EXACTO_CANDIDATO,1389,"Air Pistol, 10 metres, Team, Mixed (Olympic)",NO
+Shooting,10m Air Pistol Women,45,MAPEO_EXACTO_CANDIDATO,672,"Air Pistol, 10 metres, Women (Olympic)",NO
+Shooting,10m Air Rifle Men,49,MAPEO_EXACTO_CANDIDATO,684,"Air Rifle, 10 metres, Men (Olympic)",NO
+Shooting,10m Air Rifle Mixed Team,56,MAPEO_EXACTO_CANDIDATO,1470,"Air Rifle, 10 metres, Team, Mixed (Olympic)",NO
+Shooting,10m Air Rifle Women,44,MAPEO_EXACTO_CANDIDATO,668,"Air Rifle, 10 metres, Women (Olympic)",NO
+Shooting,25m Pistol Women,40,MAPEO_PENDIENTE,,,NO
+Shooting,25m Rapid Fire Pistol Men,29,MAPEO_EXACTO_CANDIDATO,624,"Rapid-Fire Pistol, 25 metres, Men (Olympic)",NO
+Shooting,50m Rifle 3 Positions Men,44,MAPEO_PENDIENTE,,,NO
+Shooting,50m Rifle 3 Positions Women,32,MAPEO_PENDIENTE,,,NO
+Shooting,Skeet Men,30,MAPEO_EXACTO_CANDIDATO,681,"Skeet, Men (Olympic)",NO
+Shooting,Skeet Mixed Team,30,MAPEO_PENDIENTE,,,NO
+Shooting,Skeet Women,29,MAPEO_EXACTO_CANDIDATO,724,"Skeet, Women (Olympic)",NO
+Shooting,Trap Men,30,MAPEO_EXACTO_CANDIDATO,670,"Trap, Men (Olympic)",NO
+Shooting,Trap Women,30,MAPEO_EXACTO_CANDIDATO,687,"Trap, Women (Olympic)",NO
+Skateboarding,Men's Park,22,MAPEO_EXACTO_CANDIDATO,1679,"Park, Men (Olympic)",NO
+Skateboarding,Men's Street,22,MAPEO_EXACTO_CANDIDATO,1891,"Street, Men (Olympic)",NO
+Skateboarding,Women's Park,22,MAPEO_EXACTO_CANDIDATO,1886,"Park, Women (Olympic)",NO
+Skateboarding,Women's Street,22,MAPEO_EXACTO_CANDIDATO,1885,"Street, Women (Olympic)",NO
+Sport Climbing,Men's Boulder & Lead,20,MAPEO_PENDIENTE,,,NO
+Sport Climbing,Men's Speed,14,MAPEO_PENDIENTE,,,NO
+Sport Climbing,Women's Boulder & Lead,20,MAPEO_PENDIENTE,,,NO
+Sport Climbing,Women's Speed,14,MAPEO_PENDIENTE,,,NO
+Surfing,Men,24,MAPEO_PENDIENTE,,,NO
+Surfing,Women,24,MAPEO_PENDIENTE,,,NO
+Swimming,Men's 100m Backstroke,46,MAPEO_EXACTO_CANDIDATO,792,"100 metres Backstroke, Men (Olympic)",NO
+Swimming,Men's 100m Breaststroke,36,MAPEO_EXACTO_CANDIDATO,780,"100 metres Breaststroke, Men (Olympic)",NO
+Swimming,Men's 100m Butterfly,40,MAPEO_EXACTO_CANDIDATO,783,"100 metres Butterfly, Men (Olympic)",NO
+Swimming,Men's 100m Freestyle,79,MAPEO_EXACTO_CANDIDATO,412,"100 metres Freestyle, Men (Olympic)",NO
+Swimming,Men's 1500m Freestyle,17,MAPEO_PENDIENTE,,,NO
+Swimming,Men's 200m Backstroke,30,MAPEO_EXACTO_CANDIDATO,802,"200 metres Backstroke, Men (Olympic)",NO
+Swimming,Men's 200m Breaststroke,25,MAPEO_EXACTO_CANDIDATO,656,"200 metres Breaststroke, Men (Olympic)",NO
+Swimming,Men's 200m Butterfly,28,MAPEO_EXACTO_CANDIDATO,784,"200 metres Butterfly, Men (Olympic)",NO
+Swimming,Men's 200m Freestyle,26,MAPEO_EXACTO_CANDIDATO,779,"200 metres Freestyle, Men (Olympic)",NO
+Swimming,Men's 200m Individual Medley,25,MAPEO_EXACTO_CANDIDATO,803,"200 metres Individual Medley, Men (Olympic)",NO
+Swimming,Men's 4 x 100m Freestyle Relay,70,MAPEO_EXACTO_CANDIDATO,810,"4 × 100 metres Freestyle Relay, Men (Olympic)",NO
+Swimming,Men's 4 x 100m Medley Relay,74,MAPEO_EXACTO_CANDIDATO,791,"4 × 100 metres Medley Relay, Men (Olympic)",NO
+Swimming,Men's 4 x 200m Freestyle Relay,73,MAPEO_EXACTO_CANDIDATO,781,"4 × 200 metres Freestyle Relay, Men (Olympic)",NO
+Swimming,Men's 400m Freestyle,32,MAPEO_EXACTO_CANDIDATO,418,"400 metres Freestyle, Men (Olympic)",NO
+Swimming,Men's 400m Individual Medley,16,MAPEO_EXACTO_CANDIDATO,804,"400 metres Individual Medley, Men (Olympic)",NO
+Swimming,Men's 50m Freestyle,74,MAPEO_EXACTO_CANDIDATO,778,"50 metres Freestyle, Men (Olympic)",NO
+Swimming,Men's 800m Freestyle,21,MAPEO_EXACTO_CANDIDATO,1584,"800 metres Freestyle, Men (Olympic)",NO
+Swimming,Mixed 4 x 100m Medley Relay,82,MAPEO_EXACTO_CANDIDATO,1466,"4 × 100 metres Medley Relay, Mixed (Olympic)",NO
+Swimming,Relay Only Athlete,157,MAPEO_PENDIENTE,,,NO
+Swimming,Women's 100m Backstroke,36,MAPEO_EXACTO_CANDIDATO,775,"100 metres Backstroke, Women (Olympic)",NO
+Swimming,Women's 100m Breaststroke,37,MAPEO_EXACTO_CANDIDATO,786,"100 metres Breaststroke, Women (Olympic)",NO
+Swimming,Women's 100m Butterfly,32,MAPEO_EXACTO_CANDIDATO,790,"100 metres Butterfly, Women (Olympic)",NO
+Swimming,Women's 100m Freestyle,29,MAPEO_EXACTO_CANDIDATO,788,"100 metres Freestyle, Women (Olympic)",NO
+Swimming,Women's 1500m Freestyle,13,MAPEO_PENDIENTE,,,NO
+Swimming,Women's 200m Backstroke,27,MAPEO_EXACTO_CANDIDATO,799,"200 metres Backstroke, Women (Olympic)",NO
+Swimming,Women's 200m Breaststroke,23,MAPEO_EXACTO_CANDIDATO,787,"200 metres Breaststroke, Women (Olympic)",NO
+Swimming,Women's 200m Butterfly,19,MAPEO_EXACTO_CANDIDATO,801,"200 metres Butterfly, Women (Olympic)",NO
+Swimming,Women's 200m Freestyle,31,MAPEO_EXACTO_CANDIDATO,800,"200 metres Freestyle, Women (Olympic)",NO
+Swimming,Women's 200m Individual Medley,34,MAPEO_EXACTO_CANDIDATO,785,"200 metres Individual Medley, Women (Olympic)",NO
+Swimming,Women's 4 x 100m Freestyle Relay,73,MAPEO_EXACTO_CANDIDATO,798,"4 × 100 metres Freestyle Relay, Women (Olympic)",NO
+Swimming,Women's 4 x 100m Medley Relay,79,MAPEO_EXACTO_CANDIDATO,794,"4 × 100 metres Medley Relay, Women (Olympic)",NO
+Swimming,Women's 4 x 200m Freestyle Relay,73,MAPEO_EXACTO_CANDIDATO,793,"4 × 200 metres Freestyle Relay, Women (Olympic)",NO
+Swimming,Women's 400m Freestyle,20,MAPEO_EXACTO_CANDIDATO,796,"400 metres Freestyle, Women (Olympic)",NO
+Swimming,Women's 400m Individual Medley,15,MAPEO_EXACTO_CANDIDATO,795,"400 metres Individual Medley, Women (Olympic)",NO
+Swimming,Women's 50m Freestyle,79,MAPEO_EXACTO_CANDIDATO,789,"50 metres Freestyle, Women (Olympic)",NO
+Swimming,Women's 800m Freestyle,16,MAPEO_EXACTO_CANDIDATO,797,"800 metres Freestyle, Women (Olympic)",NO
+Table Tennis,Men's Singles,67,MAPEO_EXACTO_CANDIDATO,4,"Singles, Men (Olympic)",NO
+Table Tennis,Men's Team,48,MAPEO_EXACTO_CANDIDATO,54,"Team, Men (Olympic)",NO
+Table Tennis,Mixed Doubles,32,MAPEO_EXACTO_CANDIDATO,1477,"Doubles, Mixed (Olympic)",NO
+Table Tennis,Women's Singles,67,MAPEO_EXACTO_CANDIDATO,31,"Singles, Women (Olympic)",NO
+Table Tennis,Women's Team,48,MAPEO_EXACTO_CANDIDATO,37,"Team, Women (Olympic)",NO
+Taekwondo,Men +80kg,17,MAPEO_PENDIENTE,,,NO
+Taekwondo,Men -58kg,18,MAPEO_PENDIENTE,,,NO
+Taekwondo,Men -68kg,17,MAPEO_PENDIENTE,,,NO
+Taekwondo,Men -80kg,17,MAPEO_PENDIENTE,,,NO
+Taekwondo,Women +67kg,16,MAPEO_PENDIENTE,,,NO
+Taekwondo,Women -49kg,17,MAPEO_PENDIENTE,,,NO
+Taekwondo,Women -57kg,16,MAPEO_PENDIENTE,,,NO
+Taekwondo,Women -67kg,16,MAPEO_PENDIENTE,,,NO
+Tennis,Men's Doubles,65,MAPEO_EXACTO_CANDIDATO,2,"Doubles, Men (Olympic)",NO
+Tennis,Men's Singles,64,MAPEO_EXACTO_CANDIDATO,1,"Singles, Men (Olympic)",NO
+Tennis,Mixed Doubles,37,MAPEO_EXACTO_CANDIDATO,3,"Doubles, Mixed (Olympic)",NO
+Tennis,Women's Doubles,64,MAPEO_EXACTO_CANDIDATO,27,"Doubles, Women (Olympic)",NO
+Tennis,Women's Singles,64,MAPEO_EXACTO_CANDIDATO,26,"Singles, Women (Olympic)",NO
+Trampoline Gymnastics,Men,16,MAPEO_PENDIENTE,,,NO
+Trampoline Gymnastics,Women,16,MAPEO_PENDIENTE,,,NO
+Triathlon,Men's Individual,55,MAPEO_PENDIENTE,,,NO
+Triathlon,Mixed Relay,2,MAPEO_EXACTO_CANDIDATO,1474,"Relay, Mixed (Olympic)",NO
+Triathlon,Women's Individual,54,MAPEO_PENDIENTE,,,NO
+Volleyball,Men,156,MAPEO_EXACTO_CANDIDATO,909,"Volleyball, Men (Olympic)",NO
+Volleyball,Women,155,MAPEO_EXACTO_CANDIDATO,908,"Volleyball, Women (Olympic)",NO
+Water Polo,Men,156,MAPEO_EXACTO_CANDIDATO,649,"Water Polo, Men (Olympic)",NO
+Water Polo,Women,130,MAPEO_EXACTO_CANDIDATO,1412,"Water Polo, Women (Olympic)",NO
+Weightlifting,Men's +102kg,12,MAPEO_PENDIENTE,,,NO
+Weightlifting,Men's 102kg,13,MAPEO_PENDIENTE,,,NO
+Weightlifting,Men's 61kg,12,MAPEO_PENDIENTE,,,NO
+Weightlifting,Men's 73kg,12,MAPEO_PENDIENTE,,,NO
+Weightlifting,Men's 89kg,12,MAPEO_PENDIENTE,,,NO
+Weightlifting,Women's +81kg,12,MAPEO_PENDIENTE,,,NO
+Weightlifting,Women's 49kg,12,MAPEO_PENDIENTE,,,NO
+Weightlifting,Women's 59kg,12,MAPEO_PENDIENTE,,,NO
+Weightlifting,Women's 71kg,12,MAPEO_PENDIENTE,,,NO
+Weightlifting,Women's 81kg,13,MAPEO_PENDIENTE,,,NO
+Wrestling,Men's Freestyle 125kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Men's Freestyle 57kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Men's Freestyle 65kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Men's Freestyle 74kg,18,MAPEO_PENDIENTE,,,NO
+Wrestling,Men's Freestyle 86kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Men's Freestyle 97kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Men's Greco-Roman 130kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Men's Greco-Roman 60kg,17,MAPEO_PENDIENTE,,,NO
+Wrestling,Men's Greco-Roman 67kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Men's Greco-Roman 77kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Men's Greco-Roman 87kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Men's Greco-Roman 97kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Women's Freestyle 50kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Women's Freestyle 53kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Women's Freestyle 57kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Women's Freestyle 62kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Women's Freestyle 68kg,16,MAPEO_PENDIENTE,,,NO
+Wrestling,Women's Freestyle 76kg,16,MAPEO_PENDIENTE,,,NO

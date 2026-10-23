@@ -1,0 +1,341 @@
+{
+  "lote_original": 709,
+  "individuales_preparadas": 657,
+  "revisar": 52,
+  "clasificacion": {
+    "INDIVIDUAL": 657,
+    "REVISION_EQUIPO": 52
+  },
+  "por_deporte": {
+    "Rowing": 22,
+    "Artistic Gymnastics": 43,
+    "Modern Pentathlon": 18,
+    "Archery": 26,
+    "Shooting": 37,
+    "Athletics": 207,
+    "Table Tennis": 52,
+    "Badminton": 19,
+    "Fencing": 60,
+    "Tennis": 41,
+    "Cycling Track": 65,
+    "Cycling Road": 14,
+    "Cycling Mountain Bike": 21,
+    "Skateboarding": 27,
+    "Cycling BMX Freestyle": 5
+  },
+  "pendientes": [
+    {
+      "stagingId": "paris2024:238038",
+      "deporte": "Rowing",
+      "evento": "Lightweight Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:238055",
+      "deporte": "Rowing",
+      "evento": "Lightweight Men's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:238158",
+      "deporte": "Rowing",
+      "evento": "Lightweight Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:238395",
+      "deporte": "Sailing",
+      "evento": "Men's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:238396",
+      "deporte": "Sailing",
+      "evento": "Men's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:238523",
+      "deporte": "Rowing",
+      "evento": "Lightweight Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:238646",
+      "deporte": "Rowing",
+      "evento": "Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:239317",
+      "deporte": "Rowing",
+      "evento": "Lightweight Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:239324",
+      "deporte": "Rowing",
+      "evento": "Men's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:239326",
+      "deporte": "Rowing",
+      "evento": "Men's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:239327",
+      "deporte": "Rowing",
+      "evento": "Lightweight Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:239330",
+      "deporte": "Rowing",
+      "evento": "Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:239333",
+      "deporte": "Rowing",
+      "evento": "Lightweight Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:240073",
+      "deporte": "Sailing",
+      "evento": "Men's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:240077",
+      "deporte": "Sailing",
+      "evento": "Men's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:240863",
+      "deporte": "Rowing",
+      "evento": "Men's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:240871",
+      "deporte": "Rowing",
+      "evento": "Men's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:241490",
+      "deporte": "Rowing",
+      "evento": "Lightweight Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:241660",
+      "deporte": "Rowing",
+      "evento": "Lightweight Men's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:241661",
+      "deporte": "Rowing",
+      "evento": "Lightweight Men's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:241791",
+      "deporte": "Rowing",
+      "evento": "Lightweight Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:242462",
+      "deporte": "Rowing",
+      "evento": "Lightweight Men's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:242840",
+      "deporte": "Sailing",
+      "evento": "Women's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:243166",
+      "deporte": "Sailing",
+      "evento": "Men's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:243167",
+      "deporte": "Sailing",
+      "evento": "Men's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:243334",
+      "deporte": "Sailing",
+      "evento": "Women's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:243336",
+      "deporte": "Sailing",
+      "evento": "Men's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:243337",
+      "deporte": "Sailing",
+      "evento": "Women's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:244150",
+      "deporte": "Rowing",
+      "evento": "Lightweight Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:245010",
+      "deporte": "Sailing",
+      "evento": "Women's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:245011",
+      "deporte": "Sailing",
+      "evento": "Women's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:246094",
+      "deporte": "Rowing",
+      "evento": "Men's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:246097",
+      "deporte": "Rowing",
+      "evento": "Men's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:246602",
+      "deporte": "Sailing",
+      "evento": "Women's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:246831",
+      "deporte": "Rowing",
+      "evento": "Lightweight Men's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:248001",
+      "deporte": "Rowing",
+      "evento": "Men's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:248002",
+      "deporte": "Rowing",
+      "evento": "Lightweight Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:248037",
+      "deporte": "Rowing",
+      "evento": "Lightweight Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:248275",
+      "deporte": "Rowing",
+      "evento": "Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:248285",
+      "deporte": "Rowing",
+      "evento": "Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:248391",
+      "deporte": "Sailing",
+      "evento": "Women's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:248904",
+      "deporte": "Sailing",
+      "evento": "Women's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:248905",
+      "deporte": "Sailing",
+      "evento": "Women's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:249775",
+      "deporte": "Rowing",
+      "evento": "Men's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:249924",
+      "deporte": "Sailing",
+      "evento": "Women's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:249929",
+      "deporte": "Sailing",
+      "evento": "Women's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:250076",
+      "deporte": "Sailing",
+      "evento": "Men's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:250176",
+      "deporte": "Sailing",
+      "evento": "Women's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:250561",
+      "deporte": "Rowing",
+      "evento": "Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:250905",
+      "deporte": "Rowing",
+      "evento": "Lightweight Women's Double Sculls",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:251229",
+      "deporte": "Sailing",
+      "evento": "Men's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    },
+    {
+      "stagingId": "paris2024:252022",
+      "deporte": "Sailing",
+      "evento": "Men's Skiff",
+      "motivo": "REVISION_EQUIPO"
+    }
+  ],
+  "mongo_modificado": false
+}

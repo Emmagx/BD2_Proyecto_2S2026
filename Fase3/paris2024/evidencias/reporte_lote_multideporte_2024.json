@@ -1,0 +1,35 @@
+{
+  "filas_fuente": 14892,
+  "resultados_2024_actuales": 115,
+  "preparados": 709,
+  "clasificacion": {
+    "EVENTO_NO_UNICO": 5470,
+    "EVENTO_EQUIPO": 6139,
+    "ATLETA_NO_UNICO": 1975,
+    "PREPARADO": 709,
+    "DEPORTE_NO_UNICO": 358,
+    "YA_INTEGRADO": 108,
+    "NOC_DESCONOCIDO": 46,
+    "MEDALLA_PENDIENTE": 85,
+    "IDENTIDAD_COMPARTIDA": 2
+  },
+  "deportes_preparados": {
+    "Rowing": 52,
+    "Artistic Gymnastics": 43,
+    "Modern Pentathlon": 18,
+    "Archery": 26,
+    "Shooting": 37,
+    "Athletics": 207,
+    "Table Tennis": 52,
+    "Badminton": 19,
+    "Fencing": 60,
+    "Tennis": 41,
+    "Sailing": 22,
+    "Cycling Track": 65,
+    "Cycling Road": 14,
+    "Cycling Mountain Bike": 21,
+    "Skateboarding": 27,
+    "Cycling BMX Freestyle": 5
+  },
+  "mongo_modificado": false
+}

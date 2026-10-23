@@ -1,0 +1,17 @@
+﻿player_id_2024,nombre_2024,noc,evento_2024,medalla,id_historico_candidato,estado_identidad,identidad_confirmada,evento_confirmado,posicion_confirmada,decision_manual,fuente_verificacion,candidato_1_id,candidato_1_nombre,candidato_1_similitud,otros_candidatos,estado_verificacion
+1975874,Edriel Yulo,PHI,Men's Floor Exercise,ORO,,SIN_CANDIDATO_CONSOLIDADO,NO,NO,NO,PENDIENTE,,145888,Carlos Yulo,0.636,,PENDIENTE
+1908195,Artem Dolgopyat,ISR,Men's Floor Exercise,PLATA,,SIN_CANDIDATO_CONSOLIDADO,NO,NO,NO,PENDIENTE,,,,,,PENDIENTE
+1904741,Jake Jarman,GBR,Men's Floor Exercise,BRONCE,,SIN_CANDIDATO_CONSOLIDADO,NO,NO,NO,PENDIENTE,,30132,James May,0.6,91321: Kelly Hackman (0.583) | 28424: Joan Airey (0.571),PENDIENTE
+1919480,Shinnosuke Oka,JPN,Men's Horizontal Bar,ORO,,SIN_CANDIDATO_CONSOLIDADO,NO,NO,NO,PENDIENTE,,30614,Dokan Sone,0.583,28778: Hiroshi Nosaka (0.571) | 30606: Shinji Morisue (0.571),PENDIENTE
+1935685,Angel Barajas,COL,Men's Horizontal Bar,PLATA,,SIN_CANDIDATO_CONSOLIDADO,NO,NO,NO,PENDIENTE,,,,,,PENDIENTE
+1878037,Chia-hung Tang,TPE,Men's Horizontal Bar,BRONCE,,REVISAR_VARIANTE,NO,NO,NO,PENDIENTE,,146858,Tang Chia-Hung,1.0,146859: Hung Yuan-Hsi (0.741) | 146857: Shiao Yu-Jan (0.615),PENDIENTE
+1918864,Boheng Zhang,CHN,Men's Horizontal Bar,BRONCE,,SIN_CANDIDATO_CONSOLIDADO,NO,NO,NO,PENDIENTE,,122116,Zhang Chenglong,0.741,29570: Wang Chongsheng (0.667) | 107156: Zhang Nan (0.667),PENDIENTE
+1918856,Yang Liu,CHN,Men's Rings,ORO,,SIN_CANDIDATO_CONSOLIDADO,NO,NO,NO,PENDIENTE,,133182,Liu Yang,1.0,28250: Li Yifang (0.824) | 117646: Yang Yilin (0.778),PENDIENTE
+1918865,Jingyuan Zou,CHN,Men's Rings,PLATA,,REVISAR_VARIANTE,NO,NO,NO,PENDIENTE,,141859,Zou Jingyuan,1.0,28269: Zhou Ping (0.667) | 117644: Jiang Yuyuan (0.667),PENDIENTE
+1961314,Eleftherios Petrounias,GRE,Men's Rings,BRONCE,,REVISAR_VARIANTE,NO,NO,NO,PENDIENTE,,134270,Lefteris Petrounias,0.927,30342: Petros Persakis (0.595) | 30338: Dimitrios Loundras (0.550),PENDIENTE
+1551061,Alice D'amato,ITA,Women's Balance Beam,ORO,144053,PRIORIDAD_ALTA,NO,NO,NO,PENDIENTE,,144053,Alice D'Amato,1.0,144054: Asia D'Amato (0.800) | 91500: Alice Capitani (0.593),PENDIENTE
+1918881,Yaqin Zhou,CHN,Women's Balance Beam,PLATA,,SIN_CANDIDATO_CONSOLIDADO,NO,NO,NO,PENDIENTE,,28269,Zhou Ping,0.737,111922: Zou Kai (0.706) | 28270: Zhou Qiurui (0.667),PENDIENTE
+1560762,Manila Esposito,ITA,Women's Balance Beam,BRONCE,,SIN_CANDIDATO_CONSOLIDADO,NO,NO,NO,PENDIENTE,,28742,Valentina Spongia,0.562,28748: Carmela Toso (0.519) | 30538: Decio Pavani (0.519),PENDIENTE
+1953634,Rebeca Andrade,BRA,Women's Floor Exercise,ORO,129288,PRIORIDAD_ALTA,NO,NO,NO,PENDIENTE,,129288,Rebeca Andrade,1.0,,PENDIENTE
+1959861,Simone Biles,USA,Women's Floor Exercise,PLATA,132107,PRIORIDAD_ALTA,NO,NO,NO,PENDIENTE,,132107,Simone Biles,1.0,31438: Kip Simons (0.636) | 29285: Anita Simonis (0.560),PENDIENTE
+1550170,Ana Barbosu,ROU,Women's Floor Exercise,BRONCE,,SIN_CANDIDATO_CONSOLIDADO,NO,NO,NO,PENDIENTE,,107142,Monica Roșu,0.636,107139: Oana Ban (0.632) | 91545: Andreea Isărescu (0.593),PENDIENTE

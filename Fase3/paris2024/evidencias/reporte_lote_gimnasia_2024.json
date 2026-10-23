@@ -1,0 +1,22 @@
+{
+  "fase": "Preparacion gimnasio Paris 2024",
+  "participaciones": 410,
+  "atletas_fuente": 178,
+  "eventos": {
+    "Women's Balance Beam": 90,
+    "Women's Floor Exercise": 88,
+    "Men's Floor Exercise": 76,
+    "Men's Horizontal Bar": 80,
+    "Men's Rings": 76
+  },
+  "estados_identidad_por_participacion": {
+    "SIN_CANDIDATO_CONSOLIDADO": 260,
+    "PRIORIDAD_ALTA": 107,
+    "BLOQUEADO": 10,
+    "REVISAR_VARIANTE": 22,
+    "REVISION_MANUAL_OBLIGATORIA": 9,
+    "REVISAR_IDENTIDAD_DOCUMENTADA": 2
+  },
+  "registros_aptos_insercion": 0,
+  "mongo_modificado": false
+}

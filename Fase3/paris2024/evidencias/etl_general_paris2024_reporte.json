@@ -1,0 +1,27 @@
+{
+  "fuente": 14892,
+  "resultados_2024_actuales": 2470,
+  "nuevos_resultados_propuestos": 1611,
+  "nuevos_perfiles_provisionales": 1038,
+  "atletas_existentes_impactados": 384,
+  "paises_afectados": 199,
+  "clasificacion": {
+    "MEDALLA_PENDIENTE_VERIFICACION": 2281,
+    "EVENTO_SIN_MAPEO_UNICO": 2582,
+    "PRUEBA_COLECTIVA_O_MODALIDAD_PENDIENTE": 5658,
+    "PREPARADO": 1611,
+    "POTENCIAL_HOMONIMO_HISTORICO": 45,
+    "YA_INTEGRADO_STAGING": 2355,
+    "DEPORTE_SIN_MAPEO_UNICO": 211,
+    "YA_INTEGRADO_EVENTO_ATLETA": 104,
+    "NOC_SIN_PAIS": 40,
+    "IDENTIDAD_HISTORICA_AMBIGUA": 3,
+    "IDENTIDAD_COMPARTIDA": 2
+  },
+  "deportes_preparados": {
+    "Athletics": 643,
+    "Swimming": 784,
+    "Shooting": 184
+  },
+  "modo": "APLICAR"
+}
